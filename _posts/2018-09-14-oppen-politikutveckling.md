@@ -20,13 +20,13 @@ att koppla an tidigare tankar till ett mer konkret ramverk. Så
 tack för det.
 
 
-# Fördelar med en öppen process
+## Fördelar med en öppen process
 
 Som jag ser det har en mer öppen process för politikutveckling
 både samhälleliga fördelar och fördelar för de politiska
 organisationer som väljer att tillämpa dem.
 
-## Samhälleliga fördelar
+### Samhälleliga fördelar
 
 De samhälleliga fördelarna är främst två. Den första handlar om
 stärkt demokrati. Det är få personer som idag är engagerade i ett
@@ -44,7 +44,7 @@ lösningar som är efterfrågade göras. På så sätt stärks relevansen
 hos den politik som bedrivs och de åtgärder som genomförs får i
 högre utsträckning önskad effekt.
 
-## Fördelar för organisationen
+### Fördelar för organisationen
 
 Förutom de positiva samhälleliga effekter som nämnts ovan borde
 en mer öppen politikutvecklingsprocess även ge fördelar till de
@@ -71,14 +71,14 @@ politiska organisationerna. Några möjliga fördelar är:
   organisation, partiets politik och partiets företrädare.
 
 
-# Tillvägagångssätt
+## Tillvägagångssätt
 
 Huŕ skulle en mer öppen politikutvecklingsprocess kunna se ut i
 praktiken? Nedan följer ett förslag på en sådan process som är
 indelad i fyra faser: 1) planering, 2) genomförande, 3)
 efterarbete och åtekoppling och 4) utvärdering.
 
-## Planering
+### Planering
 
 Planeringsfasen kan brytas ned i tre steg: 1) identifiera en relevant
 frågeställning, 2) identifiera relevanta personer, föreningar,
@@ -119,13 +119,13 @@ specifika personer eller på något annat sätt. Hur eventuella
 möten ska gå till, vem som ansvarar för vad och hur inputen ska
 sammanställas och bearbetas bör också planeras.
 
-## Genomförande
+### Genomförande
 
 I detta steg ska den planerade processen genomföras och åsikter
 och idéer samlas in. Värdet av att aktivt värva medlemmar under
 detta skede bör inte underskattas.
 
-## Efterarbete och återkoppling
+### Efterarbete och återkoppling
 
 Efter att åsikter, tankar och idéer har samlats in behöver de
 bearbetas. Idéer som inte känns relevanta, effektiva eller som
@@ -143,14 +143,14 @@ processen. Detta för att uppmuntra transparens och bygga
 förtroende. Det kan även bli en grund för vidare diskussion och
 samtal.
 
-## Utvärdering
+### Utvärdering
 
 Efter processen är avslutad bör en utvärdering göras för att
 uppmuntra lärande och utveckla tänkandet inför nästa
 politikutvecklingsprocess.
 
 
-# Avslutande ord
+## Avslutande ord
 
 Det borde inte främst vara partiernas roll att komma på lösningar
 på de olika samhälleliga problem vi står inför. Lösningarna
