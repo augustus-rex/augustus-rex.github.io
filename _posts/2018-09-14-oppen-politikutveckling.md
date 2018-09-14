@@ -20,7 +20,7 @@ att koppla an tidigare tankar till ett mer konkret ramverk. Så
 tack för det.
 
 
-# Fördelar med en mer öppen politikutvecklingsprocess
+# Fördelar med en öppen process
 
 Som jag ser det har en mer öppen process för politikutveckling
 både samhälleliga fördelar och fördelar för de politiska
