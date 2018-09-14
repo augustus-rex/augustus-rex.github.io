@@ -3,7 +3,7 @@ layout: post
 title: Tre insikter om livet och döden och förhållandet dem emellan
 ---
 
-# 1 - Att erkänna dödens betydelse är att vörda livet
+## 1 - Att erkänna dödens betydelse är att vörda livet
 
 Det som ger döden dess betydelse, dess tyngd, är livets värde.
 Hade livet saknat värde hade döden, som ett slut på livet, saknat
@@ -13,7 +13,7 @@ förnekande av dödens betydelse är också ett förnekande av livets
 värde. 
 
 
-# 2 - Döden har två skepnader; avslutets och förnyelsens
+## 2 - Döden har två skepnader; avslutets och förnyelsens
 
 Min erfarenhet är att vi oftast förstår och talar om döden som
 ett avslut. Det är också i denna skepnad som döden möter oss i
@@ -43,7 +43,7 @@ vidare perspektiv är döden aldrig endast ett avslut, utan alltid
 också en begynnelse. 
 
 
-# 3 - För att fullt ut älska livet måste du också älska döden (eller: Livet och Döden är samma person)
+## 3 - För att fullt ut älska livet måste du också älska döden (eller: Livet och Döden är samma person)
 
 Om man möter döden i dess skepnad som förnyare och livgivare blir
 det uppenbart hur intimt förknippade livet och döden är. Hade
