@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jag är Agge och detta är mitt alldeles egna hörn av cyberrymden.
+Här kommer jag lägga upp funderingar och reflektioner kring ämnen
+som intresserar mig, till min egen och förhoppningsvis andras
+förnöjelse!
 
-### More Information
+### Kontakt
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email: [august.lindberg@hotmail.com](mailto:august.lindberg@hotmail.com)
