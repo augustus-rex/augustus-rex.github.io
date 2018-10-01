@@ -3,10 +3,10 @@ layout: post
 title: Enkla lösningar
 ---
 
-Världen är inte enkel, så jag förkastar era enkla lösningar.
-Världen är inte tydlig, så jag har tröttnat på era tydliga besked.
-Världen är inte entydig, så jag vill våga vara mångtydig. 
-Världen är inte rak, så jag vill tillåtas vara krokig.
+Världen är inte enkel, så jag förkastar era enkla lösningar.  
+Världen är inte tydlig, så jag har tröttnat på era tydliga besked.  
+Världen är inte entydig, så jag vill våga vara mångtydig.  
+Världen är inte rak, så jag vill tillåtas vara krokig.  
 
 Varför ska det vara en svaghet att säga att man inte vet? Att
 avstå från de färdigpacketerade universallösningarna. Att avstå
