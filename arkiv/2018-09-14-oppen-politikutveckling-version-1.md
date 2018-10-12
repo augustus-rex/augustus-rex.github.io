@@ -64,19 +64,16 @@ politiska organisationerna. Några möjliga fördelar är:
   exempelvis vara personer som har ett bra kontkatnät eller
   innehar en värdefull maktposition eller plattform för
   opinionsbildning. Stärkt relation till dessa personer kan ge
-  möjligheter att åstadkomma förändring eller vinna röster. 
+  möjligheter att åstadkomma förändring eller vinna röster.
 * Stärkt förtroende. Genom att ge människor en möjlighet att
   påverka partiets politik och att göra det i en öppen och
-  transparent process stärks förtroendet för partiet som
-  organisation, partiets politik och partiets företrädare. Är
-  urvalet i vilka som tillåts påverka allt för snävt finns dock
-  en potentiell risk för minskat förtroende bland dem som inte
-  tillåts delta.
+  transparens process stärks förtroendet för partiet som
+  organisation, partiets politik och partiets företrädare.
 
 
 ## Tillvägagångssätt
 
-Hur skulle en mer öppen politikutvecklingsprocess kunna se ut i
+Huŕ skulle en mer öppen politikutvecklingsprocess kunna se ut i
 praktiken? Nedan följer ett förslag på en sådan process som är
 indelad i fyra faser: 1) planering, 2) genomförande, 3)
 efterarbete och åtekoppling och 4) utvärdering.
@@ -112,8 +109,7 @@ personer. Det finns ett antal olika aspekter att ta ställning
 till i detta steg. Vilkas intressen vill vi representera? Vilka
 organisationer och personer vill vi bygga en starkare relation
 till? Vilka är våra potentiella väljare och medlemmar? Vilka har
-bäst insyn i situationen? Vilka röster och åsikter är
-underrepresenterade i diskussionen? Med mera.
+bäst insyn i situationen? Med mera.
 
 Till sist behöver det praktiska genomförandet planeras och
 förberedas. Det behöver bestämmas om genomförandet ska ske genom
@@ -156,12 +152,12 @@ politikutvecklingsprocess.
 
 ## Avslutande ord
 
-De politiska partierna kan inte ensamma komma på alla lösningar på de
-samhälleliga problem vi står inför. Lösningarna genereras ofta
-bättre av andra. Men partierna fyller en viktig roll i att
-fånga upp andras lösningar, sätta in dem i en större kontext och
-att skapa genomförbar politik utifrån dem. Den rätt grova metod
-jag skissat upp här är ett förslag till hur detta skulle kunna
-uppnås. Det är som sagt ett ganska grovt och outvecklat förslag,
-men förhoppningen är att det ska fungera som en utgångspunkt som
-kan förfinas och uppdateras allt eftersom.
+Det borde inte främst vara partiernas roll att komma på lösningar
+på de olika samhälleliga problem vi står inför. Lösningarna
+genereras bättre av andra. Däremot fyller partierna en viktig
+roll i att fånga upp andras lösningar, sätta in dem i en större
+kontext och att forma genomförbar politik utifrån dem. Den rätt
+grova metod jag skissat upp här är ett förslag till hur detta
+skulle kunna uppnås. Det är som sagt ett ganska grovt och
+outvecklat förslag, men förhoppningen är att det ska fungera som
+en utgångspunkt som kan förfinas och uppdateras allt eftersom.
