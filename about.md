@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om mig
+permalink: /ommig/
 ---
 
 Jag är Agge och detta är mitt alldeles egna hörn av cyberrymden.
