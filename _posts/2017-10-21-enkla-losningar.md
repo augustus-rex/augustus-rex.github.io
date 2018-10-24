@@ -10,12 +10,13 @@ Världen är inte rak, så jag vill tillåtas vara krokig.
 
 Varför ska det vara en svaghet att säga att man inte vet? Att
 avstå från de färdigpacketerade universallösningarna. Att avstå
-från att skrika "det är
-kapitalisternas/invandrarnas/etablissemangets fel!" Varför ska
-det vara en svaghet att vara öppen för komplexitet? Att vägra
-låtsas att det krokiga är rakt och att gråskalan går i svartvitt?
-Att försöka se det enskilda istället för att säga "man vet ju hur
-de är, de där tiggarna..."
+från att skrika "det är kapitalisternas, invandrarnas,
+etablissemangets fel!" 
+
+Varför ska det vara en svaghet att vara öppen för komplexitet?
+Att vägra låtsas att det krokiga är rakt och att gråskalan går i
+svartvitt? Att försöka se det enskilda istället för att säga "man
+vet ju hur de är, de där tiggarna..."
 
 Nej, jag klarar mig utan era enkla lösningar och quick fixes, era
 raka besked och tydliga sanningar. Ge mig istället osäkerhet. Ge
