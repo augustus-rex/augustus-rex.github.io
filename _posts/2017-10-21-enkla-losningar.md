@@ -15,13 +15,13 @@ etablissemangets fel!"
 
 Varför ska det vara en svaghet att vara öppen för komplexitet?
 Att vägra låtsas att det krokiga är rakt och att gråskalan går i
-svartvitt? Att försöka se det enskilda istället för att säga "man
+svartvitt? Att försöka se det enskilda istället för att säga: "man
 vet ju hur de är, de där tiggarna..."
 
 Nej, jag klarar mig utan era enkla lösningar och quick fixes, era
 raka besked och tydliga sanningar. Ge mig istället osäkerhet. Ge
 mig ambivalens och motsägelser. Men ge mig också mod att handla.
-Mod att säga "Jag vet inte om detta är det bästa, men låt oss
+Mod att säga: "jag vet inte om detta är det bästa, men låt oss
 testa."
 <br><br>
 
