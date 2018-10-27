@@ -14,8 +14,7 @@ möjliggörs vårens liv och grönska.
 
 I Dan Anderssons dikt *Benkvarnen* fann jag nyligen en mer
 konkret bild av döden som förnyare. Nämligen döden som mjölnare.
-  
-  
+<br><br>
 **Benkvarnen** - Dan Andersson
 
 Det står ett gammalt ruckel vid Hattmomarjaån  
@@ -58,8 +57,15 @@ och dammet bolmar skyhögt i porten,
 och mjölnaren säger att benkvarnens sång,  
 är den gladaste som sjungits på orten.  
   
-![Autumn Glory: The Old Mill](/images/autumn-glory-the-old-mill.jpg)
-*Autumn Glory: The Old Mill (1869) av John Atkinson Grimshaw*
+<figure>
+	<img src="/images/autumn-glory-the-old-mill.jpg"
+	style="width:100%">
+
+	<figcaption>
+		Autumn Glory: The Old Mill (1869) av John Atkinson 
+		Grimshaw
+	</figcaption>
+</figure>
   
 Tidigare var det vanligt att bönder malde ben från boskap som
 dött. Ben är rikt på bland annat fosfor och kväve och genom att
