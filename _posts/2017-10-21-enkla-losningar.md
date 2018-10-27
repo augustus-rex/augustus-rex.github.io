@@ -23,10 +23,9 @@ raka besked och tydliga sanningar. Ge mig istället osäkerhet. Ge
 mig ambivalens och motsägelser. Men ge mig också mod att handla.
 Mod att säga: "jag vet inte om detta är det bästa, men låt oss
 testa."
-<br><br>
 
 ---
 *Gillar du det jag skriver? [Klicka här][1] för att få mail om
 nya inlägg.*
 
-[1]: http://eepurl.com/dKMp0w
+[1]: http://eepurl.com/dKMp0w	"Mailformulär"

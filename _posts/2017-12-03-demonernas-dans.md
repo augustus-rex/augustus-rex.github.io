@@ -32,10 +32,9 @@ bestens päls och ta på dess huggtänder. Gör demonerna till mina
 vänner. Ni är alla en del av mig, och utan er kan jag aldrig bli
 hel. Godta min invit, fatta min hand, och kom och dansa mig
 hel.
-<br><br>
 
 ---
 *Vill du få mail om nya inlägg på bloggen? Då kan du [klicka
 här][1].*
 
-[1]: http://eepurl.com/dKMp0w
+[1]: http://eepurl.com/dKMp0w	"Mailformulär"
