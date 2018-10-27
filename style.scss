@@ -32,10 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $sourceSerifProBold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+  line-height: 1.5;
 
   @include mobile {
     line-height: 1.4;
@@ -50,16 +47,13 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 130%;
+  margin-top: 2.25em;
 }
 
 h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: $gray;
+  font-size: 110%;
+  margin-top: 1.75em;
 }
 
 p {
