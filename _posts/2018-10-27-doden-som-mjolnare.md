@@ -63,8 +63,9 @@ och mjölnaren säger att benkvarnens sång,
   
 Tidigare var det vanligt att bönder malde ben från boskap som
 dött. Ben är rikt på bland annat fosfor och kväve och genom att
-mala ben framställdes benmjöl, ett effektivt gödningsmedel. Det
-är denna process som beskrivs i dikten. Hur det döda mals ner
+mala ben framställdes benmjöl, ett effektivt gödningsmedel. 
+
+Det är denna process som beskrivs i dikten. Hur det döda mals ner
 till "snövita, stoftfina kroppar" att strö på åkern, för att där
 bli en källa till nytt liv. Eller som Dan skriver:
 
@@ -90,20 +91,22 @@ Bilden av döden som någon som inser det storslagna i sin uppgift
 och därför utför den med glädje lockar mig. Att döden är tung och
 svår att bära när den möter oss i våra egna liv är ingen
 hemlighet. Vi möter ofta döden som ett avslut. Döden som
-förvägrar oss någon eller något vi håller kärt. Men kanske kan en
-annan bild av döden vara till hjälp i dessa stunder. En bild av
-döden som nöjd sitter vid sin kvarn och lyssnar till stenarnas
-sång. Döden som tar vara på det döda, upphöjer det döda, ringer
-in till en ärofull begravning och gör det döda till en källa för
-nytt liv. 
+förvägrar oss någon eller något vi håller kärt. 
+
+Kanske kan en annan bild av döden vara till hjälp i dessa
+stunder. En bild av döden som nöjd sitter vid sin kvarn och
+lyssnar till stenarnas sång. Döden som tar vara på det döda,
+upphöjer det döda, ringer in till en ärofull begravning och gör
+det döda till en källa för nytt liv. 
 
 Att möta döden i förnyelsens skepnad, att möta döden som
 mjölnare, upphäver inte tyngden hos döden som ett avslut. För
 döden är ett avslut. Och det avslutet är ofta tungt. Men genom
 att inse att döden inte endast är ett avslut, utan också en
-begynnelse, kan tyngden kanske bli något lättare att bära. Genom
-att möta döden vid sin kvarn, där han nöjt förrättar sitt värv
-medveten om det vackra och storslagna i sin uppgift, är det
+begynnelse, kan tyngden kanske bli något lättare att bära. 
+
+Genom att möta döden vid sin kvarn, där han nöjt förrättar sitt
+värv medveten om det vackra och storslagna i sin uppgift, är det
 kanske möjligt att själv få en skymt detta vackra och storslagna.
 Genom att möta döden vid sin kvarn, och tillsammans med döden
 lyssna till kvarnstenarnas sång, är det kanske möjligt att själv
