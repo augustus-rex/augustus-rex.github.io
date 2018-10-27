@@ -113,7 +113,7 @@ lyssna till kvarnstenarnas sång, är det kanske möjligt att själv
 få en skymt av den glädje de sjunger om.
 
 - - -
-*Tack för att du läser mina texter. [Klicka här][2] för att få mail om
+*Uppskattar du mina texter? [Klicka här][2] för att få mail om
 nya inlägg.*
 
 [2]: http://eepurl.com/dKMp0w	"Mailformulär"
