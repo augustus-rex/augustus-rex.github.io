@@ -19,8 +19,12 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $charter;
+  font: 19.5px/1.4 $helvetica;
   color: $darkerGray;
+
+  @include mobile {
+    font: 18px/1.4 $charter;
+  }
 }
 
 .container {
@@ -205,8 +209,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $sourceSerifPro;
-  font-size: 19px;
+  font-family: $charter;
+  font-size: 19.5px;
 
   @include mobile {
     float: none;
