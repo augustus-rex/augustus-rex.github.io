@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: $white;
+  font: 19px/1.4 $sourceSerifPro;
+  color: $darkerGray;
 }
 
 .container {
@@ -31,9 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+  font-family: $sourceSerifProBold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -108,7 +106,6 @@ strong, b {
 
 img {
   max-width: 100%;
-  //margin-top: 2em;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -195,7 +192,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $sourceSerifProBold;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -203,8 +200,8 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+  color: $darkGray;
+  font-size: 17px;
 
   @include mobile {
     margin: 3px 0;
@@ -214,8 +211,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: $sourceSerifPro;
+  font-size: 19px;
 
   @include mobile {
     float: none;

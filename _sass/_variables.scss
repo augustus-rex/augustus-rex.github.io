@@ -11,13 +11,32 @@ $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
+$lightGray: #999;
 $white: #fff;
 
 // Font stacks
+
+@font-face {
+  font-family: "sourceSerifPro";
+  src: url("/fonts/sourceserifpro-regular.woff") format("woff");
+  }
+
+@font-face {
+  font-family: "sourceSerifProBold";
+  src: url("/fonts/sourceserifpro-bold.woff") format("woff");
+  }
+
+@font-face {
+  font-family: "sourceSerifProItalic";
+  src: url("/fonts/sourceserifpro-italic.woff") format("woff");
+  }
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$sourceSerifPro: sourceSerifPro, Georgia, serif;
+$sourceSerifProBold: sourceSerifProBold, Georgia, serif;
+$sourceSerifProItalic: sourceSerifProItalic;
 
 // Mobile breakpoints
 @mixin mobile {
