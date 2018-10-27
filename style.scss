@@ -252,9 +252,9 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.5em 1em;
-    border-left: 1px solid;
-    padding: 0em 1em;
+    margin: 1.5em 2.5em;
+	font-size: 18.5px;
+	line-height: 1.35;
   }
 
   .comments {
@@ -266,14 +266,14 @@ nav {
     font-size: 15px;
   }
 
-  img {
-	  margin-top: 2em;
-  }
-
-  img + em { 
-    display: block; 
-    text-align: center;
+  figure {
+	margin-top: 2.1em;
 	margin-bottom: 2em;
+	}
+
+  figcaption {
+	text-align: center;
+	font-size: 90%;
   }
 
   hr {
