@@ -4,7 +4,7 @@ title: Döden som mjölnare
 ---
 
 I en [tidigare text][1] har jag skrivit om dödens två huvudsakliga
-skepnader, avslutets och förnyelsens. I avslutets skepnad möter
+skepnader; avslutets och förnyelsens. I avslutets skepnad möter
 oss döden som ett slut och en brist på liv. Där livet slutar tar
 döden vid. Men i förnyelsens skepnad möter oss döden istället som
 en förutsättning för nytt liv. Genom höstens död och förmultnelse
@@ -58,14 +58,15 @@ och dammet bolmar skyhögt i porten,
 och mjölnaren säger att benkvarnens sång,  
 är den gladaste som sjungits på orten.  
   
+![Autumn Glory: The Old Mill](/images/autumn-glory-the-old-mill.jpg)
+*Autumn Glory: The Old Mill (1869) av John Atkinson Grimshaw*
   
 Tidigare var det vanligt att bönder malde ben från boskap som
-dött. Ben är rikt på bland annat fosfor och kväve och genom
-malandet av ben framställdes benmjöl, ett effektivt
-gödslingsmedel. Det är denna process som beskrivs i dikten. Hur
-det döda mals ner till "snövita, stoftfina kroppar" att ha på
-åkern, för att där bli en källa till nytt liv. Eller som Dan
-skriver:
+dött. Ben är rikt på bland annat fosfor och kväve och genom att
+mala ben framställdes benmjöl, ett effektivt gödningsmedel. Det
+är denna process som beskrivs i dikten. Hur det döda mals ner
+till "snövita, stoftfina kroppar" att strö på åkern, för att där
+bli en källa till nytt liv. Eller som Dan skriver:
 
 > Det som dog för en vecka sen och maldes igår,  
 > kanske gungar det till nästårs i säden?
@@ -107,3 +108,9 @@ kanske möjligt att själv få en skymt detta vackra och storslagna.
 Genom att möta döden vid sin kvarn, och tillsammans med döden
 lyssna till kvarnstenarnas sång, är det kanske möjligt att själv
 få en skymt av den glädje de sjunger om.
+
+- - -
+*Tack för att du läser mina texter. [Klicka här][2] för att få mail om
+nya inlägg.*
+
+[2]: http://eepurl.com/dKMp0w	"Mailformulär"
