@@ -12,6 +12,7 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #999;
+$lighterGray: #eee;
 $white: #fff;
 
 // Font stacks
@@ -31,12 +32,30 @@ $white: #fff;
   src: url("/fonts/sourceserifpro-italic.woff") format("woff");
   }
 
+@font-face {
+  font-family: "charter";
+  src: url("/fonts/charter-regular.woff") format("woff");
+  }
+
+@font-face {
+  font-family: "charterBold";
+  src: url("/fonts/charter-bold.woff") format("woff");
+  }
+
+@font-face {
+  font-family: "charterItalic";
+  src: url("/fonts/charter-italic.woff") format("woff");
+  }
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $sourceSerifPro: sourceSerifPro, Georgia, serif;
 $sourceSerifProBold: sourceSerifProBold, Georgia, serif;
 $sourceSerifProItalic: sourceSerifProItalic;
+$charter: charter;
+$charterBold: charterBold;
+$charterItalic: charterItalic;
 
 // Mobile breakpoints
 @mixin mobile {
