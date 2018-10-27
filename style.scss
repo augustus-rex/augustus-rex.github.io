@@ -108,7 +108,7 @@ strong, b {
 
 img {
   max-width: 100%;
-  margin-top: 2em;
+  //margin-top: 2em;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -269,6 +269,10 @@ nav {
     font-size: 15px;
   }
 
+  img {
+	  margin-top: 2em;
+  }
+
   img + em { 
     display: block; 
     text-align: center;
@@ -276,7 +280,7 @@ nav {
   }
 
   hr {
-	margin-top: 3.5em;
+    margin-top: 3.5em;
   }
 }
 
