@@ -3,18 +3,8 @@ layout: post
 title: Döden som mjölnare
 ---
 
-<figure style="margin-bottom: 1.5em;">
-	<img src="/images/autumn-glory-the-old-mill.jpg"
-	style="width:100%">
-
-	<figcaption>
-		Autumn Glory: The Old Mill (1869) av John Atkinson 
-		Grimshaw
-	</figcaption>
-</figure>
-
 I en [tidigare text][1] har jag skrivit om dödens två huvudsakliga
-skepnader; avslutets och förnyelsens. I avslutets skepnad möter
+skepnader: avslutets och förnyelsens. I avslutets skepnad möter
 oss döden som ett slut och en brist på liv. Där livet slutar tar
 döden vid. Men i förnyelsens skepnad möter oss döden istället som
 en förutsättning för nytt liv. Genom höstens död och förmultnelse
@@ -24,6 +14,7 @@ möjliggörs vårens liv och grönska.
 
 I Dan Anderssons dikt *Benkvarnen* fann jag nyligen en mer
 konkret bild av döden som förnyare. Nämligen döden som mjölnare.
+
 
 <p style="margin-top: 1.75em; font-size: 105%">
  <b>Benkvarnen</b> - Dan Andersson
@@ -64,13 +55,20 @@ Kanske spelar det och viskar i träden?
 Det som dog för en vecka sen och maldes i går,  
 kanske gungar det till nästårs i säden?  
   
-<p style="margin-bottom: 2em">
-Men stenarna gå evigt sin gnisslande gång,<br>
-och dammet bolmar skyhögt i porten,<br>  
-och mjölnaren säger att benkvarnens sång,<br>
-är den gladaste som sjungits på orten.<br>
-</p>
+Men stenarna gå evigt sin gnisslande gång,  
+och dammet bolmar skyhögt i porten,  
+och mjölnaren säger att benkvarnens sång,  
+är den gladaste som sjungits på orten.  
   
+<figure style="margin-bottom: 1.5em; margin-top: 2em;">
+	<img src="/images/autumn-glory-the-old-mill.jpg"
+	style="width:100%">
+
+	<figcaption>
+		Autumn Glory: The Old Mill (1869) av John Atkinson 
+		Grimshaw
+	</figcaption>
+</figure>
   
 Tidigare var det vanligt att bönder malde ben från boskap som
 dött. Ben är rikt på bland annat fosfor och kväve och genom att
