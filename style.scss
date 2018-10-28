@@ -21,6 +21,7 @@ body {
   background: $white;
   font: 19.5px/1.4 $charter;
   color: $darkerGray;
+  hyphens: auto;
 
   @include mobile {
     font: 18px/1.4 $charter;
@@ -62,6 +63,7 @@ h3 {
 
 p {
   margin: 15px 0;
+  hyphens: auto;
 }
 
 a {
