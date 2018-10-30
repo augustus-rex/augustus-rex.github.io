@@ -48,27 +48,34 @@ att fastna i specifika, stelnade bilder av Gud.
 
 Det är ur denna insikt om språkets och vetandets begränsningar
 som den negativa teologin har växt fram. Inom den negativa
-teologin beskrivs Gud endast med icke-egenskaper. Han kan vara
-icke-ond eller icke-god, men inte ond eller god. Guds väsen kan
-beskrivas som icke-vara. Detta på grund av att alla de ord vi
-använder är grundade i vår mänskliga existens, och Guds existens
-är såpass fjärran från denna existens att mänskliga begrepp inte
-kan beskriva honom. Gud är, i biskop Jan Arvid Hellströms ord:
+teologin beskrivs Gud endast med icke-egenskaper. Han kan
+beskrivas som icke-ond eller icke-god, men inte ond eller god.
+Guds väsen kan beskrivas som icke-vara, men inte som att det
+existerar. Detta på grund av att alla de ord vi använder är
+grundade i vår mänskliga existens, och Guds existens är såpass
+fjärran från var att mänskliga begrepp inte kan beskriva honom.
+Gud är, i biskop Jan Arvid Hellströms ord:
 
 > så fjärran från all mänsklig existens, mänskligt tänkande och
 > känsloliv att bara negationer kan ge en föreställning om honom.
 
 Mycket av detta skulle Dionysios instämma i. Enligt Dionysios är
 vi människor alltför fokuserade på det materiella för att på
-allvar kunna förstå det transcendenta. Vi måste använda värdsliga
-bilder för att beskriva det gudomliga---eftersom värdsliga
-bilder är allt vi har tillgång till---men vi riskerar ständigt att
-blanda ihop bild och verklighet. 
+allvar kunna förstå det gudomliga. Vi är nödgade att använda
+värdsliga bilder för att beskriva det gudomliga---eftersom
+värdsliga bilder är allt vi har tillgång till---men vi riskerar
+ständigt att blanda ihop bild och verklighet. 
 
-De beskrivningar av Gud Dionysios finner mest lämpade är därför
+Dionysios konstaterar därför att:
+
+> The way of negations appear to be more suitable to the realm of
+> the divine and ... positive affirmations are always unfitting
+> to the hiddenness of the inexpressible. (s. 150).
+
+De beskrivningar av Gud Dionysios finner lämpligaste är
 beskrivningar såsom: "invisible, infinitie, ungraspable, and
 other things which show not what he is but in fact what he is
-not." (s. 149-150). 
+not" (s. 149-150). 
 
 Men om alla bilder av det gudomliga är otillräckliga, hur ska då
 alla Bibelns bilder av det gudomliga förstås? Dionysios menar att
@@ -78,90 +85,88 @@ sin motsägelsefullhet och orimlighet pekar bortom sig själva.
 Angående de beskrivningar bibeln ger av änglarna säger han:
 
 > We cannot, as mad people do, profanely visualize these heavenly
-> and godlike intelligences as actually having numeros feet an
-> faces. They are not shaped to resemble the brutishenss of oxen
+> and godlike intelligences as actually having numerous feet and
+> faces. They are not shaped to resemble the brutishness of oxen
 > or to display the wildness of lions. They do not have the
 > curved beak of the eagle or the wings and feathers of birds. We
 > must not have pictures of flaming wheels whirling in the skies,
 > of material thrones made ready to provide a reception for the
-> Deity, of multicolored horses, or of spear-carrying leutanats,
+> Deity, of multicolored horses, or of spear-carrying lieutanants,
 > or of any of those shapes handed on to us amid all the variety
-> of the revealing symbols of scripture. (s. 147-148)
+> of the revealing symbols of scripture. (s. 147-148).
 
-Istället ska alla dessa egenskaper som tillskrivs änglarna
-förstås som symboler som pekar bortom dem själva.
+Han fortsätter med att konstatera:
 
 > Indeed the sheer crassness of the signs is a goad so that even
-> the materially incined cannot accept that it could be permitted
-> or true that the celestial and divine sight could be conveyed
-> by such shameful things. (s. 150).
+> the materially inclined cannot accept that it could be
+> permitted or true that the celestial and divine sight could be
+> conveyed by such shameful things. (s. 150).
 
-Hade mer nobla bilder av änglarna använts hade de enklare tagits
-för sanning. FORTSÄTT.
+Hade mer högtstående bilder av änglarna använts hade de enklare
+tagits för sanning. Genom att istället använda absurda och
+motsägelsefulla bilder för det gudomliga uppmanar
+bibelförfattarna läsaren att "get behind the material shown" (s.
+153) och lyfta sig till en högre konceptuell nivå. Något
+Dionysios själv erfarit:
 
-> And I myself might not have been stirred from this difficulty
-> to my current inquiry, to an uplifting through a precise
-> explanation of these sacred truths, had I not been troubled by
-> the deformed imagery used by scripture in regard to the angels.
-> (s. 153).
-
-> Since the way of negations appear to be more suitable to the
-> realm of the divine and since positive affirmatios are always
-> unfitting to the hiddenness of the inexpressible, a
-> manifestation through dissimilar shapes is more correctly to be
-> applied to the invisible. (s. 150)
-
-Se s. 105, 
+> I myself might not have been stirred from this difficulty to my
+> current inquiry, to an uplifting through a precise explanation
+> of these sacred truths, had I not been troubled by the deformed
+> imagery used by scripture in regard to the angels. (s. 153).
 
 
 ## Guds namn
 
-Trots att våra förståelse med nödvändighet är begränsad kan vi
-fortfarande säga något om Gud. Dionysios hävdar att:
+Men om Gud är, som Dionysios hävdar, bortom vår förmåga till
+förståelse och bortom språket, hur kan vi då veta någonting om Guds
+väsen? Hur kan vi säga någonting om Gud överhuvudtaget?
 
-> the things of God is revealed to each mind in proportion to its
-> capacities; and the divine goodnes is such that, out of concern
-> for our salvation, it deals out the immeasureable and infinite in
-> limited measure. (s. 49)
+Gud må vara bortom världen, bortom livet och bortom varandet,
+men han är samtidigt inuti allt, under allt och orsaken till
+allt. Allt som finns till har han skapat, och allting berättar om
+sin skapare.
 
-För även om Gud är bortom vår förmåga till förståelse, bortom
-världen, bortom "the totality of existence", så är han
-fortfarande i allt. Allt har han skapat, och allt berättar om sin
-skapare. 
-
-> And yet, since it is the underpinning of goodness, and by
-> merely being there is the cause of everything, to praise this
-> divinely beneficient Providence you must turn to all of
+> And yet, since it [dvs Gud] is the underpinning of goodness,
+> and by merely being there is the cause of everything, to praise
+> this divinely beneficient Providence you must turn to all of
 > creation. It is there at the center of everything and
 > everything has it for a destiny. (s. 54).
 
-Vi känner Gud
+Vi känner Gud genom:
 
-> from the arrangement of everything, because everything is, in a
+> the arrangement of everything, because everything is, in a
 > sense, projected out from him, and this order possesses certain
 > images and semblances of his divine paradigms. We therefore
 > approach that which is beyond all as far as our capacities allow
 > us and we pass by way of the denial and the transcendence of
 > all things and by way of the cause of all things. God is
 > therfore known in all things and as distict from all things. He
-> is known through knowledge and through unknowing. (s. 108)
+> is known through knowledge and through unknowing. (s. 108).
 
-Det är på grund av detta som skriftförfattarna gett Gud en sådan
-uppsjö med namn. För även om han uppträder som namnlös I
-BERÄTTELSE så ges han även många andra namn.
+Vi kan aldrig komma till full insikt om Gud eftersom han är
+bortom existensen och därför också bortom vår förmåga till
+förståelse. Men eftersom Gud samtidigt är existens kärna,
+eftersom han samtidigt som han är bortom allt också finns i allt,
+kan vi genom det som finns till få glimtar av Gud. Dessa glimtar
+är allt som vi med vår begränsade förmåga har möjlihet att
+hantera.
 
-Skriftförfattarna ger Gud många namn. Dels ges han namn som tyder
-på hans ogreppbarhet. Han ges namn såsom "the nameless one" och
-Dionysios kallar honom saker som "the Superunknowable" och "the
-Trascendent Goodness". TA TROLIGTVIS BORT.
+> the things of God is revealed to each mind in proportion to its
+> capacities; and the divine goodnes is such that, out of concern
+> for our salvation, it deals out the immeasureable and infinite in
+> limited measure. (s. 49)
 
-> And yet on the other hand they give it many names, such as "I
-> am being", "life", "light", "God", the "truth." These same
+Enligt Dionysios är anledningen till att Gud i skriften ges så
+många olika namn just det faktum att Gud är existenses kärna och
+att allt som existerar berättar om Gud. Några av de namn
+skriftförfattarna ger Gud är:
+
+> "I am being", "life", "light", "God", the "truth." These same
 > wise writers, when praising the Cause of everything that is,
 > use names drawn from all the things caused: good, beautiful,
 > wise, beloved, God of gods, Lord of Lords, Holy of Holies,
 > eternal, existent, Cause of the ages. They call him source of
-> life, wisdom, mind, word, knower, possesson beforehand of all
+> life, wisdom, mind, word, knower, possessor beforehand of all
 > the treasures of knowledge, power, powerful, and King of Kings,
 > ancient of days, the unaging and unchanging, salvation,
 > righteousness and sanctification, redemption, greatest of all
@@ -173,12 +178,13 @@ Trascendent Goodness". TA TROLIGTVIS BORT.
 > cloud, archetypal stone, and rock, that he is all, that he is
 > no thing. (s. 55-56).
 
-Gud är således namnlös då inga av de namn vi kan ge honom
-gör honom rätta, samtidigt som han har alla tänkbara namn då han
-är upphov till allt och finns i allt.
+Gud är namnlös då inga av de namn vi ger honom gör honom rätta,
+samtidigt har han alla tänkbara namn då han är upphov till allt
+och finns i allt.
 
 > And so it is as Cause of all and transcending all he is rightly
 > nameless and has the name of everything that is. (s. 56).
+
 
 ## Mönster
 
