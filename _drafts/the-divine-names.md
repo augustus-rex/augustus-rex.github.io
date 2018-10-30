@@ -9,12 +9,12 @@ innehåll.
 
 ## Guds ofattbarhet
 
-Dionysios är tidigt i boken tydlig med att Gud ligger bortom vårt
-förstånd och vår möjlighet till förståelse.
-
-> And if all knowledge is of that which is and is limited to the
-> realm of the existent, then whatever that transcends being must
-> also transcend knowledge. (s. 53).
+En utav de centrala temana i boken är Guds ofattbarhet. Dionysios
+är tidigt i boken tydlig med att Gud ligger bortom vårt förstånd
+och vår möjlighet till förståelse. Gud har orsakat existerensen
+och transcenderar därför existensen (s. 50) --- och eftersom
+allt vetande utgår från det som finns till och existererar
+trancscenderar Gud också vetandet (s. 53).
 
 > Just as the senses can neither grasp nor percieve the things of
 > the mind, just as representation and shape cannot take in the
@@ -25,63 +25,57 @@ förstånd och vår möjlighet till förståelse.
 > Indeed the inscrutable One is out of the reach of every
 > rational process. (s. 49-50).
 
-Han fortsätter sedan med
+Eftersom Gud finns bortom vetandet finns han också bortom
+språket. Inga ord kan nå nå upp till Gud, och Gud "is gathered up
+by no discourse, by no intuition, by no name" (s. 50).
 
-> Nor can any words come up to the inexpressible Good, this One,
-> this Source of all infinity, this supra-existent Being. Mind
-> beyond mind, word beyond speech, it is gathered up by no
-> discourse, by no intuition, by no name. It is and it is as no
-> other being is. Cause of all existence, and therefore itself
-> transcending existence, it alone could give an authoritative
-> account of what it really is. (s. 50).
+Det är troligtvis på grund av denna insikt om namnens och ordens
+begränsningar som Dionysios använder såpass många olika
+benämningar på Gud. Inget namn kan fånga Gud, och därför måste vi
+använda olika namn för att komma åt hans olika aspekter. I boken
+använder Dionysios ganska sällan ordet "Gud" när han pratar om
+Gud. Istället beskrivs Gud som "the inexpressible Good, this One,
+this Source of all infinity, this supra-existent Being" (s. 50),
+som "the transcentendly wise Cause" (s. 106), "the divine Life
+beyond life" (s. 103), "this divinely beneficient Providence" (s.
+54) eller kort och gott som "the Deity" (s. 50).
 
-> In the scriptures the Deity has benevolently taught us that
-> understanding and direct contemplation of itself is
-> inaccessible to beings, since it actually supasses being. Many
-> scripture writers will tell you that the divinity is not only
-> invisible and incomprehensible, but also "unsearchable and
-> inscrutable," since there is not a trace for anyone who would
-> reach through into the hidden depths of this infinity. (s. 50).
-
-
-> With a wise silence we do honor to the inexpressible. (s. 50).
+Genom att använda ett flertal namn och bilder för Gud undviker vi
+att fastna i specifika, stelnade bilder av Gud.
 
 
 ## Negativ teologi
 
 Det är ur denna insikt om språkets och vetandets begränsningar
 som den negativa teologin har växt fram. Inom den negativa
-teologin beskrivs Gud endast med icke-egenskaper. Biskop Jan
-Arvid Hellström skriver i sin bok *Bilder - fyra herdebrev om
-bild och verklighet*
+teologin beskrivs Gud endast med icke-egenskaper. Han kan vara
+icke-ond eller icke-god, men inte ond eller god. Guds väsen kan
+beskrivas som icke-vara. Detta på grund av att alla de ord vi
+använder är grundade i vår mänskliga existens, och Guds existens
+är såpass fjärran från denna existens att mänskliga begrepp inte
+kan beskriva honom. Gud är, i biskop Jan Arvid Hellströms ord:
 
-> Gud kan man bara beröra i "icke-kategorier", säger den negativa
-> teologin. Mänskliga utsagor kan bara klargöra vad han inte är.
-> Inom den negativ teologin kan Guds väsen beskrivas som
-> "icke-vara" ("varandet" då liktydigt med den mänskliga
-> existensen). Gud har "icke-egenskaper" som "icke-ond",
-> "icke-god" - däremot är han inte "ond" eller "god" i mänsklig
-> mening. Han är så fjärran från all mänsklig existens, mänskligt
-> tänkane och känsloliv att bara negationer kan ge en
-> föreställning om honom.
+> så fjärran från all mänsklig existens, mänskligt tänkande och
+> känsloliv att bara negationer kan ge en föreställning om honom.
 
-Mycket av detta skulle Dionysios instämma i, ett resonemang han
-främst utvecklar i andra kapitlet av sin bok *The celestial
-hierarchy*. Enligt Dionysios är vi människor alltför fokuserade
-på det materiella för att på allvar kunna förstå det
-transcendenta. Vi riskerar därför att blanda ihop bild och
-verklighet. De beskrivningar han finner mest lämpade för det
-gudomliga är därför beskrivningar som "invisible, infinitie,
-ungraspable, and other things which show not what he is but in
-fact what he is not." (s. 149-150). 
+Mycket av detta skulle Dionysios instämma i. Enligt Dionysios är
+vi människor alltför fokuserade på det materiella för att på
+allvar kunna förstå det transcendenta. Vi måste använda värdsliga
+bilder för att beskriva det gudomliga---eftersom värdsliga
+bilder är allt vi har tillgång till---men vi riskerar ständigt att
+blanda ihop bild och verklighet. 
 
-Men om alla beskrivningar av det gudomliga är otillräckliga, hur
-ska alla de beskrivningar Bibeln målar upp av det gudomliga
-förstås? Dionysios menar att bibelförfattarna medvetet valt
-motsägelsefulla och orimliga beskrivningar när de beskriver det
-gudomliga. Beskrivningar som genom sin motsägelsefullhet och
-orimlighet pekar bortom sig själva. Angående de beskrivningar
-bibeln ger av änglarna säger han:
+De beskrivningar av Gud Dionysios finner mest lämpade är därför
+beskrivningar såsom: "invisible, infinitie, ungraspable, and
+other things which show not what he is but in fact what he is
+not." (s. 149-150). 
+
+Men om alla bilder av det gudomliga är otillräckliga, hur ska då
+alla Bibelns bilder av det gudomliga förstås? Dionysios menar att
+bibelförfattarna medvetet valt motsägelsefulla och orimliga
+bilder för att beskriva det gudomliga. Beskrivningar som genom
+sin motsägelsefullhet och orimlighet pekar bortom sig själva.
+Angående de beskrivningar bibeln ger av änglarna säger han:
 
 > We cannot, as mad people do, profanely visualize these heavenly
 > and godlike intelligences as actually having numeros feet an

@@ -1,4 +1,16 @@
 
+> And if all knowledge is of that which is and is limited to the
+> realm of the existent, then whatever that transcends being must
+> also transcend knowledge. (s. 53).
+
+> Nor can any words come up to the inexpressible Good, this One,
+> this Source of all infinity, this supra-existent Being. Mind
+> beyond mind, word beyond speech, it is gathered up by no
+> discourse, by no intuition, by no name. It is and it is as no
+> other being is. Cause of all existence, and therefore itself
+> transcending existence, it alone could give an authoritative
+> account of what it really is. (s. 50).
+
 > I have said already that the divine wisdom is the source, the
 > cause, the substance, the perfection, the protector, and the
 > goal of Wisdom itself, of mind, of reason, and of all sense
@@ -80,3 +92,14 @@
 > above eternity and "his kingdom is an everlasting kingdom."
 > Amen.
 
+> Gud kan man bara beröra i "icke-kategorier", säger den negativa
+> teologin. Mänskliga utsagor kan bara klargöra vad han inte är.
+> Inom den negativ teologin kan Guds väsen beskrivas som
+> "icke-vara" ("varandet" då liktydigt med den mänskliga
+> existensen). Gud har "icke-egenskaper" som "icke-ond",
+> "icke-god" - däremot är han inte "ond" eller "god" i mänsklig
+> mening. Han är så fjärran från all mänsklig existens, mänskligt
+> tänkane och känsloliv att bara negationer kan ge en
+> föreställning om honom.
+
+> With a wise silence we do honor to the inexpressible. (s. 50).
