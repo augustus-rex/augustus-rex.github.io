@@ -3,22 +3,33 @@ layout: post
 title: Dionysios om icke-vetande, negativ teologi och Guds heliga namn
 ---
 
-Tidigare under hösten läste jag ut boken *The divine names*
-författad av 500-tals teologen [Dionysios av Aeropagita][wiki].
-Dionysios är en av kristendomens tidiga mystiker och han var en
-av de ledande auktoriteterna inom kyrkan fram till ca XXX. I
-detta blogginlägg försöker jag sammanfatta några av bokens
-centrala teman.
+Tidigare under hösten läste jag ut boken *The divine names*, och
+i detta blogginlägg försöker jag sammanfatta några av bokens
+centrala teman. Boken är författad av 500-tals teologen
+[Dionysios Areopagita][wiki]. Dionysios var en kristen mystiker
+och en av de ledande auktoriteterna inom den katolska kyrkan från
+800-talet -- då hans texter översattes till latin -- till ca
+1400-talet.
 
-[wiki]: WIKIPEDIALÄNK
+[wiki]: https://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite "Wikipedia"
 
-De citat som används sidhänvisas. Sidhänvisningarna hänvisar till
-antologin *Pseudo-Dionysios: the complete works* publicerad av
-Paulist Press. *The divine names* sträcker sig från sida 49 till
-131 i antologin. *The celestial hierarchy* -- en annan skrift av
-Dionysios jag hänvisar till -- sträcker sig från sida 145 till
-191.
+Sidhänvisningarna i texten hänvisar till antologin
+*Pseudo-Dionysios: the complete works* publicerad av Paulist
+Press. *The divine names* sträcker sig från sida 49 till 131 i
+antologin. *The celestial hierarchy*, en annan skrift av
+Dionysios jag hänvisar till, sträcker sig från sida 145 till 191.
 
+<figure style="margin-bottom: 1.5em; margin-top: 2em;">
+	<img src="/images/dionysios_ikon.jpg" style="width:100%">
+	<figcaption> 
+	
+		Dionysios Areopagita utgav sig, och misstogs länge, för
+		att vara den Dionysios som figurerar i Apostlagärningarna
+		17:34 och som blev Atens första biskop. Bilden
+		föreställer halshuggningen av den bibliska Dionysius.
+
+	</figcaption>
+</figure>
 
 ## Guds ofattbarhet
 
@@ -53,21 +64,20 @@ this Source of all infinity, this supra-existent Being" (s. 50),
 som "the transcentendly wise Cause" (s. 106), "the divine Life
 beyond life" (s. 103), "this divinely beneficient Providence" (s.
 54) eller kort och gott som "the Deity" (s. 50). Som en följd av
-dessa namn används om Gud ofta ordet "it" istället för "he" i
-många av de citat jag använder. 
+detta används om Gud ofta ordet *it* istället för *he* i
+många av de citat som förekommer i texten. 
 
-Genom att använda ett flertal namn och bilder för Gud undviker vi
-att fastna i specifika, stelnade bilder av Gud. Alla enskilda
-bilder av Gud är felaktiga, och endast genom att använda en
-mångfald av bilder kan vi komma nära någon form av sanning om
-Gud. Men även denna mångfald är långt ifrån tillräcklig. Gud är
-bortom vårt förstånd, och ofta är det klokaste vi har att tillgå
-tystnaden. Eller som Dionysios uttrycker det:
+Genom att använda en mångfald av namn och bilder för Gud undviker
+vi att fastna i specifika, stelnade bilder av Gud. Alla enskilda
+bilder är felaktiga, och ett mångfacetterat bildspråk är därför
+nödvändigt för att närma sig någon form av kunskap om Gud. Men
+även mångfalden är otillräcklig. Gud är fortfarande bortom vårt
+förstånd, och ofta är tystnaden det bästa verktyg vi har att
+tillgå. Eller som Dionysios uttrycker det: "With a wise silence
+we do honor to the inexpressible" (s. 50).
 
-> With a wise silence we do honor to the inexpressible. (s. 50).
 
-
-## Negativ teologi
+## Den negativ teologin
 
 En gren av teologin som till stor del har sitt ursprung i
 insikten om språkets och vetandets begränsningar är den negativa
@@ -82,20 +92,18 @@ fjärran från vår, kan mänskliga begrepp inte beskriva honom. Gud
 > så fjärran från all mänsklig existens, mänskligt tänkande och
 > känsloliv att bara negationer kan ge en föreställning om honom.
 
-Mycket av detta skulle Dionysios instämma i. Enligt Dionysios är
-vi människor alltför fokuserade på det materiella för att på
-allvar förstå det gudomliga. Vi är nödgade att använda värdsliga
-bilder för att beskriva det gudomliga -- eftersom värdsliga
-bilder är vad vi har tillgång till -- men vi riskerar ständigt
-att blanda ihop bild och verklighet. 
-
-Dionysios konstaterar att:
+Dionysios skrifter är en av grunderna till den negativa teologin.
+Enligt Dionysios är vi människor alltför fokuserade på det
+materiella för att på allvar förstå det gudomliga. Fast som vi är
+i vår värdsliga existens är vi nödgade att använda värdsliga
+bilder för att beskriva det gudomliga, men vi riskerar ständigt
+att blanda ihop bild och verklighet. Dionysios konstaterar att:
 
 > The way of negations appear to be more suitable to the realm of
 > the divine and ... positive affirmations are always unfitting
 > to the hiddenness of the inexpressible. (s. 150).
 
-De beskrivningar av Gud Dionysios finner lämpligast är
+De beskrivningar av Gud Dionysios finner lämpligast är därför
 beskrivningar såsom: "invisible, infinitie, ungraspable, and
 other things which show not what he is but in fact what he is
 not" (s. 149-150). 
@@ -105,7 +113,7 @@ alla Bibelns bilder av det gudomliga förstås? Dionysios menar att
 bibelförfattarna medvetet valt motsägelsefulla och orimliga
 bilder för att beskriva det gudomliga. Beskrivningar som genom
 sin motsägelsefullhet och orimlighet pekar bortom sig själva.
-I *The celestial hierarchy* säger Dionysios detta om bibelns
+I *The celestial hierarchy* skriver Dionysios detta om bibelns
 beskrivningar av änglarna:
 
 > We cannot, as mad people do, profanely visualize these heavenly
