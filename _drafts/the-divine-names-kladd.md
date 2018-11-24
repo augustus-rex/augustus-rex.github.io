@@ -102,4 +102,10 @@
 > tänkane och känsloliv att bara negationer kan ge en
 > föreställning om honom.
 
-> With a wise silence we do honor to the inexpressible. (s. 50).
+
+> the things of God is revealed to each mind in proportion to its
+> capacities; and the divine goodnes is such that, out of concern
+> for our salvation, it deals out the immeasureable and infinite in
+> limited measure. (s. 49)
+
+
