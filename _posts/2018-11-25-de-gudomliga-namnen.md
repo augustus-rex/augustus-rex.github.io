@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dionysios om Guds ofattbarhet och hans heliga namn
+title: Guds ofattbarhet &ndash; och hans heliga namn
 ---
 
 *The divine names* är en bok författad av den kristna 500-tals
