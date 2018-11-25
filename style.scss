@@ -272,6 +272,10 @@ nav {
 	margin-right: auto;
 	text-align: center;
 	font-size: 90%;
+
+	a {
+	  text-decoration: underline $lightGray;
+	  }
   }
 
   hr {
