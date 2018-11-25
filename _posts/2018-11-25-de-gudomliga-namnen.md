@@ -10,7 +10,7 @@ var en av de ledande auktoriteterna inom den katolska kyrkan från
 1400-talet. Även inom den ortodoxa kyrkan har Dionysios skrifter
 haft stort inflytande. I detta blogginlägg försöker jag
 sammanfatta några av de centrala temana i *The divine names*, som
-jag läste tidigare i höstas. 
+jag läste tidigare i höst. 
 
 [wiki]: https://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite "Wikipedia"
 
