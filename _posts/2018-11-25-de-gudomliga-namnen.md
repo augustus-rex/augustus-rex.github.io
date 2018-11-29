@@ -90,7 +90,7 @@ men inte ond eller god. Guds väsen kan beskrivas som icke-vara,
 men inte som att det existerar. Eftersom alla ord vi använder är
 grundade i vår mänskliga existens, och Guds existens är såpass
 fjärran från vår, kan mänskliga begrepp inte beskriva honom. Gud
-är, i biskop Jan Arvid Hellströms ord:
+är, i tidigare biskop Jan Arvid Hellströms ord:
 
 > så fjärran från all mänsklig existens, mänskligt tänkande och
 > känsloliv att bara negationer kan ge en föreställning om honom.
