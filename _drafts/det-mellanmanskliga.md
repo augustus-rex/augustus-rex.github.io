@@ -75,6 +75,18 @@ Buber hade anropats som egen person och lämnade, under en kort
 period, sin plats i kollektivet och trädde in i det
 mellanmänskligas sfär.
 
+I boken identifierar Buber tre saker som fodras för att ett
+mellanmänskligt möte ska uppstå:
+
+	1. "att intet fördärvligt sken insmyger sig i relationen
+	   mellan två personer",
+	2. "att var och en ... vänder sig till och menar den andre
+	   som person och just sådan han är", samt 
+	3. "ingendera av parterna får vilja påtvinga den andre något
+	   av sitt eget eller sig själv".
+
+Vi börjar med att gå igenom den första förutsättningen.
+
 
 ## Det som är och det som synes vara
 
@@ -133,4 +145,50 @@ väsen kan livet bli på allvar meningsfullt.
 > betala, alltför dyrt betalas det aldrig.
 
 
-##
+## Att möta en människa som den hon är
+
+> Den främsta förutsättningen för ett äkta samtal är att var och
+> en inför sin samtalspartner verkligen menar just denna andra
+> människa. (s. 43)
+
+> En sådan förståelse är emellertid inte möjlig så länge som jag
+> gör den andra till ett från mig åtskilt föremål för mina
+> funderingar och iakttagelser, ty som objekt ges denna helhet
+> och denna mittpunkt inte tillkänna. Förståelsen är möjlig först
+> när jag träder i omedelbar och okonstlad relation till den
+> andra, gör henne verkligt närvarande för mig. (s. 45).
+
+> Det specifikt personligas ständigt närvarande mysterium --
+> fordom bevekelsegrund för en stilla hänförelse -- får ge plats
+> för prosaisk slätstrukenhet. (s. 47)
+
+> Mången kallar det intuition, men det är inte ett helt entydigt
+> begrepp. Jag skulle föredra att tala om "realfantasi". Ty till
+> sitt egentliga väsen är denn förmåga inte en fråga om åskådning
+> utan om att djärvt och ohämmat svinga sig över till den andre;
+> något som kan kräva den mest intensiva omvälvning i ens egen
+> tillvaro. (s. 48-49).
+
+
+## Att påtvinga och att frigöra
+
+> I det första fallet vill den ene påtvinga den andre sin egen
+> åsikt och attityd, och det helst på sådant sätt att den
+> påverkade inbillar sig att det är hans egen insikt som
+> frigjorts genom detta inflytande.
+
+> I det andra fallet önskar den ene hos den andre igenkänna och
+> stödja, såsom något det redan finns anlag till, vad han inom
+> sig själv lärt känna som sant och riktigt. Det som är sant och
+> riktigt måste ju också i den andres mikrokosmos vara något som
+> lever som en möjlighet bland möjligheter.
+
+> Propagandisten angår överhuvudtaget inte den människa, han vill
+> inverka på, som person. Eventuella individuella egenskaper
+> tillmäter han vikt, endast i den mån han behöver lära känna och
+> utnyttja dem för att vinna den andre.
+
+> Den pedagog jag åsyftar lever i en värld av individer, av vilka
+> en grup allt emellanåt är anförtrodd hans beskydd. I var och en
+> av desa individer lär han känna anlaget till en unik, dena enda
+> gång existerande person.
