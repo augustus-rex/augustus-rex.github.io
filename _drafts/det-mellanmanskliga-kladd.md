@@ -1,0 +1,33 @@
+
+> Mången kallar det intuition, men det är inte ett helt entydigt
+> begrepp. Jag skulle föredra att tala om "realfantasi". Ty till
+> sitt egentliga väsen är denn förmåga inte en fråga om åskådning
+> utan om att djärvt och ohämmat svinga sig över till den andre;
+> något som kan kräva den mest intensiva omvälvning i ens egen
+> tillvaro. (s. 48-49).
+
+> En sådan förståelse är emellertid inte möjlig så länge som jag
+> gör den andra till ett från mig åtskilt föremål för mina
+> funderingar och iakttagelser, ty som objekt ges denna helhet
+> och denna mittpunkt inte tillkänna. Förståelsen är möjlig först
+> när jag träder i omedelbar och okonstlad relation till den
+> andra, gör henne verkligt närvarande för mig. (s. 45).
+
+> Detta är möjligt först i levande samverkan, vilket betyder att
+> jag i en situation som jag har gemensam med den andre vitalt
+> utsätter mig för hans andel däri, såsom verkligen hans. Denna
+> min grundhållning kan naturligtvis förbli obesvarad och
+> dialogen dö redan smo frö. Men utvecklas en ömsesidighet, då
+> blommar det mellanmänskliga upp i äkta samtal. (s. 49--50).
+
+> Den främsta förutsättningen för ett äkta samtal är att var och
+> en inför sin samtalspartner verkligen menar just denna andra
+> människa. Jag upplever att hon till sin exstens är en annan;
+> att hon på just detta, för henne unika och särpräglade sätt
+> till sitt väsen är annorlunda än jag. Jag accepterar den
+> människa jag står inför, så att mina ord kan riktas med största
+> allvar till henne, just till den hon är. (s. 43)
+
+> Det specifikt personligas ständigt närvarande mysterium --
+> fordom bevekelsegrund för en stilla hänförelse -- får ge plats
+> för prosaisk slätstrukenhet. (s. 47)

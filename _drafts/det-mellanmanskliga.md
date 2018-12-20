@@ -85,7 +85,7 @@ mellanmänskligt möte ska uppstå:
 	3. "ingendera av parterna får vilja påtvinga den andre något
 	   av sitt eget eller sig själv".
 
-Vi börjar med att gå igenom den första förutsättningen.
+Vi kommer nu gå igenom dessa förutsättning var för sig.
 
 
 ## Det som är och det som synes vara
@@ -147,27 +147,59 @@ väsen kan livet bli på allvar meningsfullt.
 
 ## Att möta en människa som den hon är
 
-> Den främsta förutsättningen för ett äkta samtal är att var och
-> en inför sin samtalspartner verkligen menar just denna andra
-> människa. (s. 43)
+Det andra förutsättningen handlar om att jag måste möta, och
+mena, den andra människa sådan som hon är. Enligt Buber bör det
+mesta som betecknas som samtal snarare kallas prat. Folk talar
+inte med varandra, utan förbi varandra. När de talar vänder de
+sig inte till sin samtalspartner, utan till en "fiktiv instans,
+som inte är närvarande på annat sätt än som åhörare" (s. 41).
 
-> En sådan förståelse är emellertid inte möjlig så länge som jag
-> gör den andra till ett från mig åtskilt föremål för mina
-> funderingar och iakttagelser, ty som objekt ges denna helhet
-> och denna mittpunkt inte tillkänna. Förståelsen är möjlig först
+Men vad innebär det att bli medveten om en annan människa? Att
+möta en annan människa sådan som hon är? Enligt Buber måste man
+förstå en människa utifrån hennes ande, hennes mittpunkt. 
+
+> Att bli medveten om en människa betyder alltså i synnerhet att
+> förnimma den dynamiska mittpunkt som sätter sin prägel på
+> hennes yttranden, handlingar och förhållningssätt, med
+> uppfattbara tecken på det för henne unika. (s. 45).
+
+Man måste uppfatta sin motpart "som helhet och likväl
+fullständigt konkret, utan några förenklande abstraktioner" (s.
+44).
+
+För att kunna uppfatta sin samtalspartner som helhet är det av
+vikt att man inte gör henne till "ett från mig åtskilt föremål
+för mina funderingar och iakttagelser" (s. 45). Om du gör din
+motpart till ett objekt blir dennes mittpunkt, dennes ande,
+oåtkomligt för dig. Att förstå sin partner är möjligt först:
+
 > när jag träder i omedelbar och okonstlad relation till den
 > andra, gör henne verkligt närvarande för mig. (s. 45).
 
-> Det specifikt personligas ständigt närvarande mysterium --
-> fordom bevekelsegrund för en stilla hänförelse -- får ge plats
-> för prosaisk slätstrukenhet. (s. 47)
+Det krävs att jag "i en situation som jag har gemensamt med den
+andre vitalt utsätter mig för hennes andel däri, såsom verkligen
+hennes" (s. 49). Att:
 
-> Mången kallar det intuition, men det är inte ett helt entydigt
-> begrepp. Jag skulle föredra att tala om "realfantasi". Ty till
-> sitt egentliga väsen är denn förmåga inte en fråga om åskådning
-> utan om att djärvt och ohämmat svinga sig över till den andre;
-> något som kan kräva den mest intensiva omvälvning i ens egen
-> tillvaro. (s. 48-49).
+> jag upplever att hon till sin existens är en annan; att hon på
+> just detta, för henne unika och särpräglade sätt till sitt
+> väsen är annorlunda än jag. Jag accepterar den människa jag
+> står inför, så att mina ord kan riktas med största allvar till
+> henne, just till den hon är. (s. 43).
+
+För att lyckas krävs det mod. Det krävs att man vågar: 
+
+> djärvt och ohämmat svinga sig över till den andre; något som
+> kan kräva den mest intensiva omvälvning i ens egen tillvaro.
+> (s. 49).
+
+På det sättet kan man ge utrymme för "det specifikt personligas
+ständigt närvarande mysterium" (s. 47), något som allt för ofta
+istället får ge plats för "prosaisk slätstrukenhet" (s. 47).
+
+För att allt detta ska lyckas krävs det att din motpart besvarar
+din ansträngning, annars kommer "dialogen dö redan som frö" (s.
+49). Men om allt lyckas så "blommar det mellanmänskliga upp i
+äkta samtal" (s. 50).
 
 
 ## Att påtvinga och att frigöra
