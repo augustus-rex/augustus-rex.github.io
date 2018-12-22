@@ -31,3 +31,31 @@
 > Det specifikt personligas ständigt närvarande mysterium --
 > fordom bevekelsegrund för en stilla hänförelse -- får ge plats
 > för prosaisk slätstrukenhet. (s. 47)
+
+> I det första fallet vill den ene påtvinga den andre sin egen
+> åsikt och attityd, och det helst på sådant sätt att den
+> påverkade inbillar sig att det är hans egen insikt som
+> frigjorts genom detta inflytande.
+
+> I det andra fallet önskar den ene hos den andre igenkänna och
+> stödja, såsom något det redan finns anlag till, vad han inom
+> sig själv lärt känna som sant och riktigt. Det som är sant och
+> riktigt måste ju också i den andres mikrokosmos vara något som
+> lever som en möjlighet bland möjligheter.
+
+> Propagandisten angår överhuvudtaget inte den människa, han vill
+> inverka på, som person. Eventuella individuella egenskaper
+> tillmäter han vikt, endast i den mån han behöver lära känna och
+> utnyttja dem för att vinna den andre.
+
+> Den pedagog jag åsyftar lever i en värld av individer, av vilka
+> en grup allt emellanåt är anförtrodd hans beskydd. I var och en
+> av desa individer lär han känna anlaget till en unik, dena enda
+> gång existerande person.
+
+> Jag har mot varandra ställt två extrema karakterinseringar av
+> de båda grundhållningarna, för att tydliggöra skillnaden mellan
+> dem. Men överallt där människor har med varandra att göra, kan
+> båda attityderna förmärkas. (s. 58).
+
+

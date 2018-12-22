@@ -81,7 +81,7 @@ mellanmänskligt möte ska uppstå:
 	1. "att intet fördärvligt sken insmyger sig i relationen
 	   mellan två personer",
 	2. "att var och en ... vänder sig till och menar den andre
-	   som person och just sådan han är", samt 
+	   som person och just sådan han är", samt att
 	3. "ingendera av parterna får vilja påtvinga den andre något
 	   av sitt eget eller sig själv".
 
@@ -198,29 +198,78 @@ istället får ge plats för "prosaisk slätstrukenhet" (s. 47).
 
 För att allt detta ska lyckas krävs det att din motpart besvarar
 din ansträngning, annars kommer "dialogen dö redan som frö" (s.
-49). Men om allt lyckas så "blommar det mellanmänskliga upp i
+49). Men om allt lyckas "blommar det mellanmänskliga upp i
 äkta samtal" (s. 50).
 
 
 ## Att påtvinga och att frigöra
 
-> I det första fallet vill den ene påtvinga den andre sin egen
-> åsikt och attityd, och det helst på sådant sätt att den
-> påverkade inbillar sig att det är hans egen insikt som
-> frigjorts genom detta inflytande.
+Den tredje och sista förutsättningen för det mellanmänskliga
+samtalet handlar om att ingen av parterna får vilja påtvinga den
+andre någon åsikt eller attityd, utan att målet istället är att
+frigöra den andres personliga och unika potential.
 
-> I det andra fallet önskar den ene hos den andre igenkänna och
-> stödja, såsom något det redan finns anlag till, vad han inom
-> sig själv lärt känna som sant och riktigt. Det som är sant och
-> riktigt måste ju också i den andres mikrokosmos vara något som
-> lever som en möjlighet bland möjligheter.
+Buber använder återigen sig av idealtyper för att beskriva två
+olika sätt att förhålla sig till sina medmänniskor;
+propagandisten och pedagagogen. Idealtyperna är extrema
+karaktäriseringar med syfte att tydliggöra skillnaden mellan
+olika grundhållningar, och de uppträder aldrig i renodlad form.
+Men, enligt Buber, kan båda dessa attityder ses "överallt där
+människor har med varandra att göra" (s. 58).
 
-> Propagandisten angår överhuvudtaget inte den människa, han vill
-> inverka på, som person. Eventuella individuella egenskaper
-> tillmäter han vikt, endast i den mån han behöver lära känna och
-> utnyttja dem för att vinna den andre.
+Propagandisten är en person som vill "påtvinga den andre sin egen
+åsikt och attityd". Helst ska det ske på ett sätt "att den
+påverkade inbillar sig att det är hans egen insikt som frigjorts
+genom detta inflytande" (s. 53).
 
-> Den pedagog jag åsyftar lever i en värld av individer, av vilka
-> en grup allt emellanåt är anförtrodd hans beskydd. I var och en
-> av desa individer lär han känna anlaget till en unik, dena enda
-> gång existerande person.
+Pedagogen däremot vill istället "hos den andre igenkänna och
+stödja ... vad han inom sig själv lärt känna som sant och
+riktigt" (s. 53):
+
+> Det som är sant och riktigt måste ju också i den andres
+> mikrokosmos vara något som lever som en möjlighet bland
+> möjligheter. Hos denne behöver i så fall endast väckas ett
+> gensvar -- och det väsentligen icke genom inlärning, utan genom
+> möte, genom existentiell kommunikation mellan det som är och det
+> som är på väg att bli. (s. 54).
+
+Propagandistens verktyg är påtvingandet och övertalandet,
+pedagogens är frigörandet och uppväckandet.
+
+En viktig skillnad i propagandistens och pedagogens förhållande
+till sina medmänniskor är hur de uppfattar det personliga och det
+individuella. För propagandisten är individuella egenskaper av
+vikt "endast i den mån han behöver lära känna och utnyttja dem
+för att vinna den andre" (s. 54). Propagandisten "angår
+överhuvudtaget inte den människa, han vill inverka på, som
+person" (s. 54).
+
+För pedagogen däremot är det individuella och det personliga helt
+centralt. Pedagogen "ser varje individ som bärare av ett
+speciellt uppdrag i tillvaron, fullföljbart genom just den
+människan, och endast genom henne" (s. 56). Pedagogen "anser att
+det rätta finns anlagt i varje människa på ett peronligt unikt
+och enastånde sätt. Inget annat 'sätt' får därför påtvingas denna
+människa" (s. 57). Pedagogens uppgift är att "hjälpa det rätta
+att framträda unikt personligt hos just denna person" (s. 57).
+
+Enligt Buber går det i pedagogens förhållningssätt hitta en
+nyckel till skapelsens mening. I tanken "att varje människa inom
+sig bär bestämmelsen att uppnå det sanna människovarat på sitt
+särskilda, för just henne egenartade vis". Genom att hjäla det
+rätta att främträda unikt personligt hos den andre hjälpen man
+"människovarats skapelsemening" (s. 61) att gå i uppfyllelse.
+Buber skriver:
+
+> Den frigörande, förlösande makten i dialogen mellan människorna
+> -- detta, att man genam att bistå varandra i att "bli sig
+> själv", bidrar till förverkligandet av ett med skapelsens
+> mening överensstämmande människoslätke -- det är vad som
+> bringar det mellanmänskliga till dess högsta höjd. (s. 61).
+
+
+
+> Detta, att den ene kan inverka så att han väcker något tll liv
+> inom den andre, är inte i och för sig någon nödvändig
+> förutsättning. Men det är ett element som är ägnat att föra
+> till en högre nivå av det mellanmänskliga.
