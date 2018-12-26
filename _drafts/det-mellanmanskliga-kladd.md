@@ -58,4 +58,19 @@
 > dem. Men överallt där människor har med varandra att göra, kan
 > båda attityderna förmärkas. (s. 58).
 
+> Detta, att den ene kan inverka så att han väcker något tll liv
+> inom den andre, är inte i och för sig någon nödvändig
+> förutsättning. Men det är ett element som är ägnat att föra
+> till en högre nivå av det mellanmänskliga.
+
+> Om sociala fenomen kan man tala i sådana fall där
+> förbundenheten mellan människorna i en grupp leder till
+> geensamma erfarenheter och reaktioner. ... Den innebär inte att
+> det mellan den ene och den andre i gruppen måste bestå en
+> personlig relation.
+
+> den allmänna tendensen, i synnerhet under senare skeden a
+> historien, är att gruppens förhållningssätt stärks genom
+> undanträngande av det pesonliga elementet till förmån för ett
+> rent kollektivt element.
 

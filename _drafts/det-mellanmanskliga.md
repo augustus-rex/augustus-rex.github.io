@@ -3,31 +3,41 @@ layout: post
 title: Det mellanmänskliga
 ---
 
+Martin Buber var en tyskjudisk filosof och teolog aktiv under
+1900-talet. Hans teologi och filosofi kretsade mycket kring
+mötet. Mötet med människor. Mötet med Gud. Mötet med skapelsen.
+Kring vikten av att på allvar möta den andre som ett levande
+subjekt, och inte som ett objekt eller tingest för dig att
+begagna.
+
+I sin korta, men väldigt innehållsrika, skrift *Det
+mellanmänskliga* redogör Buber för förutsättningarna för ett
+sant möte mellan två människor. I detta inlägg sammanfattar jag
+textens centrala innehåll.
+
+
 ## Det sociala och det mellanmänskliga
 
-Tidigt i boken gör Buber en åtskillnad mellan det sociala och
-det mellanmänskliga. Det sociala innebär en gruppsamhörighet där
-deltagarna delar en gemenskap som grupp, men inte nödvändigtvis
-en personlig relation.
-
-> Om sociala fenomen kna man tala i sådana fall där
-> förbundenheten mellan människorna i en grupp leder till
-> geensamma erfarenheter och reaktioner. ... Den innebär inte att
-> det mellan den ene och den andre i gruppen måste bestå en
-> personlig relation.
+Vad menas med "det mellanmänskliga"? För att klargöra detta gör
+Buber tidigt i boken en åtskillnad mellan det sociala och det
+mellanmänskliga. Det sociala syftar på en gruppsamhörighet där
+deltagarna binds samman av "gemensamma erfarenheter och
+reaktioner" -- de "omfattas och präglas av en gemensam existens"
+(s. 18) -- men där det inte nödvändigtvis finns en bestående
+personlig relation mellan de enskilda medlemmarna.
 
 Det mellanmänskliga å sin sida innefattar en framträdande
 relation mellan två -- och ibland flera -- individer. Det kan
 innefatta så enkla händelser som "när i en överfull spårvagn två
-obekantas blickar öppet möts, för att genast åter glida tillbaka
-i konvenansens 'inte vilja veta av varandra'. ETT TILL EXEMPEL.
-Det mellanmänskliga
+obekantas blickar öppet möts" (s. 22), men kan också vara när man
+med en annan förlorar sig i ett samtal som upplöser både tid och
+rum. Det mellanmänskliga:
 
 > kommer inte an på någonting annat än att vardera av två
 > människor vederfares den andre som just denna bestämda andre.
 > Att var och en av de båda blir medveten om den andre och därför
 > förhåller sig så till honom att han icke behandlar honom som
-> ett objekt, utan som partner i ett livsskeende.
+> ett objekt, utan som partner i ett livsskeende. (s. 23).
 
 Buber gör en åtskillnad mellan det kollektiva och det
 mellanmänskliga. Det sociala är ofta någonting kollektivt. En
@@ -35,16 +45,10 @@ person blir främst till en del i en grupp istället för en egen
 individ. Det mellanmänskliga däremot är alltid någonting ytterst
 personligt.
 
-> den allmänna tendensen, i synnerhet under senare skeden a
-> historien, är att gruppens förhållningssätt stärks genom
-> undanträgande av det pesonliga elementet till förmån för ett
-> rent kollektivt element.
-
-Buber exempeplifierar skillnaden mellan det kollektiva och det
-mellanmänskliga genom att berätta om ett demonstrationståg han
-deltog i. Han deltog i tåget då en av hans vänner var en
-framträdande figur i rörelsen som anordnade demonstrationen, och
-innan tåget avgick stod han och diskuterade med sin vän och en
+Buber exemplifierar skillnaden mellan det kollektiva och det
+mellanmänskliga genom att berätta om ett demonstrationståg, som
+en vän till honom var med och anordnade, och som Buber deltog i.
+Innan tåget avgick stod han och diskuterade med sin vän och en
 annan person.
 
 > I den stunden upplevde jag dem båda som i sin fulla verklighet
@@ -52,51 +56,52 @@ annan person.
 > som anförtrotts mig; anförtrotts mig även i sådana avseenden
 > som var mig främmande. Ja, egentligen var mig deras värld så
 > fjärran att min själ allt som oftast ryggade tillbaka inför det
-> anorlunda hos dem; men samtidigt var det just detta "annorlunda"
-> som gjorde konfrontationen med dem äkta.
+> annorlunda hos dem; men samtidigt var det just detta "annorlunda"
+> som gjorde konfrontationen med dem äkta. (s. 21).
 
 Men så fort som demonstranterna satte sig i rörelse hade Buber
 "inlemmats i tåget". Han hade "ryckts bort från allting som heter
-att stå inför något eller någon". Det mellanmänskliga hade trätt
-tillbaka till företräde för det kollektiva.
+att stå inför något eller någon" (s. 21). Det mellanmänskliga
+hade trätt tillbaka till företräde för det kollektiva.
 
 Efter en stund passerade demonstrationståget ett café där Buber
 några dagar tidigare lärt känna en musiker. När tåget passerade
-öppnades cafédörren. Musikern stod på tröskeln, fick syn på Buber
-och vinkade.
+öppnades cafédörren. Musikern stod på tröskeln. Han fick syn på
+Buber och vinkade.
 
 > Ögonblickligen var det som att jag lyftes ur tåget, bort från
 > vännernas närvaro, och placerades därborta, framför musikern.
 > Jag märkte inte att jag marscherade vidare i samma takt. Jag
-> upplevde mig som stående dörute, utan ett ljud, men med ett
-> leende av samförstånd till svar åt den som anropat mig.
+> upplevde mig som stående därute, utan ett ljud, men med ett
+> leende av samförstånd till svar åt den som anropat mig. (s.
+> 22).
 
-Buber hade anropats som egen person och lämnade, under en kort
-period, sin plats i kollektivet och trädde in i det
+Buber hade anropats som en egen person och lämnade, för en kort
+stund, sin plats i kollektivet och trädde in i det
 mellanmänskligas sfär.
 
-I boken identifierar Buber tre saker som fodras för att ett
+Buber identifierar tre saker som krävs för att ett
 mellanmänskligt möte ska uppstå:
 
-	1. "att intet fördärvligt sken insmyger sig i relationen
-	   mellan två personer",
-	2. "att var och en ... vänder sig till och menar den andre
-	   som person och just sådan han är", samt att
-	3. "ingendera av parterna får vilja påtvinga den andre något
-	   av sitt eget eller sig själv".
-
+	1. att man utger sig för att vara den man till sitt väsen är,
+	2. att man i mötet med den andre "vänder sig till och menar
+	   den andre som person och just sådan han är", samt
+	3. att ingen av parterna får vilja påtvinga den andre någon
+	   åsikt, attityd eller överhuvudtaget "något av sitt eget
+	   eller sig själv" (s. 60).
+	
 Vi kommer nu gå igenom dessa förutsättning var för sig.
 
 
 ## Det som är och det som synes vara
 
-Enligt Buber är ett stort hinder för det mellanmänskliga att
-människor ofta framställer sig inte som sådan de är, utan sådana
-som de vill synas vara. Han gör därför skillnad mellan två typer
-av människotillvaro. Att leva utifrån sitt väsen och "låta sitt
-liv bestämmas av vad man är", och att leva utifrån bilden och
-"låta sitt liv bestämmas av huruvida man vill göra intryck av att
-vara".
+Ett stort hinder för det mellanmänskliga är att människor ofta
+framställer sig, inte som sådana de är, utan sådana som de vill
+synas vara. Buber gör därför skillnad mellan två typer av
+människotillvaro. Att leva utifrån sitt väsen och "låta sitt liv
+bestämmas av vad man är", och att leva utifrån bilden och "låta
+sitt liv bestämmas av hurudan man vill göra intryck av att vara"
+(s. 29).
 
 Detta är idealtyper och i verkligheten uppträder dessa typer av
 människotillvaro sammanblandat. Men människor som till största
@@ -105,44 +110,46 @@ Människor som till största del lever utifrån bilden kallar han
 *bildmänniskor*.
 
 Det mellanmänskliga förutsätter att människor lever utifrån sitt
-väsen. Buber exemplifierar detta med ett samtal mellan två
-bildmänniskor som han kallar Per och Pål:
+väsen. Buber exemplifierar detta med ett fiktivt samtal mellan
+två bildmänniskor som han kallar Per och Pål:
 
 > Först har vi då Per sådan han vill verka i Påls ögon och Pål
 > sådan han vill verka i Pers ögon. Vidare har vi Per sådan han
 > verkligen är i Påls ögon och likaså Pål sådan han här i Pers
 > ögon. Och dessa bilder torde inte övensstämma med de önskade!
 > Så har vi Per sådan han är i sina egna ögon och Pål sådan här i
-> sina. Till sist: Den verklige Per och den verklige Pål.
+> sina. Till sist: Den verklige Per och den verklige Pål. (s.
+> 33).
 
-Vi har alltså två människor, Per och Pål, plus "sex spöklika
-skengestalter, vilka på allsköns sätt blandar sig i samtalet
-mellan de två". Var, frågar Buber sig, "finns då plats för
-äktheten i det mellanmänskliga"? 
+Vi har alltså två människor, den verklige Per och den verklige
+Pål, plus "sex spöklika skengestalter, vilka på allsköns sätt
+blandar sig i samtalet mellan de två". "Var", frågar Buber sig,
+"finns då plats för äktheten i det mellanmänskliga" (s. 33)?
+Svaret är: ingenstans.
 
 > Vad än ordet "sanning" betyder i andra sammanhang -- på det
-> mellanänskligas område betyder sanning att människor meddelar
+> mellanmänskligas område betyder sanning att människor meddelar
 > sig med varandra sådana de är. ... Det är på äktheten i det
 > mellanmänskliga det kommer an. Där denna ej finns, finns heller
-> ingen sann mänsklighet.
+> ingen sann mänsklighet. (s. 33--34).
 
 Att vara bildmänniska är enligt Buber ingen natur, ingenting för
 evigt fastställt. "Människan, som människa, är alltid möjlig att
-förlösa", och det är alltid möjligt att "kämpa för att komma till
-sig själv". Men det är ingen lätt uppgift att leva utifrån sitt
-väsen.
+förlösa" (s. 36), och det är alltid möjligt att "kämpa för att
+komma till sig själv" (s. 35). Men det är ingen lätt uppgift att
+leva utifrån sitt väsen.
 
-> Det är ingen lätt sak att vinna erkännade som den man till sitt
-> väsen är. Då får skenet komma till hjälp. Att ge efter för
+> Det är ingen lätt sak att vinna erkännande som den man till
+> sitt väsen är. Då får skenet komma till hjälp. Att ge efter för
 > frestelsen att tillgripa den möjligheten är fegt -- att motstå
-> den kräver verkligt mod.
+> den kräver verkligt mod. (s. 35).
 
 Att leva utifrån sitt väsen är inte enkelt, men det är aldrig
 förgäves. Endast genom att försaka bilden till förmån för sitt
 väsen kan livet bli på allvar meningsfullt.
 
 > Att leva utifrån sitt väsen är något man stundom får dyrt
-> betala, alltför dyrt betalas det aldrig.
+> betala, alltför dyrt betalas det aldrig. (s. 36).
 
 
 ## Att möta en människa som den hon är
@@ -206,10 +213,13 @@ din ansträngning, annars kommer "dialogen dö redan som frö" (s.
 
 Den tredje och sista förutsättningen för det mellanmänskliga
 samtalet handlar om att ingen av parterna får vilja påtvinga den
-andre någon åsikt eller attityd, utan att målet istället är att
-frigöra den andres personliga och unika potential.
+andre någon åsikt eller attityd. Målet är istället att frigöra
+den andres personliga och unika potential. Frigörandet är inte en
+nödvändig förutsättning, frånvarandet av påtvingande är nog, men
+det är ett "element som är ägnat att föra till en högre nivå av
+det mellanmänskliga" (s. 60).
 
-Buber använder återigen sig av idealtyper för att beskriva två
+Buber använder sig återigen av idealtyper för att beskriva två
 olika sätt att förhålla sig till sina medmänniskor;
 propagandisten och pedagagogen. Idealtyperna är extrema
 karaktäriseringar med syfte att tydliggöra skillnaden mellan
@@ -257,7 +267,7 @@ Enligt Buber går det i pedagogens förhållningssätt hitta en
 nyckel till skapelsens mening. I tanken "att varje människa inom
 sig bär bestämmelsen att uppnå det sanna människovarat på sitt
 särskilda, för just henne egenartade vis". Genom att hjäla det
-rätta att främträda unikt personligt hos den andre hjälpen man
+rätta att främträda unikt personligt hos den andre hjälper man
 "människovarats skapelsemening" (s. 61) att gå i uppfyllelse.
 Buber skriver:
 
@@ -268,8 +278,17 @@ Buber skriver:
 > bringar det mellanmänskliga till dess högsta höjd. (s. 61).
 
 
+## Sammanfattning
 
-> Detta, att den ene kan inverka så att han väcker något tll liv
-> inom den andre, är inte i och för sig någon nödvändig
-> förutsättning. Men det är ett element som är ägnat att föra
-> till en högre nivå av det mellanmänskliga.
+1. Var dig själv. Försök inte att utge dig för att vara någon du
+   inte är.
+2. Försök att på allvar möta och vända dig till dina
+   medmänniskor. Acceptera dem med deras brister och
+   tillkortokommanden och möt dem just där de är. 
+3. Påtvinga inte dina medmänniskor något. Var ödmjuk inför att du
+   inte besitter alla svaren. Men tala, ödmjukt, utifrån din
+   övertygelse och locka andra till att själva finna sina
+   övertygelser och sanningar. Och låt dig samtidigt lockas på
+   samma sätt av den andre. I Jordan B. Petersons ord: "Assume
+   that the person you are listening to know something you
+   don't".
