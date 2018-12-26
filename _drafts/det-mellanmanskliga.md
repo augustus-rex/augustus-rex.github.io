@@ -154,12 +154,13 @@ väsen kan livet bli på allvar meningsfullt.
 
 ## Att möta en människa som den hon är
 
-Det andra förutsättningen handlar om att jag måste möta, och
-mena, den andra människa sådan som hon är. Enligt Buber bör det
-mesta som betecknas som samtal snarare kallas prat. Folk talar
-inte med varandra, utan förbi varandra. När de talar vänder de
-sig inte till sin samtalspartner, utan till en "fiktiv instans,
-som inte är närvarande på annat sätt än som åhörare" (s. 41).
+Den andra förutsättningen handlar om att man måste möta, och
+mena, den människa man har framför sig sådan som hon är. Detta är
+inte hur det vanligtvis går till. Enligt Buber bör det mesta som
+betecknas som samtal snarare kallas prat. Folk talar inte med
+varandra, utan förbi varandra. När de talar vänder de sig inte
+till sin samtalspartner, utan till en "fiktiv instans, som inte
+är närvarande på annat sätt än som åhörare" (s. 41).
 
 Men vad innebär det att bli medveten om en annan människa? Att
 möta en annan människa sådan som hon är? Enligt Buber måste man
@@ -174,11 +175,11 @@ Man måste uppfatta sin motpart "som helhet och likväl
 fullständigt konkret, utan några förenklande abstraktioner" (s.
 44).
 
-För att kunna uppfatta sin samtalspartner som helhet är det av
-vikt att man inte gör henne till "ett från mig åtskilt föremål
+För att kunna uppfatta sin samtalspartner som helhet är det
+viktigt att man inte gör henne till "ett från mig åtskilt föremål
 för mina funderingar och iakttagelser" (s. 45). Om du gör din
 motpart till ett objekt blir dennes mittpunkt, dennes ande,
-oåtkomligt för dig. Att förstå sin partner är möjligt först:
+oåtkomligt för dig. Att förstå den andre är möjligt först:
 
 > när jag träder i omedelbar och okonstlad relation till den
 > andra, gör henne verkligt närvarande för mig. (s. 45).
@@ -193,15 +194,17 @@ hennes" (s. 49). Att:
 > står inför, så att mina ord kan riktas med största allvar till
 > henne, just till den hon är. (s. 43).
 
-För att lyckas krävs det mod. Det krävs att man vågar: 
+För att på allvar kunna acceptera och utsätta sig för en annan
+människa krävs mod. Det krävs att man kan:
 
 > djärvt och ohämmat svinga sig över till den andre; något som
 > kan kräva den mest intensiva omvälvning i ens egen tillvaro.
 > (s. 49).
 
-På det sättet kan man ge utrymme för "det specifikt personligas
-ständigt närvarande mysterium" (s. 47), något som allt för ofta
-istället får ge plats för "prosaisk slätstrukenhet" (s. 47).
+Genom att acceptera och möta sina medmänniskor som sådana de är
+skapas utrymme för "det specifikt personligas ständigt närvarande
+mysterium" -- ett mysterium som allt för ofta tvingas ge vika för
+"prosaisk slätstrukenhet" (s. 47). 
 
 För att allt detta ska lyckas krävs det att din motpart besvarar
 din ansträngning, annars kommer "dialogen dö redan som frö" (s.
@@ -212,25 +215,20 @@ din ansträngning, annars kommer "dialogen dö redan som frö" (s.
 ## Att påtvinga och att frigöra
 
 Den tredje och sista förutsättningen för det mellanmänskliga
-samtalet handlar om att ingen av parterna får vilja påtvinga den
-andre någon åsikt eller attityd. Målet är istället att frigöra
-den andres personliga och unika potential. Frigörandet är inte en
-nödvändig förutsättning, frånvarandet av påtvingande är nog, men
-det är ett "element som är ägnat att föra till en högre nivå av
-det mellanmänskliga" (s. 60).
+samtalet är att ingen av parterna får vilja påtvinga den andre
+någon åsikt eller attityd. Målet är istället att frigöra den
+andres personliga och unika potential. Frigörandet är inte en
+nödvändig förutsättning för det mellanmänskliga, frånvaron av
+påtvingande är nog, men det är "ett element som är ägnat att föra
+till en högre nivå av det mellanmänskliga" (s. 60).
 
-Buber använder sig återigen av idealtyper för att beskriva två
-olika sätt att förhålla sig till sina medmänniskor;
-propagandisten och pedagagogen. Idealtyperna är extrema
-karaktäriseringar med syfte att tydliggöra skillnaden mellan
-olika grundhållningar, och de uppträder aldrig i renodlad form.
-Men, enligt Buber, kan båda dessa attityder ses "överallt där
-människor har med varandra att göra" (s. 58).
+Buber beskriver två olika förhållningssätt man kan anta gentemot
+sina medmänniskor: propagandistens och pedagagogens.
 
 Propagandisten är en person som vill "påtvinga den andre sin egen
-åsikt och attityd". Helst ska det ske på ett sätt "att den
-påverkade inbillar sig att det är hans egen insikt som frigjorts
-genom detta inflytande" (s. 53).
+åsikt och attityd". Helst ska det ske på ett sådant sätt "att den
+påverkade *inbillar sig* [min kursivering] att det är hans egen
+insikt som frigjorts genom detta inflytande" (s. 53).
 
 Pedagogen däremot vill istället "hos den andre igenkänna och
 stödja ... vad han inom sig själv lärt känna som sant och
@@ -243,52 +241,64 @@ riktigt" (s. 53):
 > möte, genom existentiell kommunikation mellan det som är och det
 > som är på väg att bli. (s. 54).
 
-Propagandistens verktyg är påtvingandet och övertalandet,
-pedagogens är frigörandet och uppväckandet.
+Propagandistens verktyg är påtvingandet och övertalandet.
+Pedagogens är frigörandet och uppväckandet. Både propagandisten
+och pedagogen är extrema karaktäriseringar som aldrig uppträder i
+renodlad form, men enligt Buber ses båda dessa förhållningssätt
+"överallt där människor har med varandra att göra" (s. 58).
 
 En viktig skillnad i propagandistens och pedagogens förhållande
-till sina medmänniskor är hur de uppfattar det personliga och det
-individuella. För propagandisten är individuella egenskaper av
-vikt "endast i den mån han behöver lära känna och utnyttja dem
-för att vinna den andre" (s. 54). Propagandisten "angår
-överhuvudtaget inte den människa, han vill inverka på, som
-person" (s. 54).
+till sina medmänniskor är deras inställning till det personliga
+och individuella. För propagandisten är individuella egenskaper
+av vikt "endast i den mån han behöver lära känna och utnyttja dem
+för att vinna den andre". Propagandisten "angår överhuvudtaget
+inte den människa, han vill inverka på, som person" (s. 54).
 
 För pedagogen däremot är det individuella och det personliga helt
 centralt. Pedagogen "ser varje individ som bärare av ett
 speciellt uppdrag i tillvaron, fullföljbart genom just den
-människan, och endast genom henne" (s. 56). Pedagogen "anser att
-det rätta finns anlagt i varje människa på ett peronligt unikt
-och enastånde sätt. Inget annat 'sätt' får därför påtvingas denna
-människa" (s. 57). Pedagogens uppgift är att "hjälpa det rätta
-att framträda unikt personligt hos just denna person" (s. 57).
+människan, och endast genom henne" (s. 56). Pedagogen anser att: 
 
-Enligt Buber går det i pedagogens förhållningssätt hitta en
-nyckel till skapelsens mening. I tanken "att varje människa inom
-sig bär bestämmelsen att uppnå det sanna människovarat på sitt
+> det rätta finns anlagt i varje människa på ett peronligt unikt
+> och enastånde sätt. Inget annat "sätt" får därför påtvingas
+> denna människa. (s. 57). 
+
+Pedagogens uppgift är att "hjälpa det rätta att framträda unikt
+personligt hos just denna person" (s. 57).
+
+Propagandisten är ett hinder för det mellanmänskliga, pedagogen
+en katalysator. Men inte nog med det. Buber menar att pedagogens
+förhållningssätt är en nyckel till skapelsens mening. 
+
+Enligt Buber, och pedagogen, bär varje människa inom sig
+"bestämmelsen att uppnå det sanna människovarat på sitt
 särskilda, för just henne egenartade vis". Genom att hjäla det
-rätta att främträda unikt personligt hos den andre hjälper man
-"människovarats skapelsemening" (s. 61) att gå i uppfyllelse.
-Buber skriver:
+rätta att främträda unikt personligt hos den andre underlättar
+man därför uppfyllandet av "människovarats skapelsemening" (s.
+61). Buber skriver:
 
 > Den frigörande, förlösande makten i dialogen mellan människorna
-> -- detta, att man genam att bistå varandra i att "bli sig
+> -- detta, att man genom att bistå varandra i att "bli sig
 > själv", bidrar till förverkligandet av ett med skapelsens
-> mening överensstämmande människoslätke -- det är vad som
+> mening överensstämmande människosläkte -- det är vad som
 > bringar det mellanmänskliga till dess högsta höjd. (s. 61).
 
 
 ## Sammanfattning
 
-1. Var dig själv. Försök inte att utge dig för att vara någon du
-   inte är.
-2. Försök att på allvar möta och vända dig till dina
-   medmänniskor. Acceptera dem med deras brister och
-   tillkortokommanden och möt dem just där de är. 
+1. Var dig själv. Utge dig inte för att vara någon du inte är.
+   Exakt vad "var dig själv" innebär är oftast svårt att avgöra,
+   men det hindrar det inte från att vara ett användbart, om än
+   något diffust, riktmärke.
+
+2. Försök att på allvar möta och vända dig till de människor du
+   har att göra med. Acceptera dem med deras styrkor och brister
+   och försök möta dem där de är. Inse att varje människa är
+   unik, och våga utsätta dig för den andres särart.
+
 3. Påtvinga inte dina medmänniskor något. Var ödmjuk inför att du
    inte besitter alla svaren. Men tala, ödmjukt, utifrån din
    övertygelse och locka andra till att själva finna sina
-   övertygelser och sanningar. Och låt dig samtidigt lockas på
-   samma sätt av den andre. I Jordan B. Petersons ord: "Assume
-   that the person you are listening to know something you
-   don't".
+   övertygelser och sanningar. Låt dig samtidigt lockas på samma
+   sätt av den andre. I Jordan B. Petersons ord: "Assume that the
+   person you are listening to know something you don't."
