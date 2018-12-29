@@ -10,11 +10,21 @@ Kring vikten av att på allvar möta den andre som ett levande
 subjekt, och inte som ett objekt eller tingest att begagna och
 utnyttja.
 
-I sin korta -- men väldigt innehållsrika -- skrift *Det
-mellanmänskliga* redogör Buber för förutsättningarna för ett äkta
-möte mellan människor. I detta inlägg försöker jag sammanfatta
-bokens centrala innehåll. Sidhänvisningarna refererar till
-förlaget Dualis publikation av boken från år 2000.
+I sin korta -- men innehållsrika -- bok *Det mellanmänskliga*
+redogör Buber för förutsättningarna för ett äkta möte mellan
+människor. I detta inlägg försöker jag sammanfatta bokens
+centrala innehåll. Sidhänvisningarna refererar till förlaget
+Dualis publikation av boken från år 2000.
+
+<figure style="margin-bottom: 1.5em; margin-top: 2em;">
+	<img src="/images/det-mellanmanskliga.jpg" style="width:100%">
+	<figcaption> 
+
+		En kort men späckad bok. Gemen markerar ställen av
+		särskilt intresse. Det blev en del.
+
+	</figcaption>
+</figure>
 
 ## Det sociala och det mellanmänskliga
 
@@ -292,12 +302,12 @@ stort allvar som Martin Buber. I de av hans texter jag läst finns
 mycket att hämta om hur man skapar närhet och förbundenhet till
 dels sina medmänniskor, men även till tillvaron -- till Varat --
 i stort. De centrala lärdomar jag funnit i *Det mellanmänskliga*
-lyder något i stil med detta:
+lyder något likt detta:
 
 1. Var dig själv. Utge dig inte för att vara någon du inte är.
    Exakt vad "var dig själv" innebär är ofta svårt att avgöra,
-   men det hindrar det inte från att vara ett användbart, om än
-   något diffust, riktmärke.
+   och det varierar från situation till situation. Men det är
+   alltjämt ett användbart, om än något diffust, riktmärke.
 2. Försök att på allvar möta och vända dig till de människor du
    har att göra med. Acceptera dem med deras styrkor och brister
    och försök möta dem där de är. Inse att varje människa är
@@ -309,3 +319,9 @@ lyder något i stil med detta:
    sätt av den andre. En parallell går att hitta i Jordan B.
    Petersons nionde livsregel: "Assume that the person you are
    listening to know something you don't."
+
+- - -
+*Gillar du det du läser? [Klicka här][sub] för att få mail om
+nya inlägg.*
+
+[sub]: http://eepurl.com/dKMp0w	"Mailformulär"
