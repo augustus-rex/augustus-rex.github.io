@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-   Skrivet {{ page.date | date: "%e/%m, %Y" }}
+    {{ page.date | date: "%Y-%m-%e" }}
   </div>
 
   {% include disqus.html %}
