@@ -44,7 +44,8 @@
 		  {% assign c = part.first %}
 		  {% assign t = part.last %}
 		
-		  {% assign t = t | replace: '“', '”' %}
+		  {% assign t = t | replace: '“', '”' 
+		  				  | replace: '‘', '’' %}
 		
 		  {% if part.size == 2 %}
 		
