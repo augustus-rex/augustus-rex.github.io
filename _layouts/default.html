@@ -36,7 +36,26 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+		{% assign content = content | split: '<pre' %}
+		
+		{% for parts in content %}
+		
+		  {% assign part = parts | split: '</pre>' %}
+		  {% assign c = part.first %}
+		  {% assign t = part.last %}
+		
+		  {% assign t = t | replace: '“', '”' %}
+		
+		  {% if part.size == 2 %}
+		
+		    {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+		
+		  {% endif %}
+		
+		  {% capture output %}{{ output }}{{ t }}{% endcapture %}
+		
+		{% endfor %}
+		{{ output }}
     </div>
 
     <div class="wrapper-footer">
