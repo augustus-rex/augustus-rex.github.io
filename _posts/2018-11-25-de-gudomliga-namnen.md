@@ -273,7 +273,7 @@ their own goal" (s. 75).
 Men Gud är inte endast någon opersonlig kosmisk kraft. Gud är
 också ett stöd för dem som har det svårt. Till de som faller är
 Gud "the voice that calls 'Come back!' and it is the power that
-raises them up again" (s. 51). Guds källa är
+raises them up again" (s. 51). Guds källa är:
 
 > the sacred stability which is there for them when the tide of
 > unholiness is tossing them about. It is safety for those

@@ -26,7 +26,7 @@ dit vandra hundra hästar och karlar fjärranfrån,
 och välta sina benlass i porten.  
   
 Och mjölnaren är gammal och vet vad han vill,  
-och tröttnar väl aldrig att mala -  
+och tröttnar väl aldrig att mala --  
 när han vilar sig då lyssnar han leende till  
 hur de dansande stenarna tala.  
   
@@ -40,7 +40,7 @@ Ett evinnerligt snoende öde,
 och att kugghjulens gnissel likna trätor och kiv,  
 men att benmjölet liknar de döde.  
   
-Ty det lägger sig att sova när vandringen är slut -  
+Ty det lägger sig att sova när vandringen är slut --  
 det sparkar ej mera eller hoppar;  
 av det spröda och hårda som funnits förut  
 finns blott snövita, stoftfina kroppar.  
@@ -90,11 +90,11 @@ förvandlar det till näring för nytt liv.
 Men inte nog med det. Mjölnaren inser dessutom det vackra i sitt
 värv. Han inser det till den grad att han "tröttnar väl aldrig
 att mala", och under sina stunder av vila "lyssnar han leende
-till hur de dansande stenarna tala." Döden är för mjölnaren inte
+till hur de dansande stenarna tala". Döden är för mjölnaren inte
 en källa till sorg. Istället ger den upphov till en sång som "är
-den gladaste som sjungits på orten." Genom mjölnarens handling
+den gladaste som sjungits på orten". Genom mjölnarens handling
 blir döden någonting storslaget. Kvarnens stenar dansar över döda
-ben, och "till en ärofull begravning de ringa."
+ben, och "till en ärofull begravning de ringa".
 
 Bilden av döden som någon som inser det storslagna i sin uppgift
 och därför utför den med glädje lockar mig. Att döden är tung och

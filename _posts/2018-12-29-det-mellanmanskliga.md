@@ -29,13 +29,12 @@ Dualis publikation av boken från år 2000.
 ## Det sociala och det mellanmänskliga
 
 Vad menas med "det mellanmänskliga"? För att klargöra detta
-inleder Buber boken med att göra en åtskillnad mellan det sociala
-och det mellanmänskliga. Det sociala syftar på en
-gruppsamhörighet där deltagarna binds samman av "gemensamma
-erfarenheter och reaktioner" och "omfattas och präglas av en
-gemensam existens" (s. 18), men där det inte nödvändigtvis
-finns en bestående personlig relation mellan de enskilda
-medlemmarna.
+inleder Buber med att göra en åtskillnad mellan det sociala och
+det mellanmänskliga. Det sociala syftar på en gruppsamhörighet
+där deltagarna binds samman av "gemensamma erfarenheter och
+reaktioner" och "omfattas och präglas av en gemensam existens"
+(s. 18), men där det inte nödvändigtvis finns en bestående
+personlig relation mellan de enskilda medlemmarna.
 
 Det mellanmänskliga å sin sida innefattar en framträdande
 relation mellan två -- och ibland flera -- individer. Det kan
@@ -59,7 +58,7 @@ personligt och individuellt.
 Buber exemplifierar skillnaden mellan det kollektiva och det
 mellanmänskliga genom att berätta om ett demonstrationståg han
 deltog i, och som en vän till honom var med och anordnade. Innan
-tåget avgick stod han och diskuterade med sin vän och en annan
+tåget avgick stod Buber och diskuterade med sin vän och en annan
 person.
 
 > I den stunden upplevde jag dem båda som i sin fulla verklighet
