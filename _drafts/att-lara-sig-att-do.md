@@ -3,12 +3,10 @@ layout: post
 title: Att lära sig att dö
 ---
 
-I somras läste jag några av den romerska stoikern [Senecas][wiki]
-verk. Som de flesta stoiker säger han mycket klokt, men det var
-ett tema i hans skrivande som jag fastnade extra för. Hans
-uppmaning om att lära sig att dö.
-
-[wiki]: WIKIPEDIALÄNK "Wikipedia"
+I somras läste jag några av den romerska stoikern Senecas verk.
+Som de flesta stoiker säger han mycket klokt, men det var ett
+tema i hans skrivande som jag fastnade extra för. Hans uppmaning
+om att lära sig att dö.
 
 > Ingenting är mindre kännetecknande för en upptagen man än att
 > verkligen leva; ingen kunskap är svårare än just denna. ... att
