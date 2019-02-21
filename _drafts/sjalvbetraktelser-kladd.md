@@ -240,6 +240,20 @@ Citat:
 > sinnliga drifterna, vvisa falska föreställningar och begrunda
 > allnaturen och dess verk. (8:26).
 
+> Minns att det som drar dig hit och dit som med osynliga trådar
+> gömmer sig i ditt egeter intre; därifrån kommer de manande
+> rösterna; där är den egentliga människan. Förväxla aldrig
+> hennes skal och de redskap hon har omkring sig med henne.
+> (10:38).
+
+> Den [d.v.s. själen] utbreder sig sig över en ändlösa tiden och
+> betraktar allsidigt tingens periodiska återfödelse samt inser
+> av det att våra efterkommande inte kommer att skåda något nytt,
+> lika litet som våra förfäder sett något annat än det vi gör nu.
+> På så sätt kan alltså en fyrtioåring, om han bara har en vaken
+> blick, anse sig ha skådat allt som har varit och kommer att
+> vara. (11:1).
+
 DÖDEN
 
 4:47
@@ -247,3 +261,10 @@ DÖDEN
 7:18
 
 8:58
+
+> Behöver du någon särskild tröstegrund, så kan väl ingenting
+> göra dig mer tillfreds med döden än betraktelsen av de ting och
+> de människor som du snart kommer att skiljas ifrån. (9:3).
+
+> Fråga dig inför varje särskild sak du har att göra med: är
+> döden förskräcklig eftersom den berövar mig detta? (10:29).

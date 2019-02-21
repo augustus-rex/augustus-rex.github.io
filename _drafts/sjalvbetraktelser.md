@@ -71,6 +71,14 @@ En klok insikt till viss gräns. Se exempelvis "Stoic man". Också
 väldigt praktiskt sätt att bagatellisera förtryck.
 
 
+
+> Idag har jag undgått alla hinder, eller snarare jag har
+> kullkastat alla hinder. De fanns ju inte utom mig, utan inom
+> mig, i mina fördomar. (9:13).
+
+> Vad är det bäst att säga eller göra just nu? Vad det nu än må
+> vara, står det dig fritt att göra eller säga det. (10:33).
+
 # Finn dig i ditt öde 
 
 Det temat handlar om att människans uppgift är att finna sig i
@@ -137,6 +145,20 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > Ingen kan hindra dig att leva enligt ditt väsens lag; ingenting
 > kan hända dig som står i strid med allnaturens lag. (6:58).
 
+> Vad som än händer dig, så har det alltid varit förutbestämt och
+> orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
+> denna händelse. (10:5).
+
+> Till den allt förlänande och allt återtagande naturen sägen den
+> luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
+> det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
+
+> Ett friskt öga måste se allt synligt och inte säga: jag vill
+> endast se grönt ... På samma sätt måste ett sunt förstånd
+> tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen
+> inte dö!", eller "Måtte alla prisa mina handlingar!", så liknar
+> det ögat som bara vill ha grönt att se eller tänderna som bara
+> vill ha mjukt att tugga. (10:35).
 
 # Var god!
 
@@ -158,4 +180,18 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > sådant beslut bespara dig bekymmer och stryder, hänsyn och
 > oärligheter av alla slag.
 
+> Den fullkomligaste människan vore den som skiljdes från livet
+> utan att ha smakat ondskan: lögnaktighet och hyckleri,
+> utsvänande leverne och inbilskhet. Den nästa bästa skilsmässan
+> vore att dö mätt på dessa ting. (9:2).
 
+> För när du gör människorna gott, vad mera kan du då begära? Är
+> inte det nog att du handlat enligt din natur, utan vill du ha
+> lön för detta? Det vore som att ögat begär lön för att det ser
+> eller fötterna för att de går. (9:42).
+
+> Äntligen är också det utmärkande för den tänkande själen att
+> den älskar sin nästa, sanningen och blygsamheten och inte aktar
+> något högre än sig själv, vilket också hör till lagens väsen.
+> Alltså finns ingen skillnad mellan det rätt tänkande och det
+> rätt handlande förnuftet. (11:1).
