@@ -16,6 +16,12 @@ om att lära sig att dö.
 
 VAD BETYDER DET ATT LÄRA SIG ATT DÖ?
 
+Tidigare har jag skrivit om döden i olika skepnader. Jag har
+skrivit om döden i avslutets och förnyelsens skepnad. Om döden i
+mjölnarens skepnad. Här framträder döden i ännu en av sina
+skepnader -- döden som vägvisare. Som lärare i levnadens konst.
+Som uppenbarare av vad som viktigt är. Som mentor.
+
 
 # Stuff
 
