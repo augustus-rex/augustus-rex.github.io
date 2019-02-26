@@ -256,11 +256,19 @@ Citat:
 
 DÖDEN
 
-4:47
+> Skrämmer förvandlingen dig? Men vad kan ske utan förvandling?
+> Vad är alltså kärar för allnaturen, mer överensstämmande med
+> den? Kan du själv at ett bad utan ott veden förvandlas, kan du
+> livnära dig utan att födan förvandlas? Kan något som helst
+> nyttigt nå sin fullkomning utan förvandling? Inser du inte att
+> det med dein egen förvandling förhåller sig på samma sätt och
+> att den är lika nödvändig för allnaturen? (7:18).
 
-7:18
-
-8:58
+> Den som fruktar för döden fruktar antingen för upphörandet av
+> alla förnimmelser eller för ett nytt slag av förnimmelser. Men
+> om man inte mera förnimmer något, förnimmer man heller inget
+> ont. Får man efter döden andra slags förnimmelser, så blir man
+> ett annat slags väsen och upphör inte att leva. (8:58).
 
 > Behöver du någon särskild tröstegrund, så kan väl ingenting
 > göra dig mer tillfreds med döden än betraktelsen av de ting och
@@ -268,3 +276,9 @@ DÖDEN
 
 > Fråga dig inför varje särskild sak du har att göra med: är
 > döden förskräcklig eftersom den berövar mig detta? (10:29).
+
+> Den som håller endast rätt sak i rättan tid för ett gott, som
+> inte frågar efter om han har att uppvisa ett större eller
+> mindre antal förnuftiga handlingar och om han lägre eller
+> kortare tid får skåda världen, för honom har döden ingenting
+> fruktansvärt. (12:35).

@@ -79,6 +79,35 @@ väldigt praktiskt sätt att bagatellisera förtryck.
 > Vad är det bäst att säga eller göra just nu? Vad det nu än må
 > vara, står det dig fritt att göra eller säga det. (10:33).
 
+> Förmågan att leva lyckligt ligger i vår själ; det fordras bara
+> att den gentemot likgiltiga ting verkligen förhåller sig
+> likgiltig. Den förhåller sig så när den betraktar dem vart och
+> ett för sig samt kommer ihåg att inget av dem påvingar oss
+> något omdöme och inte kommer till oss utan står orörligt.
+> (11:16).
+
+> [D]et är inte människornas handlingar, som vållar vårt lidande
+> -- det angår ju bara dem själva -- utan det är våra egna
+> tankar. Förjaga altså tankarna på att det eller det är något
+> förskricligt; då försvinner också vreden. (11:18).
+
+> [H]ur mycket tyngre är inte den börda, som vreden och sorgen
+> över vissa händelser pålägger oss, än den som händelserna
+> själva utgör? (11:18).
+
+> För fyr förvilelser måste du särksit ta dig i akt, och när än
+> du upptäcker dem måste du går ur vägen för dem, samtidigt som
+> du i vart och ett av dessa fall säger till dig själv: detta är
+> en onödig föreställning; detta upplöser den samhälleliga
+> gemenskapen; detta säger du inta av hjärtat, och att inte tala
+> av hjärtat är djupt ovärdigt. Det fjärde fallet är när du
+> tvingas förebrå dig själv att den gudomligare delen av ditt
+> väsen är kuvad och undertryckt av det lägre och dödligare hos
+> dig, av din kropp och dess grova lustar. (11:19).
+
+> Gör dig bara fri från dina falska föreställningar. Då är du
+> räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
+
 # Finn dig i ditt öde 
 
 Det temat handlar om att människans uppgift är att finna sig i
@@ -160,6 +189,41 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > det ögat som bara vill ha grönt att se eller tänderna som bara
 > vill ha mjukt att tugga. (10:35).
 
+> En själ som är beredd att i vilket ögonblick som helst skiljar
+> från kroppen för att antingen slockna eller fördunsta eler
+> fortleva kan kallas stor. (11:3).
+
+> Bara en dåre söker fikon vintertid. Bara en dåre längtar efter
+> ett arn när ett sådant inte mera förunnas honom. (11:33).
+
+> Omoget kart, druva, russin, allt förvandlas, men inte till ett
+> icke-varande utan endast till ett ännu icke varande. (11:35).
+
+> Fromhetets krav är att du ska vara nöjd med din lott. Naturen
+> har bestämt den och dig för varandra. Rättfärdighetens krav är
+> att du orädd och utan omsvep säger sanningen och handlar i
+> enlighet med lag och rättvisa. (12:1).
+
+> Är det verkligen så, kan du vara övertygad att borde det varit
+> annorlunda skulle gudarna också ordnat det annorlunda. Hade det
+> varit rätt, hade det även varit möjligt, och hade det
+> överensstämt med naturan hade naturen också ordnat det så. På
+> grunda av att det inte är så, ifal det nu verkligen inte är så,
+> måd du hämta den fasta övertygelsen att det inte skulle vara
+> så. Ser du inte själ at du försöker mästra Gud, när du ställer
+> sådana frågor? (12:5).
+
+> Inom kort kommer ingen och ingenting av vad du nu ser att
+> finnas till, ingen av de nu levande. Allt är av naturen bestämt
+> till förvandling, förändring och undergng, för att annat ska
+> komma i dess ställe. (12:21).
+
+> Därför är inte heller livets upphörande ett onte för någon och
+> inte heller en skam. Det beror ju inte av vår fria vilja och
+> dussotom gagnar det allmänna. Tvärtom är det et gott, får si
+> vitt som det är nyttigt och tjänligt för det stora hela.
+> (12:23).
+
 # Var god!
 
 > Lev inte som om du hade tusen år framför dig. Döden svävar över
@@ -195,3 +259,31 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > något högre än sig själv, vilket också hör till lagens väsen.
 > Alltså finns ingen skillnad mellan det rätt tänkande och det
 > rätt handlande förnuftet. (11:1).
+
+> Har jag gjort något allmännyttigt? I så fall hr jag själv
+> fördel av det. Ha alltid denna tanke för ögonen, och sluta
+> aldrig upp med att handla i enlighet därmed. (11:4).
+
+> Lika litet som du låter människorna hindra dig från att följa
+> sunda förnuftet och handla rätt, lika litet får du låda dem
+> hindra dig att känna välvilja för dem ... Att vredgas på dem
+> vare en lika stor svaghet som att avstå från sitt uppsåt och
+> bestört ge vika. (11:9).
+
+> Vad är din konst? Att vara god. Men hur skulle detta kunna
+> lyckas annat än genom klar insikt dels i allnaturens väsen,
+> dels i de för människan egendomliga anlagen? (11:5).
+
+> För liksom ingen frivilligt avstår från sanningen, så avstår
+> heller ingen frivilligt från att handla rätt. Åtminstone blir
+> de förargade om man kallar dem orättvisa, otacksamma,
+> egennyttiga, med ett ord brottsliga mot sin nästa. (11:18).
+
+> För det fjärde: du felar ofta själ och är således inte bättre
+> än de andra. Om du avhåller dig från vissa förseelser så har du
+> ändå anlagen till dem. (11:18).
+
+> Fråga om du har den åsikten om någon att han felat: hur vet jag
+> att detta verkligen är ett fel? Men även antaget att han har
+> felat, så har han därigenom dömt sig själv och liksom klöst sig
+> själv i ansiktet. (12:16).
