@@ -22,7 +22,7 @@ formulerade som livsbetraktelser och reflektioner, och de är inte
 -- eller verkar åtminstone inte vara -- ordnade utefter någon
 större systematik. 
 
-Verserna behandlar dock en hel del återkommande teman. Jag har
+Men verserna behandlar en hel del återkommande teman. Jag har
 identifierat tre centrala teman som jag kommer fördjupa mig
 ytterligare i. Dessa teman är:
 
@@ -34,6 +34,7 @@ Citat ur *Självbetraktelser* källhänvisas i blogginlägget enligt
 modellen bok:vers. Hänvisningen 4:3 hänvisar alltså till den
 fjärde bokens tredje vers. Jag har använt mig av Sjösala förlags
 utgåva av boken från 2018.
+
 
 # Yttervärlden berör dig inte, makten är din egen 
 
@@ -59,17 +60,21 @@ Denna stoiska insikt är en insikt om makt över sitt eget liv.
 Genom att förminska yttervärldens relevans förflyttas makten till
 dig själv. Du har makt över hur du betraktar världen, och denna
 makt är allt. Yttervärldens förhållanden är inget, ditt
-förhållande till dessa förhållanden är allt.
+förhållande till yttervärlden är allt.
 
 > Det som ligger utanför min tankevärld har ingen som helst
 > betydelse för den. Lär dig inse detta. Då står du orubblig.
-> Vill du börje ett nytt liv är det du som måste sätta den stenen
+> Vill du börja ett nytt liv är det du som måste sätta den stenen
 > i rullning. Betrakta bara tingen annorlunda än du hittills
 > gjort. Däri består det nya livet. (7:2).
 
-En klok insikt till viss gräns. Se exempelvis "Stoic man". Också
-väldigt praktiskt sätt att bagatellisera förtryck.
-
+Det är också en krävande insikt. Eftersom makten är din, är också
+ansvaret det. Om du felar, är det din förtjänst. Om du är
+olycklig, är det inte någon annans fel. Marcus Aurelius skriver:
+"förmågan att leva lyckligt ligger i vår själ" (11:16), och "allt
+du skulle vilja ha i framtiden kan du få redan nu" (12:1). Allt
+som krävs är att du förhåller dig korrekt till världen omkring
+dig, och att du handlar rätt.
 
 
 > Idag har jag undgått alla hinder, eller snarare jag har
@@ -105,31 +110,20 @@ väldigt praktiskt sätt att bagatellisera förtryck.
 > väsen är kuvad och undertryckt av det lägre och dödligare hos
 > dig, av din kropp och dess grova lustar. (11:19).
 
-> Gör dig bara fri från dina falska föreställningar. Då är du
-> räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
 
 # Finn dig i ditt öde 
 
-Det temat handlar om att människans uppgift är att finna sig i
-och följa sitt öde.
+En av de viktigaste sakerna att lära sig är att finna sig i sitt
+öde. Att inse att det som sker är rätt och riktigt, och att det
+inte kan, eller bör, vara på något annat sätt. Enligt Aurelius
+har allt som händer "alltid varit förutbestämt", och orsakskedjan
+har sedan "begynnelsen sammanlänkat din tillvaro" med allt som
+händer dig (10:5).
 
-Enligt Aurelius
-
-> Vad kan vara ömkligare än en människa som utan rast löper hit
-> och dit, genomforksar "vad som under jorden är" och försöker
-> fårstå vad som försiggår i medmänniskornas själar utan att
-> tänka på att hon bara behöver lyssna till den gudomliga enden i
-> sitt eget inro och uppriktigt tjäna den. (2:13).
-
-
-> Världsalltet skulle stympas om du ville lösgöra ens det minsna
-> fra vare sig beståndsdelarnas eller orsakernas sammanhang. Du
-> lösgör det ellertid, såvitt du förmår, när du är missnöjd
-> därmed och på något sätt frsöker undanröja det. (5:8).
-
-Det som sker sker av nödvändighet. Allt som sker, allt "vad
-naturen gör" (4:9), är ändamålsenligt. Precis som en läkare
-föreskriver sina patienter vissa BLABLA.
+Detta är ingenting att grämas över. Allt som sker, allt "vad
+naturen gör" (4:9), är nämligen ändamålsenligt. Precis som en
+läkare har sina botemedel och kurer, har ödet sina egna
+behandlingar.
 
 > I fallet med läkaren betyder "han har föreskrivit", att "han
 > har förordnat det så som gagneligt för hälsan"; i fallet med
@@ -152,10 +146,65 @@ möjligheter som vi möter.
 > till vad som sker så att det alltid med lätthet finner sig i
 > det möjliga och givna. (4:1).
 
-PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
+Men livet är ofta tungt, och det som sker ofta grymt. Även det
+tunga måste vi acceptera. Även det grymma måste vi lära oss att
+älska. Ett sunt förstånd måste, enligt Aurelius, "tillgodogöra
+sig allt som sker". Det är därför fel av förståndet att önska:
+"Måtte barnen inte dö!". Även våra barns död hör till det som vi
+måste acceptera, hör till det som är ändamålsenligt och
+gagneligt. Ett förstånd som önskar så liknar "ögat som bara vill
+ha grönt att se eller tänderna som bara vill ha mjukt att tugga"
+(10:35).
+
+> Ett friskt öga måste se allt synligt och inte säga: jag vill
+> endast se grönt ... På samma sätt måste ett sunt förstånd
+> tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen
+> inte dö!", eller "Måtte alla prisa mina handlingar!", så liknar
+> det ögat som bara vill ha grönt att se eller tänderna som bara
+> vill ha mjukt att tugga. (10:35).
+
+> Bara en dåre söker fikon vintertid. Bara en dåre längtar efter
+> ett barn när ett sådant inte mera förunnas honom. (11:33).
+
+> Är det verkligen så, kan du vara övertygad att borde det varit
+> annorlunda skulle gudarna också ordnat det annorlunda. Hade det
+> varit rätt, hade det även varit möjligt, och hade det
+> överensstämt med naturan hade naturen också ordnat det så. På
+> grunda av att det inte är så, ifal det nu verkligen inte är så,
+> måd du hämta den fasta övertygelsen att det inte skulle vara
+> så. Ser du inte själ at du försöker mästra Gud, när du ställer
+> sådana frågor? (12:5).
+
+
+
+
 
 > Vad naturen gör, gör den av nödvändighet, på grund av att det
 > den gör är ändamålsenligt. (4:9)
+
+> Vad som än händer dig, så har det alltid varit förutbestämt och
+> orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
+> denna händelse. (10:5).
+
+
+Det temat handlar om att människans uppgift är att finna sig i
+och följa sitt öde.
+
+Enligt Aurelius
+
+> Vad kan vara ömkligare än en människa som utan rast löper hit
+> och dit, genomforksar "vad som under jorden är" och försöker
+> fårstå vad som försiggår i medmänniskornas själar utan att
+> tänka på att hon bara behöver lyssna till den gudomliga enden i
+> sitt eget inro och uppriktigt tjäna den. (2:13).
+
+> Världsalltet skulle stympas om du ville lösgöra ens det minsna
+> fra vare sig beståndsdelarnas eller orsakernas sammanhang. Du
+> lösgör det ellertid, såvitt du förmår, när du är missnöjd
+> därmed och på något sätt frsöker undanröja det. (5:8).
+
+
+PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 
 > Må guden inom dig vara ledsagare åt en mogen, statsklok man, en
 > äkta romare, en härskare, som själv har anvisat sig en post där
@@ -174,44 +223,21 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > Ingen kan hindra dig att leva enligt ditt väsens lag; ingenting
 > kan hända dig som står i strid med allnaturens lag. (6:58).
 
-> Vad som än händer dig, så har det alltid varit förutbestämt och
-> orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
-> denna händelse. (10:5).
-
 > Till den allt förlänande och allt återtagande naturen sägen den
 > luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
 > det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
-
-> Ett friskt öga måste se allt synligt och inte säga: jag vill
-> endast se grönt ... På samma sätt måste ett sunt förstånd
-> tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen
-> inte dö!", eller "Måtte alla prisa mina handlingar!", så liknar
-> det ögat som bara vill ha grönt att se eller tänderna som bara
-> vill ha mjukt att tugga. (10:35).
-
-> En själ som är beredd att i vilket ögonblick som helst skiljar
-> från kroppen för att antingen slockna eller fördunsta eler
-> fortleva kan kallas stor. (11:3).
-
-> Bara en dåre söker fikon vintertid. Bara en dåre längtar efter
-> ett arn när ett sådant inte mera förunnas honom. (11:33).
-
-> Omoget kart, druva, russin, allt förvandlas, men inte till ett
-> icke-varande utan endast till ett ännu icke varande. (11:35).
 
 > Fromhetets krav är att du ska vara nöjd med din lott. Naturen
 > har bestämt den och dig för varandra. Rättfärdighetens krav är
 > att du orädd och utan omsvep säger sanningen och handlar i
 > enlighet med lag och rättvisa. (12:1).
 
-> Är det verkligen så, kan du vara övertygad att borde det varit
-> annorlunda skulle gudarna också ordnat det annorlunda. Hade det
-> varit rätt, hade det även varit möjligt, och hade det
-> överensstämt med naturan hade naturen också ordnat det så. På
-> grunda av att det inte är så, ifal det nu verkligen inte är så,
-> måd du hämta den fasta övertygelsen att det inte skulle vara
-> så. Ser du inte själ at du försöker mästra Gud, när du ställer
-> sådana frågor? (12:5).
+> En själ som är beredd att i vilket ögonblick som helst skiljar
+> från kroppen för att antingen slockna eller fördunsta eler
+> fortleva kan kallas stor. (11:3).
+
+> Omoget kart, druva, russin, allt förvandlas, men inte till ett
+> icke-varande utan endast till ett ännu icke varande. (11:35).
 
 > Inom kort kommer ingen och ingenting av vad du nu ser att
 > finnas till, ingen av de nu levande. Allt är av naturen bestämt
@@ -287,3 +313,15 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > att detta verkligen är ett fel? Men även antaget att han har
 > felat, så har han därigenom dömt sig själv och liksom klöst sig
 > själv i ansiktet. (12:16).
+
+
+# Avslutning
+
+> Gör dig bara fri från dina falska föreställningar. Då är du
+> räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
+
+
+
+
+
+
