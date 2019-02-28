@@ -130,9 +130,9 @@ behandlingar.
 > allnaturen att "allt som drabbar en människa är tilldelat henne
 > av ödet så som gagneligt". (5:8).
 
-Genom att lära sig att det som sker är nödvändigt kan vi finna
-oss i världens förlopp och inte streta mot. På det sättet kan vi
-vinna frid och lugn.
+Genom att inse att det som sker är nödvändigt kan vi finna oss i
+världens förlopp och inte streta mot. På så vis kan vi vinna frid
+och lugn.
 
 > Älska vad som händer dig och är dig tilldelat; vad kan alstra
 > mera harmoni? (7:56).
@@ -156,6 +156,26 @@ gagneligt. Ett förstånd som önskar så liknar "ögat som bara vill
 ha grönt att se eller tänderna som bara vill ha mjukt att tugga"
 (10:35).
 
+Att streta emot tingens ordning, att önska att saker var
+annorluna, det hör dårarna till. "Bara en dåre söker
+fikon vintertid. Bara en dåre längtar efter ett barn när ett
+sådant inte mera förunnas honom" (11:33). 
+
+En klok människa inser istället att om någonting borde varit
+annorlunda "skulle gudarna också ordnat det annorlunda". Av den
+enkla anledningen att saker inte är på ett visst sätt kan du
+"hämta den fasta övertygelsen att det inte skulle vara så".
+Enligt Marcus Aurelius gäller: "Hade det varit rätt, hade det
+även varit möjligt" (12:5).
+
+En av alla de saker vi måste finna oss i är döden -- vår egen,
+och andras. Döden är ett ständigt återkommande tema i
+"Självbetraktelser", och till stor del handlar det om att
+förminska dödens betydelse och på så sätt göra den mindre
+skräckinjagande.
+
+
+
 > Ett friskt öga måste se allt synligt och inte säga: jag vill
 > endast se grönt ... På samma sätt måste ett sunt förstånd
 > tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen
@@ -175,10 +195,6 @@ ha grönt att se eller tänderna som bara vill ha mjukt att tugga"
 > så. Ser du inte själ at du försöker mästra Gud, när du ställer
 > sådana frågor? (12:5).
 
-
-
-
-
 > Vad naturen gör, gör den av nödvändighet, på grund av att det
 > den gör är ändamålsenligt. (4:9)
 
@@ -186,11 +202,6 @@ ha grönt att se eller tänderna som bara vill ha mjukt att tugga"
 > orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
 > denna händelse. (10:5).
 
-
-Det temat handlar om att människans uppgift är att finna sig i
-och följa sitt öde.
-
-Enligt Aurelius
 
 > Vad kan vara ömkligare än en människa som utan rast löper hit
 > och dit, genomforksar "vad som under jorden är" och försöker
@@ -202,7 +213,6 @@ Enligt Aurelius
 > fra vare sig beståndsdelarnas eller orsakernas sammanhang. Du
 > lösgör det ellertid, såvitt du förmår, när du är missnöjd
 > därmed och på något sätt frsöker undanröja det. (5:8).
-
 
 PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 
@@ -223,14 +233,14 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > Ingen kan hindra dig att leva enligt ditt väsens lag; ingenting
 > kan hända dig som står i strid med allnaturens lag. (6:58).
 
-> Till den allt förlänande och allt återtagande naturen sägen den
-> luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
-> det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
-
 > Fromhetets krav är att du ska vara nöjd med din lott. Naturen
 > har bestämt den och dig för varandra. Rättfärdighetens krav är
 > att du orädd och utan omsvep säger sanningen och handlar i
 > enlighet med lag och rättvisa. (12:1).
+
+> Till den allt förlänande och allt återtagande naturen sägen den
+> luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
+> det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
 
 > En själ som är beredd att i vilket ögonblick som helst skiljar
 > från kroppen för att antingen slockna eller fördunsta eler
@@ -249,6 +259,7 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > dussotom gagnar det allmänna. Tvärtom är det et gott, får si
 > vitt som det är nyttigt och tjänligt för det stora hela.
 > (12:23).
+
 
 # Var god!
 
