@@ -170,9 +170,72 @@ Enligt Marcus Aurelius gäller: "Hade det varit rätt, hade det
 
 En av alla de saker vi måste finna oss i är döden -- vår egen,
 och andras. Döden är ett ständigt återkommande tema i
-"Självbetraktelser", och till stor del handlar det om att
+*Självbetraktelser*, och till stor del handlar det om att
 förminska dödens betydelse och på så sätt göra den mindre
 skräckinjagande.
+
+Detta förminskande sker på ett antal olika sätt. Dels skriver
+Aurelius mycket om att döden inte innebär ett slut, utan endast
+en förvandling till någonting nytt.
+
+> Omoget kart, druva, russin, allt förvandlas, men inte till ett
+> icke-varande utan endast till ett ännu icke varande. (11:35).
+
+Denna förvandling är ingenting att skrämmas av. Förvandling är
+grundläggande för hur världen fungerar -- ingenting är "mer
+överensstämmande med den" -- och ingenting nyttigt kan "nå
+sin fullkomning utan förvandling". Kan du exempelvis "själv ta
+ett bad utan att veden förvandlas, kan du livnära dig utan att
+födan förvandlas"? Med din egen förvandling -- din egen död --
+gäller samma sak, och "den är lika nödvändig för allnaturen"
+(7:18).
+
+Eftersom döden och förvandlingen är central för hur världen
+fungerar är den inte heller något ont. "Tvärtom är det ett gott,
+för så vitt som det är nyttigt och tjänligt för det stora hela"
+(12:23).
+
+Aurelius skriver även om att allt som sker, och allt som kommer att
+ske, endast är upprepningar av sådant som skett tidigare. Livet
+har därför endast en begränsad mängd upplevelser att erbjuda.
+
+CITAT
+
+Döden förminskas även genom ett förminskande av livet. Bland
+annat pekar Aurelius på den obetydliga tid som en människa lever
+jämfört med de tidsåldrar som gått, och de som stundar.
+
+> Betrakta den omätliga tiden bakom dig och den andra ändlösheten
+> framför dig. Vad är det, inför detta, för skillnad mellan en
+> som lever i tre dagar och en som lever i tre människoåldrar?
+> (4:50).
+
+Aurelius har också en återkommande tendens att nedvärdera
+människorna i sin omgivning. Exempelvis menar han att "väl
+ingenting [kan] göra dig mer tillfreds med döden än betraktelsen
+av de ting och de människor som du snart kommer att skiljas
+ifrån". Även om man ska anstränga sig för att inte ta anstöt av
+sina medmänniskor, utan "ha omsorg om dem och tålmodigt stå ut
+med dem", är det viktigt att betänka att döden inte är "en
+skilsmässa från likasinnade" (9:3).
+
+Då det inte är oss beskärt att leva samman med människor som har
+"samma principer som en själv", utan vi kan med egna ögon skåda
+"hur stor bedrövelse som uppstår genom bristen på
+överensstämmelse med människorna", har vi all anledning att ropa:
+"Kom snart, o död, så att jag inte till slut glömmer mitt eget
+jag!" (9:3).
+
+"Allt sammantaget", konstaterar Aurelius, "betänk alltid hur
+kortvarigt och eländigt allt mänskligt är. I går ett frö, i
+morgon mumie eller aska." Döden är därför ingenting att våndas,
+utan vi bör "dö med glatt sinne, liksom den mogna oliven faller,
+i det den välsignar trädet, som skapat den, och tackar grenen som
+burit den" (4:45).  
+
+En stor själ är en själ som, i vilket ögonblick som helst, är
+beredd att "skiljas från kroppen för att antingen slockna eller
+fördunsta eller fortleva" (11:3).
 
 
 
@@ -225,11 +288,6 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > förvandlingens lag blir du återupptagen i världens livsfrö.
 > (4:14).
 
-> Betrakta den omätliga tiden bakom dig och den andra ändlösheten
-> framför dig. Vad är det, inför detta, för skillnad mellan en
-> som lever i tre dagar och en som lever i tre människoåldrar?
-> (4:50).
-
 > Ingen kan hindra dig att leva enligt ditt väsens lag; ingenting
 > kan hända dig som står i strid med allnaturens lag. (6:58).
 
@@ -242,16 +300,9 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
 > det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
 
-> En själ som är beredd att i vilket ögonblick som helst skiljar
-> från kroppen för att antingen slockna eller fördunsta eler
-> fortleva kan kallas stor. (11:3).
-
-> Omoget kart, druva, russin, allt förvandlas, men inte till ett
-> icke-varande utan endast till ett ännu icke varande. (11:35).
-
 > Inom kort kommer ingen och ingenting av vad du nu ser att
 > finnas till, ingen av de nu levande. Allt är av naturen bestämt
-> till förvandling, förändring och undergng, för att annat ska
+> till förvandling, förändring och undergång, för att annat ska
 > komma i dess ställe. (12:21).
 
 > Därför är inte heller livets upphörande ett onte för någon och
@@ -259,6 +310,8 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > dussotom gagnar det allmänna. Tvärtom är det et gott, får si
 > vitt som det är nyttigt och tjänligt för det stora hela.
 > (12:23).
+
+
 
 
 # Var god!
