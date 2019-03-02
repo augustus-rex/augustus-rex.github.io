@@ -168,6 +168,9 @@ enkla anledningen att saker inte är på ett visst sätt kan du
 Enligt Marcus Aurelius gäller: "Hade det varit rätt, hade det
 även varit möjligt" (12:5).
 
+
+## Accepter din död
+
 En av alla de saker vi måste finna oss i är döden -- vår egen,
 och andras. Döden är ett ständigt återkommande tema i
 *Självbetraktelser*, och till stor del handlar det om att
@@ -265,7 +268,6 @@ fördunsta eller fortleva" (11:3).
 > orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
 > denna händelse. (10:5).
 
-
 > Vad kan vara ömkligare än en människa som utan rast löper hit
 > och dit, genomforksar "vad som under jorden är" och försöker
 > fårstå vad som försiggår i medmänniskornas själar utan att
@@ -312,37 +314,64 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > (12:23).
 
 
+## Var god!
 
-
-# Var god!
+Hur bör vi leva våra liv? Marcus Aurelius lägger stor vikt vid
+att vi ska handla rätt, och vara goda. Det är vår främsta uppgift
+som människor.
 
 > Lev inte som om du hade tusen år framför dig. Döden svävar över
 > dig. Så länge du fortfarande lever, så länge du fortfarande kan
-> - var god! (4:17).
+> -- var god! (4:17).
 
-> Ingen tröttnar på at göra gott mot sg själv. Att göra gott mot
-> sig själv ar att handla i enighet med naturen. Tröttna alltså
-> inte på att göra gott mot dig själv genom att göra andra gott.
-> (7:72).
+Men vad innebär det att vara god? Ingen entydig definition ges av
+detta, men det verkar till stor del handla om att agera enligt de
+klassiska dygderna: tala sanning, var ödmjuk, lev måttfullt
+och älska din nästa. Exempelvis skriver Aurelius att det som är
+utmärkande för den tänkande själen att den "älskar sin nästa,
+sanningen och blygsamheten" (11:1). Han skriver även att en god
+människa är "en som är nöjd med sin av alltet beskärda lott och som
+finner sin tillfredsställelse i sitt eget rättskaffens
+handlingssätt och sin välvilliga sinnesstämning" (4:25).
+
+Aurelius menar även att människans glädje består i sant mänskliga
+handlingar. Det sant mänskliga, vilket bör förstås som entydigt
+med det goda, definierar han som: "att hysa välvilja mot sina
+lika och förakt för de sinnliga drifterna, avviska falska
+föreställningar och begrunda allnaturen och dess verk" (8:26).
+
+Men mest vikt verkar Aurelius lägga vid att visa kärlek och
+välvilja mot sina medmänniskor. Bland annat skriver han:
 
 > Endast ett äger bestående värde: att hela livet igenom med
-> sanning och rättvisa för ögonenvisa välvilja även mot lögnare
+> sanning och rättvisa för ögonen visa välvilja även mot lögnare
 > och dåliga människor. (6:47).
 
-> Vandra alltid den kortaste vägen. Naturens väg är den kortaste;
-> man följer då i tal och handling ara det sunda förnuftet. Ett
-> sådant beslut bespara dig bekymmer och stryder, hänsyn och
-> oärligheter av alla slag.
-
-> Den fullkomligaste människan vore den som skiljdes från livet
-> utan att ha smakat ondskan: lögnaktighet och hyckleri,
-> utsvänande leverne och inbilskhet. Den nästa bästa skilsmässan
-> vore att dö mätt på dessa ting. (9:2).
+Genom att göra andra gott gör vi även gott mot oss själva. Varje
+gång jag gör något allmännyttigt "har jag själv fördel av det"
+(11:4). Detta hänger delvis samman med att människan, enligt
+Aurelius, alltid bör handla i enlighet med sin natur. Och att
+göra gott mot andra är en viktig del av denna natur. Det är
+därför sin egen belöning. 
 
 > För när du gör människorna gott, vad mera kan du då begära? Är
 > inte det nog att du handlat enligt din natur, utan vill du ha
 > lön för detta? Det vore som att ögat begär lön för att det ser
 > eller fötterna för att de går. (9:42).
+
+"Naturens väg", skriver Aurelius, "är den kortaste" -- och det är
+alltid den kortaste vägen vi bör vandra. Att följa naturens väg
+är att "i tal och handling ära det sunda förnuftet". Genom att
+följa denna väg besparas du mycket ont, allra helst: "bekymmer
+och strider, hänsyn och oärligheter av alla slag" (KÄLLA).
+
+
+
+Ondskan å sin sida definieras som: "lögnaktighet och hyckleri,
+utsvänande leverne och inbilskhet" (9:2).
+
+
+
 
 > Äntligen är också det utmärkande för den tänkande själen att
 > den älskar sin nästa, sanningen och blygsamheten och inte aktar
@@ -350,9 +379,36 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > Alltså finns ingen skillnad mellan det rätt tänkande och det
 > rätt handlande förnuftet. (11:1).
 
+> Pröva så fort du kan hur det är att leva so som en god
+> människa. En som är nöjd med sin av alltet beskärda lott och
+> som finner sin tellfredsställelse i sitt eget rättskaffens
+> handlingsssät och sin välvilliga sinnesstämning. (4:25).
+
+> Människans glädje består i sant mänskliga handlingar. Sant
+> mänskligt ar ätt hysa välvilja met sina lika och förkat för den
+> sinnliga drifterna, vvisa falska föreställningar och begrunda
+> allnaturen och dess verk. (8:26).
+
 > Har jag gjort något allmännyttigt? I så fall hr jag själv
 > fördel av det. Ha alltid denna tanke för ögonen, och sluta
 > aldrig upp med att handla i enlighet därmed. (11:4).
+
+> Vandra alltid den kortaste vägen. Naturens väg är den kortaste;
+> man följer då i tal och handling ara det sunda förnuftet. Ett
+> sådant beslut bespara dig bekymmer och stryder, hänsyn och
+> oärligheter av alla slag.
+
+
+
+> Ingen tröttnar på att göra gott mot sig själv. Att göra gott
+> mot sig själv är att handla i enlighet med naturen. Tröttna
+> alltså inte på att göra gott mot dig själv genom att göra andra
+> gott. (7:72).
+
+> Den fullkomligaste människan vore den som skiljdes från livet
+> utan att ha smakat ondskan: lögnaktighet och hyckleri,
+> utsvänande leverne och inbilskhet. Den nästa bästa skilsmässan
+> vore att dö mätt på dessa ting. (9:2).
 
 > Lika litet som du låter människorna hindra dig från att följa
 > sunda förnuftet och handla rätt, lika litet får du låda dem
@@ -379,13 +435,20 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > själv i ansiktet. (12:16).
 
 
-# Avslutning
+## Avslutning
 
 > Gör dig bara fri från dina falska föreställningar. Då är du
 > räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
 
+En sak jag hade svårt med är att texten känns väldigt plikttung.
+Att leva korrekt verkar innebära väldigt mycket plikt och väldigt
+lite liv och glädje. Livet och glädjen finns där, men betoningen
+ligger ändå på plikten. I vad jag anser vara alltför hög grad.
+Detta uttrycks tydligt i sjunde bokens sextionde vers:
 
+> Eftersom man måste vara beredd på oväntade stötar och stå
+> orubbligt fast har levnadskonsten mera likhet med fäktkonsten
+> än med danskonsten. (7:60).
 
-
-
-
+Livet handlar mera om att "stå orubbligt fast", att vara hård och
+tålig, än dansens skapande lek.
