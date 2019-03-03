@@ -326,33 +326,38 @@ som människor.
 
 Men vad innebär det att vara god? Ingen entydig definition ges av
 detta, men det verkar till stor del handla om att agera enligt de
-klassiska dygderna: tala sanning, var ödmjuk, lev måttfullt
-och älska din nästa. Exempelvis skriver Aurelius att det som är
-utmärkande för den tänkande själen att den "älskar sin nästa,
+klassiska dygderna: tala sanning, var ödmjuk, lev måttfullt och
+älska din nästa. Det verkar handla om att "älska sin nästa,
 sanningen och blygsamheten" (11:1). Han skriver även att en god
-människa är "en som är nöjd med sin av alltet beskärda lott och som
-finner sin tillfredsställelse i sitt eget rättskaffens
+människa är "en som är nöjd med sin av alltet beskärda lott och
+som finner sin tillfredsställelse i sitt eget rättskaffens
 handlingssätt och sin välvilliga sinnesstämning" (4:25).
 
 Aurelius menar även att människans glädje består i sant mänskliga
-handlingar. Det sant mänskliga, vilket bör förstås som entydigt
+handlingar. Det sant mänskliga, vilket bör förstås som liktydigt
 med det goda, definierar han som: "att hysa välvilja mot sina
 lika och förakt för de sinnliga drifterna, avviska falska
 föreställningar och begrunda allnaturen och dess verk" (8:26).
 
 Men mest vikt verkar Aurelius lägga vid att visa kärlek och
-välvilja mot sina medmänniskor. Bland annat skriver han:
+välvilja mot sina medmänniskor. Exempelvis skriver han:
 
 > Endast ett äger bestående värde: att hela livet igenom med
 > sanning och rättvisa för ögonen visa välvilja även mot lögnare
 > och dåliga människor. (6:47).
 
+Viktigt är att godheten innebär ett agerande. God är man genom
+att göra gott, inte endast genom att tänka gott. Att tänka gott
+är viktigt, men detta för att det leder till goda handlingar.
+Enligt Aurelius finns ingen skillnad "mellan det rätt tänkande
+och det rätt handlande förnuftet" (11:1).
+
 Genom att göra andra gott gör vi även gott mot oss själva. Varje
 gång jag gör något allmännyttigt "har jag själv fördel av det"
 (11:4). Detta hänger delvis samman med att människan, enligt
 Aurelius, alltid bör handla i enlighet med sin natur. Och att
-göra gott mot andra är en viktig del av denna natur. Det är
-därför sin egen belöning. 
+göra gott mot andra är en viktig del av denna natur. Att handla
+gott är därför sin egen belöning. 
 
 > För när du gör människorna gott, vad mera kan du då begära? Är
 > inte det nog att du handlat enligt din natur, utan vill du ha
@@ -363,12 +368,16 @@ därför sin egen belöning.
 alltid den kortaste vägen vi bör vandra. Att följa naturens väg
 är att "i tal och handling ära det sunda förnuftet". Genom att
 följa denna väg besparas du mycket ont, allra helst: "bekymmer
-och strider, hänsyn och oärligheter av alla slag" (KÄLLA).
+och strider, hänsyn och oärligheter av alla slag" (KÄLLA). Däri
+ligger, åtminstone en del av, belöningen.
 
-
-
-Ondskan å sin sida definieras som: "lögnaktighet och hyckleri,
-utsvänande leverne och inbilskhet" (9:2).
+Det viktiga för Aurelius är inte mängden goda handlingar en
+människa utför, eller under hur lång tidsperiod. Att endast hålla
+"rätt sak i rättan tid för ett gott", det är det viktiga. Den som
+gör det, och inte frågar "efter om han har att uppvisa ett större
+eller mindre antal förnuftiga handlingar" eller om han "längre
+eller kortare tid får skåda världen", för den människan "har
+döden ingenting fruktansvärt" (12:35).
 
 
 
@@ -398,12 +407,19 @@ utsvänande leverne och inbilskhet" (9:2).
 > sådant beslut bespara dig bekymmer och stryder, hänsyn och
 > oärligheter av alla slag.
 
-
-
 > Ingen tröttnar på att göra gott mot sig själv. Att göra gott
 > mot sig själv är att handla i enlighet med naturen. Tröttna
 > alltså inte på att göra gott mot dig själv genom att göra andra
 > gott. (7:72).
+
+> Den som håller endast rätt sak i rättan tid för ett gott, som
+> inte frågar efter om han har att uppvisa ett större eller
+> mindre antal förnuftiga handlingar och om han lägre eller
+> kortare tid får skåda världen, för honom har döden ingenting
+> fruktansvärt. (12:35).
+
+
+
 
 > Den fullkomligaste människan vore den som skiljdes från livet
 > utan att ha smakat ondskan: lögnaktighet och hyckleri,
@@ -437,18 +453,38 @@ utsvänande leverne och inbilskhet" (9:2).
 
 ## Avslutning
 
-> Gör dig bara fri från dina falska föreställningar. Då är du
-> räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
+Marcus Aurelius är en intressant tänkare att läsa. Inte minst
+eftersom han förutom att vara filosof även var romersk kejsare
+när imperiet var som störst, och en av historiens kanske
+mäktigaste män. Men också, så klart, för att det från honom finns
+mycket att lära.
 
-En sak jag hade svårt med är att texten känns väldigt plikttung.
-Att leva korrekt verkar innebära väldigt mycket plikt och väldigt
-lite liv och glädje. Livet och glädjen finns där, men betoningen
-ligger ändå på plikten. I vad jag anser vara alltför hög grad.
-Detta uttrycks tydligt i sjunde bokens sextionde vers:
+Det finns många tankar i *Självbetraktelser* som jag inte delar.
+Bland annat är den filosofi som presenteras ofta i alltför hög
+grad pliktfokuserad snarare än livsbejakande. Det märks bland
+annat i denna vers:
 
 > Eftersom man måste vara beredd på oväntade stötar och stå
 > orubbligt fast har levnadskonsten mera likhet med fäktkonsten
 > än med danskonsten. (7:60).
 
-Livet handlar mera om att "stå orubbligt fast", att vara hård och
-tålig, än dansens skapande lek.
+Livet handlar alltså mera om att "stå orubbligt fast", att vara
+hård och tålig, än dansens skapande lek.
+
+Aurelius fokus på att ens medmänniskor ofta är någonting som bör
+undvikas har jag även svårt för. Tidigare nämnde jag att det
+enligt Aurelius väl inte finns någonting som kan göra dig mer
+tillfreds med döden än att betrakta de ting och människor som du
+kommer skiljas från. Liknande teman återkommer på andra håll i
+boken, då han bland annat skriver: "Och dina medmänniskor! Knappt
+den angenämaste av dem är uthärdlig" (5:10).
+
+Men trots det finns det mycket att hämta. Lärdomar om att du,
+genom att ändra hur du väljer att betrakta din värld, kan
+förändra din värld. Om att du, genom att -- inom rimlighetens
+gräns -- acceptera och bejaka det som händer dig kan finna frid.
+Och att du, genom att sträva efter att göra rätt sak i rättan
+tid, kan finna ett försvar mot självaste döden.
+
+> Gör dig bara fri från dina falska föreställningar. Då är du
+> räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
