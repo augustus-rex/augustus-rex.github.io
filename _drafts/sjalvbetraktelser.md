@@ -1,42 +1,38 @@
 ---
 layout: post
-title: En romersk kejsares självbetraktelser
+title: En kejsares självbetraktelser
 ---
 
-*Självbetraktelser* är en samling skrifter författade av den
-romerska kejsaren Marcus Aurelius. Marcus Aurelius (FÖDD--DÖD)
-var kejsare över det romerska riket under perioden då riket var
-som störst, och strax innan det påbörjade sitt långsamma,
-flerhundraåriga förfall. 
+*Självbetraktelser* är en boksamling författad av Marcus Aurelius
+(121--180 e.Kr.), romersk kejsare när imperiet var som störst.
 
-Men Aurelius var inte bara kejsare, han var även filosof. Han
+Men Marcus var inte bara kejsare, han var även filosof. Han
 brukar räknas bland den siste stora av den nystoiska skolan.
 Stoicismen var en av de stora filosofiskolorna i det antika
 Grekland som bland annat lade stort fokus på NÅGOT. Den nystoiska
 skolan fick fäste i romarriket med tänkare såsom Seneca,
-Epiktetos -- och Marcus Aurelius.
+Epiktetos -- och Marcus Aurelius. EJ FÄRDIG.
 
 *Självbetraktelser* består av tolv delböcker, och varje bok är
 uppbyggd av ett visst antal verser. Verserna är ofta korta och
-formulerade som livsbetraktelser och reflektioner, och de är inte
+formulerade som betraktelser eller reflektioner, och de är inte
 -- eller verkar åtminstone inte vara -- ordnade utefter någon
 större systematik. 
 
-Men verserna behandlar en hel del återkommande teman. Jag har
-identifierat tre centrala teman som jag kommer fördjupa mig
-ytterligare i. Dessa teman är:
+Men verserna behandlar ett flertal återkommande temn. I denna
+text kommer jag fördjupa mig i fyra sådana teman, nämligen:
 
-1) yttervärlden kan inte påverka dig.
-2) finn dig i ditt öde
-3) Lev gott.
+1. yttervärlden berör dig inte, makten är din egen
+2. finn dig i ditt öde
+3. acceptera din död
+4. var god.
 
-Citat ur *Självbetraktelser* källhänvisas i blogginlägget enligt
-modellen bok:vers. Hänvisningen 4:3 hänvisar alltså till den
-fjärde bokens tredje vers. Jag har använt mig av Sjösala förlags
-utgåva av boken från 2018.
+Citaten texten källhänvisas enligt modellen bok:vers.
+Hänvisningen 4:3 hänvisar alltså till den fjärde bokens tredje
+vers.
 
 
-# Yttervärlden berör dig inte, makten är din egen 
+## Yttervärlden berör dig inte, makten är din egen 
 
 Det första temat är klassiskt stoiskt. Det handlar om att
 yttervärlden inte på allvar kan påverka ditt innersta, den makten
@@ -69,49 +65,16 @@ förhållande till yttervärlden är allt.
 > gjort. Däri består det nya livet. (7:2).
 
 Det är också en krävande insikt. Eftersom makten är din, är också
-ansvaret det. Om du felar, är det din förtjänst. Om du är
-olycklig, är det inte någon annans fel. Marcus Aurelius skriver:
-"förmågan att leva lyckligt ligger i vår själ" (11:16), och "allt
-du skulle vilja ha i framtiden kan du få redan nu" (12:1). Allt
-som krävs är att du förhåller dig korrekt till världen omkring
-dig, och att du handlar rätt.
+ansvaret det. Om du felar är det din förtjänst, om du är olycklig
+är det inte någon annans fel. Marcus Aurelius skriver: "förmågan
+att leva lyckligt ligger i vår själ" (11:16), och "allt du skulle
+vilja ha i framtiden kan du få redan nu" (12:1). Allt som krävs
+är att du förhåller dig korrekt till världen omkring dig, och att
+du handlar rätt.
 
 
-> Idag har jag undgått alla hinder, eller snarare jag har
-> kullkastat alla hinder. De fanns ju inte utom mig, utan inom
-> mig, i mina fördomar. (9:13).
 
-> Vad är det bäst att säga eller göra just nu? Vad det nu än må
-> vara, står det dig fritt att göra eller säga det. (10:33).
-
-> Förmågan att leva lyckligt ligger i vår själ; det fordras bara
-> att den gentemot likgiltiga ting verkligen förhåller sig
-> likgiltig. Den förhåller sig så när den betraktar dem vart och
-> ett för sig samt kommer ihåg att inget av dem påvingar oss
-> något omdöme och inte kommer till oss utan står orörligt.
-> (11:16).
-
-> [D]et är inte människornas handlingar, som vållar vårt lidande
-> -- det angår ju bara dem själva -- utan det är våra egna
-> tankar. Förjaga altså tankarna på att det eller det är något
-> förskricligt; då försvinner också vreden. (11:18).
-
-> [H]ur mycket tyngre är inte den börda, som vreden och sorgen
-> över vissa händelser pålägger oss, än den som händelserna
-> själva utgör? (11:18).
-
-> För fyr förvilelser måste du särksit ta dig i akt, och när än
-> du upptäcker dem måste du går ur vägen för dem, samtidigt som
-> du i vart och ett av dessa fall säger till dig själv: detta är
-> en onödig föreställning; detta upplöser den samhälleliga
-> gemenskapen; detta säger du inta av hjärtat, och att inte tala
-> av hjärtat är djupt ovärdigt. Det fjärde fallet är när du
-> tvingas förebrå dig själv att den gudomligare delen av ditt
-> väsen är kuvad och undertryckt av det lägre och dödligare hos
-> dig, av din kropp och dess grova lustar. (11:19).
-
-
-# Finn dig i ditt öde 
+## Finn dig i ditt öde 
 
 En av de viktigaste sakerna att lära sig är att finna sig i sitt
 öde. Att inse att det som sker är rätt och riktigt, och att det
@@ -169,7 +132,7 @@ Enligt Marcus Aurelius gäller: "Hade det varit rätt, hade det
 även varit möjligt" (12:5).
 
 
-## Accepter din död
+## Acceptera din död
 
 En av alla de saker vi måste finna oss i är döden -- vår egen,
 och andras. Döden är ett ständigt återkommande tema i
@@ -202,7 +165,15 @@ Aurelius skriver även om att allt som sker, och allt som kommer att
 ske, endast är upprepningar av sådant som skett tidigare. Livet
 har därför endast en begränsad mängd upplevelser att erbjuda.
 
-CITAT
+> Den [d.v.s. själen] utbreder sig sig över en ändlösa tiden och
+> betraktar allsidigt tingens periodiska återfödelse samt inser
+> av det att våra efterkommande inte kommer att skåda något nytt,
+> lika litet som våra förfäder sett något annat än det vi gör nu.
+> På så sätt kan alltså en fyrtioåring, om han bara har en vaken
+> blick, anse sig ha skådat allt som har varit och kommer att
+> vara. (11:1).
+
+MER CITAT
 
 Döden förminskas även genom ett förminskande av livet. Bland
 annat pekar Aurelius på den obetydliga tid som en människa lever
