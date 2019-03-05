@@ -76,14 +76,14 @@ du handlar rätt.
 
 ## Finn dig i ditt öde 
 
-En av de viktigaste sakerna att lära sig är att finna sig i sitt
-öde. Att inse att det som sker är rätt och riktigt, och att det
-inte kan, eller bör, vara på något annat sätt. Enligt Aurelius
-har allt som händer "alltid varit förutbestämt", och orsakskedjan
-har sedan "begynnelsen sammanlänkat din tillvaro" med allt som
-händer dig (10:5).
+För att kunna förhålla dig korrekt till yttervärlden måste du
+finna dig i ditt öde. Du måste inse att det som sker är rätt och
+riktigt, och att det inte kan, eller bör, vara på något annat
+sätt. Enligt Marcus Aurelius har allt som händer "alltid varit
+förutbestämt", och orsakskedjan har sedan "begynnelsen
+sammanlänkat din tillvaro" med allt som händer dig (10:5).
 
-Detta är ingenting att grämas över. Allt som sker, allt "vad
+Detta är ingenting att våndas över. Allt som sker, allt "vad
 naturen gör" (4:9), är nämligen ändamålsenligt. Precis som en
 läkare har sina botemedel och kurer, har ödet sina egna
 behandlingar.
@@ -100,24 +100,22 @@ och lugn.
 > Älska vad som händer dig och är dig tilldelat; vad kan alstra
 > mera harmoni? (7:56).
 
-Men genom att lära oss att finna oss i tingens nödvändighet,
-genom att lära oss att inte streta emot, vinner vi inte bara
-frid. Vi kan även lära oss att se och ta tillvara på de
-möjligheter som vi möter.
+Men genom att inse tingens nödvändighet, genom att sluta streta
+emot, vinner vi inte bara frid. Vi lär oss även att se och ta
+tillvara på de möjligheter vi möter.
 
 > När det härskande inom oss följer sin natur ställer det sig
 > till vad som sker så att det alltid med lätthet finner sig i
 > det möjliga och givna. (4:1).
 
 Men livet är ofta tungt, och det som sker ofta grymt. Även det
-tunga måste vi acceptera. Även det grymma måste vi lära oss att
-älska. Ett sunt förstånd måste, enligt Aurelius, "tillgodogöra
-sig allt som sker". Det är därför fel av förståndet att önska:
-"Måtte barnen inte dö!". Även våra barns död hör till det som vi
-måste acceptera, hör till det som är ändamålsenligt och
-gagneligt. Ett förstånd som önskar så liknar "ögat som bara vill
-ha grönt att se eller tänderna som bara vill ha mjukt att tugga"
-(10:35).
+tunga måste vi acceptera, även det grymma bör vi älska. Ett sunt
+förstånd måste, enligt Marcus Aurelius, "tillgodogöra sig allt
+som sker". Det är därför fel av förståndet att önska: "Måtte
+barnen inte dö!". Även våra barns död hör till det som vi måste
+acceptera, hör till det som är ändamålsenligt och gagneligt. Ett
+förstånd som önskar så liknar "ögat som bara vill ha grönt att se
+eller tänderna som bara vill ha mjukt att tugga" (10:35).
 
 Att streta emot tingens ordning, att önska att saker var
 annorluna, det hör dårarna till. "Bara en dåre söker
@@ -141,7 +139,7 @@ förminska dödens betydelse och på så sätt göra den mindre
 skräckinjagande.
 
 Detta förminskande sker på ett antal olika sätt. Dels skriver
-Aurelius mycket om att döden inte innebär ett slut, utan endast
+Marcus mycket om att döden inte innebär ett slut, utan endast
 en förvandling till någonting nytt.
 
 > Omoget kart, druva, russin, allt förvandlas, men inte till ett
@@ -161,9 +159,10 @@ fungerar är den inte heller något ont. "Tvärtom är det ett gott,
 för så vitt som det är nyttigt och tjänligt för det stora hela"
 (12:23).
 
-Aurelius skriver även om att allt som sker, och allt som kommer att
-ske, endast är upprepningar av sådant som skett tidigare. Livet
-har därför endast en begränsad mängd upplevelser att erbjuda.
+Marcus Aurelius menar även att allt som sker, och allt som kommer
+att ske, endast är upprepningar av sådant som skett tidigare.
+Livet har därför endast en begränsad mängd upplevelser att
+erbjuda.
 
 > Den [d.v.s. själen] utbreder sig sig över en ändlösa tiden och
 > betraktar allsidigt tingens periodiska återfödelse samt inser
@@ -175,9 +174,10 @@ har därför endast en begränsad mängd upplevelser att erbjuda.
 
 MER CITAT
 
-Döden förminskas även genom ett förminskande av livet. Bland
-annat pekar Aurelius på den obetydliga tid som en människa lever
-jämfört med de tidsåldrar som gått, och de som stundar.
+Till viss del förminskas döden även genom ett förminskande av
+människornas liv. Bland annat pekar Marcus på den obetydliga tid
+som en människa lever jämfört med de tidsåldrar som gått, och de
+som stundar.
 
 > Betrakta den omätliga tiden bakom dig och den andra ändlösheten
 > framför dig. Vad är det, inför detta, för skillnad mellan en
@@ -194,95 +194,22 @@ med dem", är det viktigt att betänka att döden inte är "en
 skilsmässa från likasinnade" (9:3).
 
 Då det inte är oss beskärt att leva samman med människor som har
-"samma principer som en själv", utan vi kan med egna ögon skåda
+samma principer som oss själva, utan vi kan med egna ögon skåda
 "hur stor bedrövelse som uppstår genom bristen på
 överensstämmelse med människorna", har vi all anledning att ropa:
 "Kom snart, o död, så att jag inte till slut glömmer mitt eget
 jag!" (9:3).
 
-"Allt sammantaget", konstaterar Aurelius, "betänk alltid hur
+"Allt sammantaget", konstaterar Marcus, "betänk alltid hur
 kortvarigt och eländigt allt mänskligt är. I går ett frö, i
-morgon mumie eller aska." Döden är därför ingenting att våndas,
-utan vi bör "dö med glatt sinne, liksom den mogna oliven faller,
-i det den välsignar trädet, som skapat den, och tackar grenen som
-burit den" (4:45).  
+morgon mumie eller aska." Döden är därför ingenting att vara
+oroas för, utan vi bör "dö med glatt sinne, liksom den mogna
+oliven faller, i det den välsignar trädet, som skapat den, och
+tackar grenen som burit den" (4:45).  
 
 En stor själ är en själ som, i vilket ögonblick som helst, är
 beredd att "skiljas från kroppen för att antingen slockna eller
 fördunsta eller fortleva" (11:3).
-
-
-
-> Ett friskt öga måste se allt synligt och inte säga: jag vill
-> endast se grönt ... På samma sätt måste ett sunt förstånd
-> tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen
-> inte dö!", eller "Måtte alla prisa mina handlingar!", så liknar
-> det ögat som bara vill ha grönt att se eller tänderna som bara
-> vill ha mjukt att tugga. (10:35).
-
-> Bara en dåre söker fikon vintertid. Bara en dåre längtar efter
-> ett barn när ett sådant inte mera förunnas honom. (11:33).
-
-> Är det verkligen så, kan du vara övertygad att borde det varit
-> annorlunda skulle gudarna också ordnat det annorlunda. Hade det
-> varit rätt, hade det även varit möjligt, och hade det
-> överensstämt med naturan hade naturen också ordnat det så. På
-> grunda av att det inte är så, ifal det nu verkligen inte är så,
-> måd du hämta den fasta övertygelsen att det inte skulle vara
-> så. Ser du inte själ at du försöker mästra Gud, när du ställer
-> sådana frågor? (12:5).
-
-> Vad naturen gör, gör den av nödvändighet, på grund av att det
-> den gör är ändamålsenligt. (4:9)
-
-> Vad som än händer dig, så har det alltid varit förutbestämt och
-> orsakskedjan har av begynnelsen sammanlänkat din tillvaro med
-> denna händelse. (10:5).
-
-> Vad kan vara ömkligare än en människa som utan rast löper hit
-> och dit, genomforksar "vad som under jorden är" och försöker
-> fårstå vad som försiggår i medmänniskornas själar utan att
-> tänka på att hon bara behöver lyssna till den gudomliga enden i
-> sitt eget inro och uppriktigt tjäna den. (2:13).
-
-> Världsalltet skulle stympas om du ville lösgöra ens det minsna
-> fra vare sig beståndsdelarnas eller orsakernas sammanhang. Du
-> lösgör det ellertid, såvitt du förmår, när du är missnöjd
-> därmed och på något sätt frsöker undanröja det. (5:8).
-
-PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
-
-> Må guden inom dig vara ledsagare åt en mogen, statsklok man, en
-> äkta romare, en härskare, som själv har anvisat sig en post där
-> han utan ett behöva ... (3:5).
-
-> Du har hittills existerat såsom en del av det stora hela. Du
-> kommer att på nytt försvinna i vad som skapat dig. Enligt
-> förvandlingens lag blir du återupptagen i världens livsfrö.
-> (4:14).
-
-> Ingen kan hindra dig att leva enligt ditt väsens lag; ingenting
-> kan hända dig som står i strid med allnaturens lag. (6:58).
-
-> Fromhetets krav är att du ska vara nöjd med din lott. Naturen
-> har bestämt den och dig för varandra. Rättfärdighetens krav är
-> att du orädd och utan omsvep säger sanningen och handlar i
-> enlighet med lag och rättvisa. (12:1).
-
-> Till den allt förlänande och allt återtagande naturen sägen den
-> luttrade människan: "Ge vad du vill, ta vad du vill." Hon säger
-> det emellertid inte trotsigt utan undergivet och nöjt. (10:14).
-
-> Inom kort kommer ingen och ingenting av vad du nu ser att
-> finnas till, ingen av de nu levande. Allt är av naturen bestämt
-> till förvandling, förändring och undergång, för att annat ska
-> komma i dess ställe. (12:21).
-
-> Därför är inte heller livets upphörande ett onte för någon och
-> inte heller en skam. Det beror ju inte av vår fria vilja och
-> dussotom gagnar det allmänna. Tvärtom är det et gott, får si
-> vitt som det är nyttigt och tjänligt för det stora hela.
-> (12:23).
 
 
 ## Var god!
@@ -295,140 +222,74 @@ som människor.
 > dig. Så länge du fortfarande lever, så länge du fortfarande kan
 > -- var god! (4:17).
 
-Men vad innebär det att vara god? Ingen entydig definition ges av
-detta, men det verkar till stor del handla om att agera enligt de
-klassiska dygderna: tala sanning, var ödmjuk, lev måttfullt och
-älska din nästa. Det verkar handla om att "älska sin nästa,
-sanningen och blygsamheten" (11:1). Han skriver även att en god
-människa är "en som är nöjd med sin av alltet beskärda lott och
-som finner sin tillfredsställelse i sitt eget rättskaffens
-handlingssätt och sin välvilliga sinnesstämning" (4:25).
+Men vad innebär det att vara god? Marcus ger ingen entydig
+definition, men det verkar till stor del handla om att leva i
+enlighet med de klassiska dygderna: tala sanning, var ödmjuk, lev
+måttfullt och älska din nästa. 
 
-Aurelius menar även att människans glädje består i sant mänskliga
-handlingar. Det sant mänskliga, vilket bör förstås som liktydigt
-med det goda, definierar han som: "att hysa välvilja mot sina
-lika och förakt för de sinnliga drifterna, avviska falska
+Exempelvis skriver Marcus att det som utmärker den tänkande
+själen är att den "älskar sin nästa, sanningen och blygsamheten"
+(11:1). Han skriver även att en god människa är "en som är nöjd
+med sin av alltet beskärda lott och som finner sin
+tillfredsställelse i sitt eget rättskaffens handlingssätt och sin
+välvilliga sinnesstämning" (4:25).
+
+Marcus Aurelius menar även att människans glädje består i sant
+mänskliga handlingar. Det sant mänskliga, vilket bör förstås som
+synonymt med det goda, definierar han som: "att hysa välvilja mot
+sina lika och förakt för de sinnliga drifterna, avviska falska
 föreställningar och begrunda allnaturen och dess verk" (8:26).
 
-Men mest vikt verkar Aurelius lägga vid att visa kärlek och
-välvilja mot sina medmänniskor. Exempelvis skriver han:
+Men mest vikt verkar Marcus lägga vid att visa kärlek och
+välvilja mot sina medmänniskor. Han skriver:
 
 > Endast ett äger bestående värde: att hela livet igenom med
 > sanning och rättvisa för ögonen visa välvilja även mot lögnare
 > och dåliga människor. (6:47).
 
-Viktigt är att godheten innebär ett agerande. God är man genom
-att göra gott, inte endast genom att tänka gott. Att tänka gott
-är viktigt, men detta för att det leder till goda handlingar.
-Enligt Aurelius finns ingen skillnad "mellan det rätt tänkande
-och det rätt handlande förnuftet" (11:1).
+I Marcus beskrivningar av det goda läggs stor vikt vid
+handlandet. Godhet verkar främst handla om att göra gott, inte
+endast att tänka gott. Att tänka gott är viktigt, men detta för
+att det leder till goda handlingar. Enligt Marcus Aurelius finns
+ingen skillnad "mellan det rätt tänkande och det rätt handlande
+förnuftet" (11:1).
 
 Genom att göra andra gott gör vi även gott mot oss själva. Varje
 gång jag gör något allmännyttigt "har jag själv fördel av det"
 (11:4). Detta hänger delvis samman med att människan, enligt
-Aurelius, alltid bör handla i enlighet med sin natur. Och att
-göra gott mot andra är en viktig del av denna natur. Att handla
-gott är därför sin egen belöning. 
+Marcus, alltid bör handla i enlighet med sin natur. Att göra gott
+mot andra är en viktig del av denna natur, och det är därför sin
+egen belöning. 
 
 > För när du gör människorna gott, vad mera kan du då begära? Är
 > inte det nog att du handlat enligt din natur, utan vill du ha
 > lön för detta? Det vore som att ögat begär lön för att det ser
 > eller fötterna för att de går. (9:42).
 
-"Naturens väg", skriver Aurelius, "är den kortaste" -- och det är
-alltid den kortaste vägen vi bör vandra. Att följa naturens väg
-är att "i tal och handling ära det sunda förnuftet". Genom att
-följa denna väg besparas du mycket ont, allra helst: "bekymmer
-och strider, hänsyn och oärligheter av alla slag" (KÄLLA). Däri
-ligger, åtminstone en del av, belöningen.
+"Naturens väg", skriver Marcus Aurelius, "är den kortaste" -- och
+det är alltid den kortaste vägen vi bör vandra. Att följa
+naturens väg är att "i tal och handling ära det sunda förnuftet".
+Genom att följa denna väg besparas du mycket ont, allra helst:
+"bekymmer och strider, hänsyn och oärligheter av alla slag"
+(KÄLLA). Däri ligger, åtminstone till viss del, belöningen.
 
-Det viktiga för Aurelius är inte mängden goda handlingar en
-människa utför, eller under hur lång tidsperiod. Att endast hålla
-"rätt sak i rättan tid för ett gott", det är det viktiga. Den som
-gör det, och inte frågar "efter om han har att uppvisa ett större
-eller mindre antal förnuftiga handlingar" eller om han "längre
-eller kortare tid får skåda världen", för den människan "har
-döden ingenting fruktansvärt" (12:35).
-
-
-
-
-> Äntligen är också det utmärkande för den tänkande själen att
-> den älskar sin nästa, sanningen och blygsamheten och inte aktar
-> något högre än sig själv, vilket också hör till lagens väsen.
-> Alltså finns ingen skillnad mellan det rätt tänkande och det
-> rätt handlande förnuftet. (11:1).
-
-> Pröva så fort du kan hur det är att leva so som en god
-> människa. En som är nöjd med sin av alltet beskärda lott och
-> som finner sin tellfredsställelse i sitt eget rättskaffens
-> handlingsssät och sin välvilliga sinnesstämning. (4:25).
-
-> Människans glädje består i sant mänskliga handlingar. Sant
-> mänskligt ar ätt hysa välvilja met sina lika och förkat för den
-> sinnliga drifterna, vvisa falska föreställningar och begrunda
-> allnaturen och dess verk. (8:26).
-
-> Har jag gjort något allmännyttigt? I så fall hr jag själv
-> fördel av det. Ha alltid denna tanke för ögonen, och sluta
-> aldrig upp med att handla i enlighet därmed. (11:4).
-
-> Vandra alltid den kortaste vägen. Naturens väg är den kortaste;
-> man följer då i tal och handling ara det sunda förnuftet. Ett
-> sådant beslut bespara dig bekymmer och stryder, hänsyn och
-> oärligheter av alla slag.
-
-> Ingen tröttnar på att göra gott mot sig själv. Att göra gott
-> mot sig själv är att handla i enlighet med naturen. Tröttna
-> alltså inte på att göra gott mot dig själv genom att göra andra
-> gott. (7:72).
-
-> Den som håller endast rätt sak i rättan tid för ett gott, som
-> inte frågar efter om han har att uppvisa ett större eller
-> mindre antal förnuftiga handlingar och om han lägre eller
-> kortare tid får skåda världen, för honom har döden ingenting
-> fruktansvärt. (12:35).
-
-
-
-
-> Den fullkomligaste människan vore den som skiljdes från livet
-> utan att ha smakat ondskan: lögnaktighet och hyckleri,
-> utsvänande leverne och inbilskhet. Den nästa bästa skilsmässan
-> vore att dö mätt på dessa ting. (9:2).
-
-> Lika litet som du låter människorna hindra dig från att följa
-> sunda förnuftet och handla rätt, lika litet får du låda dem
-> hindra dig att känna välvilja för dem ... Att vredgas på dem
-> vare en lika stor svaghet som att avstå från sitt uppsåt och
-> bestört ge vika. (11:9).
-
-> Vad är din konst? Att vara god. Men hur skulle detta kunna
-> lyckas annat än genom klar insikt dels i allnaturens väsen,
-> dels i de för människan egendomliga anlagen? (11:5).
-
-> För liksom ingen frivilligt avstår från sanningen, så avstår
-> heller ingen frivilligt från att handla rätt. Åtminstone blir
-> de förargade om man kallar dem orättvisa, otacksamma,
-> egennyttiga, med ett ord brottsliga mot sin nästa. (11:18).
-
-> För det fjärde: du felar ofta själ och är således inte bättre
-> än de andra. Om du avhåller dig från vissa förseelser så har du
-> ändå anlagen till dem. (11:18).
-
-> Fråga om du har den åsikten om någon att han felat: hur vet jag
-> att detta verkligen är ett fel? Men även antaget att han har
-> felat, så har han därigenom dömt sig själv och liksom klöst sig
-> själv i ansiktet. (12:16).
+Marcus menar även att det väsentliga inte är mängden goda handlingar
+en människa utför, eller under hur lång tidsperiod. Att endast
+hålla "rätt sak i rättan tid för ett gott", det är det viktiga.
+Den som gör det, och inte frågar om "han har att uppvisa ett
+större eller mindre antal förnuftiga handlingar" eller om han
+"längre eller kortare tid får skåda världen", för den människan
+"har döden ingenting fruktansvärt" (12:35).
 
 
 ## Avslutning
 
-Marcus Aurelius är en intressant tänkare att läsa. Inte minst
-eftersom han förutom att vara filosof även var romersk kejsare
-när imperiet var som störst, och en av historiens kanske
-mäktigaste män. Men också, så klart, för att det från honom finns
-mycket att lära.
+Marcus Aurelius är en spännande tänkare att läsa. Delvis för att
+han, då han var romersk kejsare när imperiet var som störst, är
+en av historiens kanske mäktigaste män. Men också, så klart, för
+att det från honom finns mycket att lära.
+
+NÅT OM HANS VÄRLDSLIGA MAKT KONTRA HANS FILOSOFI
 
 Det finns många tankar i *Självbetraktelser* som jag inte delar.
 Bland annat är den filosofi som presenteras ofta i alltför hög
@@ -439,8 +300,8 @@ annat i denna vers:
 > orubbligt fast har levnadskonsten mera likhet med fäktkonsten
 > än med danskonsten. (7:60).
 
-Livet handlar alltså mera om att "stå orubbligt fast", att vara
-hård och tålig, än dansens skapande lek.
+Livet handlar alltså mer om att "stå orubbligt fast", att vara
+hård och tålig, än om dansens skapande lek.
 
 Aurelius fokus på att ens medmänniskor ofta är någonting som bör
 undvikas har jag även svårt för. Tidigare nämnde jag att det
@@ -454,8 +315,8 @@ Men trots det finns det mycket att hämta. Lärdomar om att du,
 genom att ändra hur du väljer att betrakta din värld, kan
 förändra din värld. Om att du, genom att -- inom rimlighetens
 gräns -- acceptera och bejaka det som händer dig kan finna frid.
-Och att du, genom att sträva efter att göra rätt sak i rättan
-tid, kan finna ett försvar mot självaste döden.
+Och att du, genom strävan att göra rätt sak i rättan tid, kan
+finna ett försvar mot självaste döden.
 
 > Gör dig bara fri från dina falska föreställningar. Då är du
 > räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
