@@ -164,7 +164,7 @@ att ske, endast är upprepningar av sådant som skett tidigare.
 Livet har därför endast en begränsad mängd upplevelser att
 erbjuda.
 
-> Den [d.v.s. själen] utbreder sig sig över en ändlösa tiden och
+> Den [d.v.s. själen] utbreder sig sig över den ändlösa tiden och
 > betraktar allsidigt tingens periodiska återfödelse samt inser
 > av det att våra efterkommande inte kommer att skåda något nytt,
 > lika litet som våra förfäder sett något annat än det vi gör nu.
@@ -234,7 +234,7 @@ med sin av alltet beskärda lott och som finner sin
 tillfredsställelse i sitt eget rättskaffens handlingssätt och sin
 välvilliga sinnesstämning" (4:25).
 
-Marcus Aurelius menar även att människans glädje består i sant
+Marcus Aurelius menar att människans glädje består i sant
 mänskliga handlingar. Det sant mänskliga, vilket bör förstås som
 synonymt med det goda, definierar han som: "att hysa välvilja mot
 sina lika och förakt för de sinnliga drifterna, avviska falska
@@ -289,7 +289,14 @@ han, då han var romersk kejsare när imperiet var som störst, är
 en av historiens kanske mäktigaste män. Men också, så klart, för
 att det från honom finns mycket att lära.
 
-NÅT OM HANS VÄRLDSLIGA MAKT KONTRA HANS FILOSOFI
+En av de saker jag finner intressanta med Marcus Aurelius är
+kontrasten mellan hans världsliga makt och hans filosofi. Han är
+en av historiens kanske mäktigaste män, men enligt hans filosofi
+är människans makt över sin yttervärld klart begränsad,
+nästintill illusorisk. Ödet gör med dig som det vill. Den makt du
+har är istället över ditt inre, över dina tankar och känslor. Att
+det är en sådan filosofi denna maktmänniska fastnat för kanske
+säger något om den världsliga maktens natur.
 
 Det finns många tankar i *Självbetraktelser* som jag inte delar.
 Bland annat är den filosofi som presenteras ofta i alltför hög
