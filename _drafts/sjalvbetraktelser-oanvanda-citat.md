@@ -43,6 +43,14 @@
 > det ögat som bara vill ha grönt att se eller tänderna som bara
 > vill ha mjukt att tugga. (10:35).
 
+> Den [d.v.s. själen] utbreder sig sig över den ändlösa tiden och
+> betraktar allsidigt tingens periodiska återfödelse samt inser
+> av det att våra efterkommande inte kommer att skåda något nytt,
+> lika litet som våra förfäder sett något annat än det vi gör nu.
+> På så sätt kan alltså en fyrtioåring, om han bara har en vaken
+> blick, anse sig ha skådat allt som har varit och kommer att
+> vara. (11:1).
+
 > Bara en dåre söker fikon vintertid. Bara en dåre längtar efter
 > ett barn när ett sådant inte mera förunnas honom. (11:33).
 

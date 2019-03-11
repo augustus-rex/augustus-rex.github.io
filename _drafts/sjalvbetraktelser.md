@@ -164,20 +164,23 @@ att ske, endast är upprepningar av sådant som skett tidigare.
 Livet har därför endast en begränsad mängd upplevelser att
 erbjuda.
 
-> Den [d.v.s. själen] utbreder sig sig över den ändlösa tiden och
-> betraktar allsidigt tingens periodiska återfödelse samt inser
-> av det att våra efterkommande inte kommer att skåda något nytt,
-> lika litet som våra förfäder sett något annat än det vi gör nu.
-> På så sätt kan alltså en fyrtioåring, om han bara har en vaken
-> blick, anse sig ha skådat allt som har varit och kommer att
-> vara. (11:1).
-
-MER CITAT
-
 Till viss del förminskas döden även genom ett förminskande av
 människornas liv. Bland annat pekar Marcus på den obetydliga tid
 som en människa lever jämfört med de tidsåldrar som gått, och de
-som stundar.
+som stundar. Allt är "av evighet" sig likt och går i ett
+kretslopp. Det är därför "likgiltigt om man i hundra eller
+tvåhundra år eller evig tid är vittne till ett och detsamma"
+(2:14). Av denna anledning kan "en fyrtioåring, om han bara har
+vaken blick, anse sig ha skådat allt som har varit och kommer att
+vara" (11:1).
+
+Marcus menar vidare att den enda tid en människa äger är det
+närvarande ögonblicket, och det är därför den enda tid hon kan gå
+miste om. "Det närvarande ögonblicket är av samma längd för alla
+och det svunna likaså; även det ter sig så som bara ett
+ögonblick. Varken det förflutna eller framtiden kan man förlora."
+Oavsett om du dör gammal och ung går du därför miste om samma
+sak: det närvarande ögonblicket (2:14).
 
 > Betrakta den omätliga tiden bakom dig och den andra ändlösheten
 > framför dig. Vad är det, inför detta, för skillnad mellan en
@@ -271,7 +274,7 @@ det är alltid den kortaste vägen vi bör vandra. Att följa
 naturens väg är att "i tal och handling ära det sunda förnuftet".
 Genom att följa denna väg besparas du mycket ont, allra helst:
 "bekymmer och strider, hänsyn och oärligheter av alla slag"
-(KÄLLA). Däri ligger, åtminstone till viss del, belöningen.
+(4:51). Däri ligger, åtminstone till viss del, belöningen.
 
 Marcus menar även att det väsentliga inte är mängden goda handlingar
 en människa utför, eller under hur lång tidsperiod. Att endast
