@@ -287,46 +287,49 @@ större eller mindre antal förnuftiga handlingar" eller om han
 
 ## Avslutning
 
-Marcus Aurelius är en spännande tänkare att läsa. Delvis för att
-han, då han var romersk kejsare när imperiet var som störst, är
-en av historiens kanske mäktigaste män. Men också, så klart, för
-att det från honom finns mycket att lära.
+Marcus Aurelius är en spännande tänkare, och från honom finns
+mycket att lära. Dessutom finns det en spännande kontrast mellan
+hans maktposition och hans filosofi.
 
-En av de saker jag finner intressanta med Marcus Aurelius är
-kontrasten mellan hans världsliga makt och hans filosofi. Han är
-en av historiens kanske mäktigaste män, men enligt hans filosofi
-är människans makt över sin yttervärld klart begränsad,
-nästintill illusorisk. Ödet gör med dig som det vill. Den makt du
-har är istället över ditt inre, över dina tankar och känslor. Att
-det är en sådan filosofi denna maktmänniska fastnat för kanske
-säger något om den världsliga maktens natur.
+Marcus var romersk kejsare när imperiet var som störst, vilket
+gör honom till en av historiens kanske mäktigaste män. Men enligt
+hans filosofi är människans makt över sin yttervärld klart
+begränsad, nästintill illusorisk. Ödet gör med dig som det
+behagar. Den makt du har gäller istället ditt inre: dina tankar,
+föreställningar och känslor. Att det är en sådan filosofi denna
+maktmänniska fastnat för kanske säger något om den världsliga
+maktens natur.
 
-Det finns många tankar i *Självbetraktelser* som jag inte delar.
-Bland annat är den filosofi som presenteras ofta i alltför hög
-grad pliktfokuserad snarare än livsbejakande. Det märks bland
-annat i denna vers:
+Även om jag uppskattar *Självbetraktelser* innehåller den också
+en hel del jag har svårt för. Den filosofi som presenteras är
+ofta plikttung, istället för livsbejakande. Det märks bland annat
+i denna vers:
 
 > Eftersom man måste vara beredd på oväntade stötar och stå
 > orubbligt fast har levnadskonsten mera likhet med fäktkonsten
 > än med danskonsten. (7:60).
 
-Livet handlar alltså mer om att "stå orubbligt fast", att vara
-hård och tålig, än om dansens skapande lek.
+Livet handlar mer om att "stå orubbligt fast", att vara hård och
+tålig, än om dansens skapande lek.
 
-Aurelius fokus på att ens medmänniskor ofta är någonting som bör
-undvikas har jag även svårt för. Tidigare nämnde jag att det
-enligt Aurelius väl inte finns någonting som kan göra dig mer
-tillfreds med döden än att betrakta de ting och människor som du
-kommer skiljas från. Liknande teman återkommer på andra håll i
-boken, då han bland annat skriver: "Och dina medmänniskor! Knappt
-den angenämaste av dem är uthärdlig" (5:10).
+Marcus har dessutom en ganska nedvärderande syn på människorna i
+sin omgivning. Han är tydlig med att vi bör älska våra
+medmänniskor, men det är sälla han anser dem särskilt älskvärda.
+Älskandet hör snarare plikten och den mänskliga naturen till.
+Exempelvis har jag tidigare nämnt att det enligt Marcus inte
+finns någonting som kan göra dig mer tillfreds med döden än att
+betrakta de ting och människor som du kommer att skiljas ifrån.
+Liknande teman återkommer på andra håll i boken, bland annat
+skriver han: "Och dina medmänniskor! Knappt den angenämaste av
+dem är uthärdlig" (5:10).
 
-Men trots det finns det mycket att hämta. Lärdomar om att du,
-genom att ändra hur du väljer att betrakta din värld, kan
-förändra din värld. Om att du, genom att -- inom rimlighetens
-gräns -- acceptera och bejaka det som händer dig kan finna frid.
-Och att du, genom strävan att göra rätt sak i rättan tid, kan
-finna ett försvar mot självaste döden.
+Men även om, och delvis på grund av, inte allt är lätt finns det
+mycket att hämta. Det finns lärdomar om att du, genom att
+förändra hur du betraktar din värld, kan förändra din värld. Om
+att du, genom att -- inom rimlighetens gräns -- acceptera och
+bejaka det som händer dig kan finna frid. Och att du, genom
+strävan att göra rätt sak i rätt tid, kan finna ett försvar mot
+självaste döden.
 
 > Gör dig bara fri från dina falska föreställningar. Då är du
 > räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
