@@ -169,7 +169,7 @@ närvarande ögonblicket, och det är därför den enda tid hon kan
 förlora. "Det närvarande ögonblicket är av samma längd för alla
 och det svunna likaså; även det ter sig så som bara ett
 ögonblick. Varken det förflutna eller framtiden kan man förlora"
-(2:14). Det gör därför ingen större skillnad huruvda du dör
+(2:14). Det gör därför ingen större skillnad huruvida du dör
 gammal eller ung. I båda fallen går du miste om samma sak: det
 närvarande ögonblicket.
 
@@ -197,7 +197,7 @@ faller, i det den välsignar trädet, som skapat den, och tackar
 grenen som burit den" (4:45). 
 
 
-## Var god! (FORTSÄTT KORRLÄSNING HÄR!)
+## Var god! 
 
 För att leva lyckligt räcker det inte med att endast acceptera
 allt som händer oss. Vi måste också handla rätt och vara goda.
@@ -207,10 +207,10 @@ Det är vår främsta uppgift som människor.
 > dig. Så länge du fortfarande lever, så länge du fortfarande kan
 > -- var god! (4:17).
 
-Men vad innebär det att vara god? Marcus ger ingen entydig
-definition, men det verkar till stor del handla om att leva i
-enlighet med de klassiska dygderna: tala sanning, var ödmjuk, lev
-måttfullt och älska din nästa. 
+Men vad innebär det att vara god? Marcus Aurelius ger ingen
+entydig definition, men det verkar till stor del handla om att
+leva i enlighet med de klassiska dygderna: tala sanning, var
+ödmjuk, lev måttfullt och älska din nästa. 
 
 Exempelvis skriver Marcus att det som utmärker den tänkande
 själen är att den "älskar sin nästa, sanningen och blygsamheten"
@@ -233,10 +233,10 @@ välvilja mot sina medmänniskor. Han skriver:
 > och dåliga människor. (6:47).
 
 I Marcus beskrivningar av det goda läggs stor vikt vid
-handlandet. Godhet verkar främst handla om att göra gott, inte
-endast att tänka gott. Att tänka gott är viktigt, men detta för
-att det leder till goda handlingar. Enligt Marcus Aurelius finns
-ingen skillnad "mellan det rätt tänkande och det rätt handlande
+handlandet. Godhet handlar främst om att göra gott, inte endast
+att tänka gott. Att tänka gott är viktigt, men detta för att det
+leder till goda handlingar. Enligt Marcus Aurelius finns ingen
+skillnad "mellan det rätt tänkande och det rätt handlande
 förnuftet" (11:1).
 
 Genom att göra andra gott gör vi även gott mot oss själva. Varje
@@ -258,6 +258,8 @@ Genom att följa denna väg besparas du mycket ont, allra helst:
 "bekymmer och strider, hänsyn och oärligheter av alla slag"
 (4:51). Däri ligger, åtminstone till viss del, belöningen.
 
+KORRLÄS HÄRIFRÅN!
+
 Marcus menar även att det väsentliga inte är mängden goda handlingar
 en människa utför, eller under hur lång tidsperiod. Att endast
 hålla "rätt sak i rättan tid för ett gott", det är det viktiga.
@@ -265,6 +267,15 @@ Den som gör det, och inte frågar om "han har att uppvisa ett
 större eller mindre antal förnuftiga handlingar" eller om han
 "längre eller kortare tid får skåda världen", för den människan
 "har döden ingenting fruktansvärt" (12:35).
+
+Häri ligger, som jag förstår det, en central del av Marcus
+filosofi. För om det är, som Marcus säger, att allt mänskligt är
+kortvarigt och eländigt och det inte gör någon skillnad huruvida
+du dör ung eller gammal, varför bry sig om att leva
+över huvud taget? För att i varje stund, i varje ögonblick du
+lever, har du möjligheten att göra det rätta. Och gör du det, vad
+än det rätta må vara, behöver du inte bekymra dig om någonting
+annat. Inte ens döden.
 
 
 ## Avslutning
