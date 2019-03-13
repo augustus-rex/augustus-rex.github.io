@@ -36,6 +36,15 @@
 
 # Acceptera din död
 
+En stor själ är en själ som, i vilket ögonblick som helst, är
+beredd att "skiljas från kroppen för att antingen slockna eller
+fördunsta eller fortleva" (11:3).
+
+> Betrakta den omätliga tiden bakom dig och den andra ändlösheten
+> framför dig. Vad är det, inför detta, för skillnad mellan en
+> som lever i tre dagar och en som lever i tre människoåldrar?
+> (4:50).
+
 > Ett friskt öga måste se allt synligt och inte säga: jag vill
 > endast se grönt ... På samma sätt måste ett sunt förstånd
 > tillgodogöra sig allt som sker. Säger förståndet: "Måtte barnen

@@ -6,20 +6,19 @@ title: En kejsares självbetraktelser
 *Självbetraktelser* är en boksamling författad av Marcus Aurelius
 (121--180 e.Kr.), romersk kejsare när imperiet var som störst.
 
-Men Marcus var inte bara kejsare, han var även filosof. Han
-brukar räknas bland den siste stora av den nystoiska skolan.
-Stoicismen var en av de stora filosofiskolorna i det antika
-Grekland som bland annat lade stort fokus på NÅGOT. Den nystoiska
-skolan fick fäste i romarriket med tänkare såsom Seneca,
-Epiktetos -- och Marcus Aurelius. EJ FÄRDIG.
+Men Marcus var inte bara kejsare, han var även stoisk filosof,
+och det är denne Marcus vi möter i Självbetraktelser.
+Stoicisismen var en av de stora filosofiskolorna i det antika
+Grekland, men den fick också fäste i romarriket genom tänkare
+såsom Cicero, Seneca -- och Marcus Aurelius.
 
-*Självbetraktelser* består av tolv delböcker, och varje bok är
-uppbyggd av ett visst antal verser. Verserna är ofta korta och
+Självbetraktelser består av tolv delböcker, och i varje bok finns
+ett antal verser av varierande längd. Verserna är ofta
 formulerade som betraktelser eller reflektioner, och de är inte
 -- eller verkar åtminstone inte vara -- ordnade utefter någon
 större systematik. 
 
-Men verserna behandlar ett flertal återkommande temn. I denna
+Men verserna behandlar ett flertal återkommande teman. I denna
 text kommer jag fördjupa mig i fyra sådana teman, nämligen:
 
 1. yttervärlden berör dig inte, makten är din egen
@@ -27,16 +26,16 @@ text kommer jag fördjupa mig i fyra sådana teman, nämligen:
 3. acceptera din död
 4. var god.
 
-Citaten texten källhänvisas enligt modellen bok:vers.
-Hänvisningen 4:3 hänvisar alltså till den fjärde bokens tredje
-vers.
+Citat ur Självbetraktelser källhänvisas enligt modellen
+bok:vers. Hänvisningen 4:3 hänvisar alltså till den fjärde bokens
+tredje vers.
 
 
 ## Yttervärlden berör dig inte, makten är din egen 
 
 Det första temat är klassiskt stoiskt. Det handlar om att
-yttervärlden inte på allvar kan påverka ditt innersta, den makten
-har endast du själv.
+yttervärlden, världen utanför dig själv, inte på allvar kan
+påverka ditt innersta, den makten har endast du själv.
 
 > Av de sanningar, som alltid måste stå levande för dig är dessa
 > de två viktigaste: den ena, att yttervärlden inte kan snudda
@@ -45,7 +44,7 @@ har endast du själv.
 
 Det är aldrig yttervärlden i sig som orsakar dig smärta eller
 lidande, utan alltid din inställning till det som sker. Ett
-problem är endast ett problem om du anser det vara det.
+problem är endast ett problem om du anser det vara ett.
 
 > Om ett yttre föremål orsakar dig lidande, så är det inte det
 > som stör din frid, utan ditt eget omdöme som gör det. Men att
@@ -73,7 +72,6 @@ vilja ha i framtiden kan du få redan nu" (12:1). Allt som krävs
 du handlar rätt.
 
 
-
 ## Finn dig i ditt öde 
 
 För att kunna förhålla dig korrekt till yttervärlden måste du
@@ -81,12 +79,11 @@ finna dig i ditt öde. Du måste inse att det som sker är rätt och
 riktigt, och att det inte kan, eller bör, vara på något annat
 sätt. Enligt Marcus Aurelius har allt som händer "alltid varit
 förutbestämt", och orsakskedjan har sedan "begynnelsen
-sammanlänkat din tillvaro" med allt som händer dig (10:5).
+sammanlänkat din tillvaro" med allt som händer dig" (10:5).
 
-Detta är ingenting att våndas över. Allt som sker, allt "vad
-naturen gör" (4:9), är nämligen ändamålsenligt. Precis som en
-läkare har sina botemedel och kurer, har ödet sina egna
-behandlingar.
+Detta är ingenting att våndas över. Allt som sker är nämligen
+ändamålsenligt. Precis som en läkare har sina botemedel och
+kurer, har ödet sina egna behandlingar.
 
 > I fallet med läkaren betyder "han har föreskrivit", att "han
 > har förordnat det så som gagneligt för hälsan"; i fallet med
@@ -124,23 +121,22 @@ sådant inte mera förunnas honom" (11:33).
 
 En klok människa inser istället att om någonting borde varit
 annorlunda "skulle gudarna också ordnat det annorlunda". Av den
-enkla anledningen att saker inte är på ett visst sätt kan du
-"hämta den fasta övertygelsen att det inte skulle vara så".
-Enligt Marcus Aurelius gäller: "Hade det varit rätt, hade det
-även varit möjligt" (12:5).
+enkla anledningen att saker inte är på ett visst sätt kan du vara
+förvissad om att det inte bör vara så. Enligt Marcus Aurelius
+gäller: "Hade det varit rätt, hade det även varit möjligt"
+(12:5).
 
 
 ## Acceptera din död
 
 En av alla de saker vi måste finna oss i är döden -- vår egen,
 och andras. Döden är ett ständigt återkommande tema i
-*Självbetraktelser*, och till stor del handlar det om att
-förminska dödens betydelse och på så sätt göra den mindre
-skräckinjagande.
+Självbetraktelser, och till stor del handlar det om att förminska
+dödens betydelse och på så sätt göra den mindre skräckinjagande.
 
 Detta förminskande sker på ett antal olika sätt. Dels skriver
-Marcus mycket om att döden inte innebär ett slut, utan endast
-en förvandling till någonting nytt.
+Marcus om att döden inte innebär ett slut, utan endast en
+förvandling till någonting annat.
 
 > Omoget kart, druva, russin, allt förvandlas, men inte till ett
 > icke-varande utan endast till ett ännu icke varande. (11:35).
@@ -162,30 +158,20 @@ för så vitt som det är nyttigt och tjänligt för det stora hela"
 Marcus Aurelius menar även att allt som sker, och allt som kommer
 att ske, endast är upprepningar av sådant som skett tidigare.
 Livet har därför endast en begränsad mängd upplevelser att
-erbjuda.
-
-Till viss del förminskas döden även genom ett förminskande av
-människornas liv. Bland annat pekar Marcus på den obetydliga tid
-som en människa lever jämfört med de tidsåldrar som gått, och de
-som stundar. Allt är "av evighet" sig likt och går i ett
-kretslopp. Det är därför "likgiltigt om man i hundra eller
-tvåhundra år eller evig tid är vittne till ett och detsamma"
-(2:14). Av denna anledning kan "en fyrtioåring, om han bara har
-vaken blick, anse sig ha skådat allt som har varit och kommer att
-vara" (11:1).
+erbjuda. Allt är "av evighet" sig likt och går i ett kretslopp.
+Det är därför "likgiltigt om man i hundra eller tvåhundra år
+eller evig tid är vittne till ett och detsamma" (2:14). Av denna
+anledning kan "en fyrtioåring, om han bara har vaken blick, anse
+sig ha skådat allt som har varit och kommer att vara" (11:1).
 
 Marcus menar vidare att den enda tid en människa äger är det
-närvarande ögonblicket, och det är därför den enda tid hon kan gå
-miste om. "Det närvarande ögonblicket är av samma längd för alla
+närvarande ögonblicket, och det är därför den enda tid hon kan
+förlora. "Det närvarande ögonblicket är av samma längd för alla
 och det svunna likaså; även det ter sig så som bara ett
-ögonblick. Varken det förflutna eller framtiden kan man förlora."
-Oavsett om du dör gammal och ung går du därför miste om samma
-sak: det närvarande ögonblicket (2:14).
-
-> Betrakta den omätliga tiden bakom dig och den andra ändlösheten
-> framför dig. Vad är det, inför detta, för skillnad mellan en
-> som lever i tre dagar och en som lever i tre människoåldrar?
-> (4:50).
+ögonblick. Varken det förflutna eller framtiden kan man förlora"
+(2:14). Det gör därför ingen större skillnad huruvda du dör
+gammal eller ung. I båda fallen går du miste om samma sak: det
+närvarande ögonblicket.
 
 Aurelius har också en återkommande tendens att nedvärdera
 människorna i sin omgivning. Exempelvis menar han att "väl
@@ -205,21 +191,17 @@ jag!" (9:3).
 
 "Allt sammantaget", konstaterar Marcus, "betänk alltid hur
 kortvarigt och eländigt allt mänskligt är. I går ett frö, i
-morgon mumie eller aska." Döden är därför ingenting att vara
-oroas för, utan vi bör "dö med glatt sinne, liksom den mogna
-oliven faller, i det den välsignar trädet, som skapat den, och
-tackar grenen som burit den" (4:45).  
-
-En stor själ är en själ som, i vilket ögonblick som helst, är
-beredd att "skiljas från kroppen för att antingen slockna eller
-fördunsta eller fortleva" (11:3).
+morgon mumie eller aska." Döden är därför ingenting att oroas
+för, utan vi bör "dö med glatt sinne, liksom den mogna oliven
+faller, i det den välsignar trädet, som skapat den, och tackar
+grenen som burit den" (4:45). 
 
 
-## Var god!
+## Var god! (FORTSÄTT KORRLÄSNING HÄR!)
 
-Hur bör vi leva våra liv? Marcus Aurelius lägger stor vikt vid
-att vi ska handla rätt, och vara goda. Det är vår främsta uppgift
-som människor.
+För att leva lyckligt räcker det inte med att endast acceptera
+allt som händer oss. Vi måste också handla rätt och vara goda.
+Det är vår främsta uppgift som människor.
 
 > Lev inte som om du hade tusen år framför dig. Döden svävar över
 > dig. Så länge du fortfarande lever, så länge du fortfarande kan
@@ -232,10 +214,10 @@ måttfullt och älska din nästa.
 
 Exempelvis skriver Marcus att det som utmärker den tänkande
 själen är att den "älskar sin nästa, sanningen och blygsamheten"
-(11:1). Han skriver även att en god människa är "en som är nöjd
-med sin av alltet beskärda lott och som finner sin
-tillfredsställelse i sitt eget rättskaffens handlingssätt och sin
-välvilliga sinnesstämning" (4:25).
+(11:1). Han skriver att en god människa är "en som är nöjd med
+sin av alltet beskärda lott och som finner sin tillfredsställelse
+i sitt eget rättskaffens handlingssätt och sin välvilliga
+sinnesstämning" (4:25).
 
 Marcus Aurelius menar att människans glädje består i sant
 mänskliga handlingar. Det sant mänskliga, vilket bör förstås som
@@ -300,7 +282,7 @@ föreställningar och känslor. Att det är en sådan filosofi denna
 maktmänniska fastnat för kanske säger något om den världsliga
 maktens natur.
 
-Även om jag uppskattar *Självbetraktelser* innehåller den också
+Även om jag uppskattar Självbetraktelser innehåller den också
 en hel del jag har svårt för. Den filosofi som presenteras är
 ofta plikttung, istället för livsbejakande. Det märks bland annat
 i denna vers:
