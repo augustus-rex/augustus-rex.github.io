@@ -5,7 +5,6 @@ title: En kejsares självbetraktelser
 
 *Självbetraktelser* är en boksamling författad av Marcus Aurelius
 (121--180 e.Kr.), romersk kejsare när imperiet var som störst.
-
 Men Marcus var inte bara kejsare, han var även stoisk filosof,
 och det är denne Marcus vi möter i Självbetraktelser.
 Stoicisismen var en av de stora filosofiskolorna i det antika
@@ -232,12 +231,19 @@ välvilja mot sina medmänniskor. Han skriver:
 > sanning och rättvisa för ögonen visa välvilja även mot lögnare
 > och dåliga människor. (6:47).
 
-I Marcus beskrivningar av det goda läggs stor vikt vid
-handlandet. Godhet handlar främst om att göra gott, inte endast
-att tänka gott. Att tänka gott är viktigt, men detta för att det
-leder till goda handlingar. Enligt Marcus Aurelius finns ingen
-skillnad "mellan det rätt tänkande och det rätt handlande
-förnuftet" (11:1).
+För att få kunskap om det goda och rätta kan vi också lyssna
+inåt. Marcus menar att vi alla står i kontakt med det gudomliga.
+Vi bär alla på en gudomlig ande, och genom den anden kan vi få
+vägledning. Den kunskap vi behöver besitter vi redan. Allt vi
+behöver göra är att "lyssna till den gudomliga anden i vårt eget
+inre och uppriktigt tjäna den" (2:13).
+
+Värt att uppmärksamma är att i Marcus beskrivningar av det goda
+är handlingen är central. Godhet handlar om att göra gott, inte
+endast att tänka gott. Att tänka gott är viktigt, men detta för
+att det leder till goda handlingar. Enligt Marcus Aurelius finns
+därför ingen skillnad "mellan det rätt tänkande och det rätt
+handlande förnuftet" (11:1).
 
 Genom att göra andra gott gör vi även gott mot oss själva. Varje
 gång jag gör något allmännyttigt "har jag själv fördel av det"
@@ -258,31 +264,29 @@ Genom att följa denna väg besparas du mycket ont, allra helst:
 "bekymmer och strider, hänsyn och oärligheter av alla slag"
 (4:51). Däri ligger, åtminstone till viss del, belöningen.
 
-KORRLÄS HÄRIFRÅN!
-
-Marcus menar även att det väsentliga inte är mängden goda handlingar
-en människa utför, eller under hur lång tidsperiod. Att endast
-hålla "rätt sak i rättan tid för ett gott", det är det viktiga.
-Den som gör det, och inte frågar om "han har att uppvisa ett
-större eller mindre antal förnuftiga handlingar" eller om han
+Marcus menar även att det väsentliga inte är mängden goda
+handlingar en människa utför, eller under hur lång tid. Att
+endast hålla "rätt sak i rättan tid för ett gott", det är det
+viktiga. Den som gör det, och inte frågar om "han har att uppvisa
+ett större eller mindre antal förnuftiga handlingar" eller om han
 "längre eller kortare tid får skåda världen", för den människan
 "har döden ingenting fruktansvärt" (12:35).
 
 Häri ligger, som jag förstår det, en central del av Marcus
 filosofi. För om det är, som Marcus säger, att allt mänskligt är
 kortvarigt och eländigt och det inte gör någon skillnad huruvida
-du dör ung eller gammal, varför bry sig om att leva
-över huvud taget? För att i varje stund, i varje ögonblick du
-lever, har du möjligheten att göra det rätta. Och gör du det, vad
-än det rätta må vara, behöver du inte bekymra dig om någonting
-annat. Inte ens döden.
+du dör ung eller gammal, varför bry sig om att leva över huvud
+taget? För att i varje stund, i varje ögonblick du lever, har du
+möjligheten att göra det rätta. Och gör du det, vad än det rätta
+må vara, behöver du inte bekymra dig om någonting annat. Inte ens
+döden.
 
 
 ## Avslutning
 
 Marcus Aurelius är en spännande tänkare, och från honom finns
-mycket att lära. Dessutom finns det en spännande kontrast mellan
-hans maktposition och hans filosofi.
+mycket att lära. Det går även att finna en en spännande kontrast
+mellan hans maktposition och hans filosofi.
 
 Marcus var romersk kejsare när imperiet var som störst, vilket
 gör honom till en av historiens kanske mäktigaste män. Men enligt
@@ -293,10 +297,10 @@ föreställningar och känslor. Att det är en sådan filosofi denna
 maktmänniska fastnat för kanske säger något om den världsliga
 maktens natur.
 
-Även om jag uppskattar Självbetraktelser innehåller den också
-en hel del jag har svårt för. Den filosofi som presenteras är
-ofta plikttung, istället för livsbejakande. Det märks bland annat
-i denna vers:
+Även om jag uppskattar Självbetraktelser innehåller den också en
+hel del jag har svårt för. Den filosofi som presenteras är ofta
+plikttung på ett sätt som nästan står i motsats till det
+livsbejakande. Det märks bland annat i denna vers:
 
 > Eftersom man måste vara beredd på oväntade stötar och stå
 > orubbligt fast har levnadskonsten mera likhet med fäktkonsten
@@ -305,24 +309,25 @@ i denna vers:
 Livet handlar mer om att "stå orubbligt fast", att vara hård och
 tålig, än om dansens skapande lek.
 
-Marcus har dessutom en ganska nedvärderande syn på människorna i
-sin omgivning. Han är tydlig med att vi bör älska våra
-medmänniskor, men det är sälla han anser dem särskilt älskvärda.
-Älskandet hör snarare plikten och den mänskliga naturen till.
+Marcus har dessutom en ganska nedvärderande syn på människorna.
+Han är tydlig med att vi bör älska våra medmänniskor, men det är
+sällan han anser dem särskilt älskvärda. Älskandet hör snarare
+plikten, och den mänskliga naturen, till.
+
 Exempelvis har jag tidigare nämnt att det enligt Marcus inte
 finns någonting som kan göra dig mer tillfreds med döden än att
 betrakta de ting och människor som du kommer att skiljas ifrån.
-Liknande teman återkommer på andra håll i boken, bland annat
-skriver han: "Och dina medmänniskor! Knappt den angenämaste av
+Liknande teman återkommer på andra håll i boken, bland annat när
+han skriver: "Och dina medmänniskor! Knappt den angenämaste av
 dem är uthärdlig" (5:10).
 
 Men även om, och delvis på grund av, inte allt är lätt finns det
-mycket att hämta. Det finns lärdomar om att du, genom att
-förändra hur du betraktar din värld, kan förändra din värld. Om
-att du, genom att -- inom rimlighetens gräns -- acceptera och
-bejaka det som händer dig kan finna frid. Och att du, genom
-strävan att göra rätt sak i rätt tid, kan finna ett försvar mot
-självaste döden.
+i Självbetraktelser mycket att hämta. Det finns lärdomar om att
+du, genom att förändra hur du betraktar din värld, kan förändra
+din värld. Om att du, genom att -- inom rimlighetens gräns --
+acceptera och bejaka det som händer dig kan finna frid. Och att
+du, genom strävan att göra rätt sak i rätt tid, kan finna ett
+försvar mot självaste döden.
 
 > Gör dig bara fri från dina falska föreställningar. Då är du
 > räddad. Och vem kan hindra dig från denna frigörelse? (12:25).
