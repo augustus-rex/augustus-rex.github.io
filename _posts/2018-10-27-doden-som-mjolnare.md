@@ -120,9 +120,3 @@ kanske möjligt att själv få en skymt detta vackra och storslagna.
 Genom att möta döden vid sin kvarn, och tillsammans med döden
 lyssna till kvarnstenarnas sång, är det kanske möjligt att själv
 få en skymt av den glädje de sjunger om.
-
-- - -
-*Uppskattar du mina texter? [Klicka här][2] för att få mail om
-nya inlägg.*
-
-[2]: http://eepurl.com/dKMp0w	"Mailformulär"

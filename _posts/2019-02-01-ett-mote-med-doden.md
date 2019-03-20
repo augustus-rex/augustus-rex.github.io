@@ -47,9 +47,3 @@ src="/images/death-and-the-woodcutter.jpg" style="width:100%">
 
 	</figcaption>
 </figure>
-
-- - - 
-Uppskattar du mina texter? Se till att [prenumenera][sub] för
-att få mail om nya inlägg.
-
-[sub]: http://eepurl.com/dKMp0w	"Mailformulär"

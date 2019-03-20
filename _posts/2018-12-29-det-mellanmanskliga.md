@@ -318,9 +318,3 @@ lyder något likt detta:
    sätt av den andre. En parallell går att hitta i Jordan B.
    Petersons nionde livsregel: "Assume that the person you are
    listening to know something you don't."
-
-- - -
-*Gillar du det du läser? [Klicka här][sub] för att få mail om
-nya inlägg.*
-
-[sub]: http://eepurl.com/dKMp0w	"Mailformulär"

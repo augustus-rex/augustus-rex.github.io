@@ -165,9 +165,3 @@ jag skissat upp här är ett förslag till hur detta skulle kunna
 uppnås. Det är som sagt ett ganska grovt och outvecklat förslag,
 men förhoppningen är att det ska fungera som en utgångspunkt som
 kan förfinas och uppdateras allt eftersom.
-
----
-*Gillar du det du läser? Kom då ihåg att [prenumenera på nya
-inlägg][1].*
-
-[1]: http://eepurl.com/dKMp0w	"Mailformulär"

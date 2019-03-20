@@ -66,9 +66,3 @@ kärlek till eller acceptans av döden är därför en stympad kärlek.
 Då livet måste älskas för att på allvar levas, något jag är
 övertygad om, gäller även att döden måste älskas eller accepteras
 för att livet på allvar ska kunna levas.
-
---- 
-*Uppskattar du mina texter? Glöm då inte bort att
-[prenumenera på nya inlägg][1].*
-
-[1]: http://eepurl.com/dKMp0w	"Mailformulär"

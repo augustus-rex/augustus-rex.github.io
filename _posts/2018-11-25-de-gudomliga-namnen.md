@@ -292,10 +292,3 @@ Gud är:
 > and the Cause of all life and of all being, for out of its
 > goodness it commands all things to be and it keeps them going.
 > (s. 51).
-
-
-- - -
-*Uppskattar du mina texter? [Klicka här][2] för att få mail om
-nya inlägg.*
-
-[2]: http://eepurl.com/dKMp0w	"Mailformulär"
