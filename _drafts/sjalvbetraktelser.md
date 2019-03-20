@@ -7,9 +7,6 @@ title: En kejsares självbetraktelser
 (121--180 e.Kr.), romersk kejsare när imperiet var som störst.
 Men Marcus var inte bara kejsare, han var även stoisk filosof,
 och det är denne Marcus vi möter i Självbetraktelser.
-Stoicisismen var en av de stora filosofiskolorna i det antika
-Grekland, men den fick också fäste i romarriket genom tänkare
-såsom Cicero, Seneca -- och Marcus Aurelius.
 
 Självbetraktelser består av tolv delböcker, och i varje bok finns
 ett antal verser av varierande längd. Verserna är ofta
@@ -25,16 +22,26 @@ text kommer jag fördjupa mig i fyra sådana teman, nämligen:
 3. acceptera din död
 4. var god.
 
-Citat ur Självbetraktelser källhänvisas enligt modellen
-bok:vers. Hänvisningen 4:3 hänvisar alltså till den fjärde bokens
-tredje vers.
+Citat ur Självbetraktelser källhänvisas enligt modellen bok:vers.
+Hänvisningen 4:3 syftar alltså på den fjärde bokens tredje vers.
+
+<figure style="margin-bottom: 1.5em; margin-top: 2em;"> <img
+src="/images/marcus-aurelius-statue.jpg" style="width:100%">
+	<figcaption> 
+
+		Marcus Aurelius möter oss i två gestalter: som härskare
+		och som filosof. I Självbetraktelser möter vi filosofen
+		Marcus. I denna staty möter vi istället härskaren Marcus.
+
+	</figcaption>
+</figure>
 
 
 ## Yttervärlden berör dig inte, makten är din egen 
 
 Det första temat är klassiskt stoiskt. Det handlar om att
 yttervärlden, världen utanför dig själv, inte på allvar kan
-påverka ditt innersta, den makten har endast du själv.
+påverka ditt innersta. Den makten har endast du själv.
 
 > Av de sanningar, som alltid måste stå levande för dig är dessa
 > de två viktigaste: den ena, att yttervärlden inte kan snudda
@@ -48,13 +55,13 @@ problem är endast ett problem om du anser det vara ett.
 > Om ett yttre föremål orsakar dig lidande, så är det inte det
 > som stör din frid, utan ditt eget omdöme som gör det. Men att
 > ändra detta står i din egen makt. Har ditt lidande sin grund i
-> din sinnesstämning, vid hindrar dig då att ändra sinne? (8:94).
+> din sinnesstämning, vad hindrar dig då att ändra sinne? (8:94).
 
 Denna stoiska insikt är en insikt om makt över sitt eget liv.
 Genom att förminska yttervärldens relevans förflyttas makten till
-dig själv. Du har makt över hur du betraktar världen, och denna
-makt är allt. Yttervärldens förhållanden är inget, ditt
-förhållande till yttervärlden är allt.
+dig själv. Du har makt över hur du betraktar världen, och det är
+den makten som har värde. Yttervärldens förhållanden är inget,
+ditt förhållande till yttervärlden är allt.
 
 > Det som ligger utanför min tankevärld har ingen som helst
 > betydelse för den. Lär dig inse detta. Då står du orubblig.
@@ -68,7 +75,7 @@ ansvaret det. Om du felar är det din förtjänst, om du är olycklig
 att leva lyckligt ligger i vår själ" (11:16), och "allt du skulle
 vilja ha i framtiden kan du få redan nu" (12:1). Allt som krävs
 är att du förhåller dig korrekt till världen omkring dig, och att
-du handlar rätt.
+du handlar rättskaffens.
 
 
 ## Finn dig i ditt öde 
@@ -76,9 +83,9 @@ du handlar rätt.
 För att kunna förhålla dig korrekt till yttervärlden måste du
 finna dig i ditt öde. Du måste inse att det som sker är rätt och
 riktigt, och att det inte kan, eller bör, vara på något annat
-sätt. Enligt Marcus Aurelius har allt som händer "alltid varit
-förutbestämt", och orsakskedjan har sedan "begynnelsen
-sammanlänkat din tillvaro" med allt som händer dig" (10:5).
+sätt. Enligt Marcus Aurelius har allt som sker "alltid varit
+förutbestämt", och orsakskedjan har sedan begynnelsen
+sammanlänkat din tillvaro med allt som händer dig" (10:5).
 
 Detta är ingenting att våndas över. Allt som sker är nämligen
 ändamålsenligt. Precis som en läkare har sina botemedel och
@@ -98,7 +105,7 @@ och lugn.
 
 Men genom att inse tingens nödvändighet, genom att sluta streta
 emot, vinner vi inte bara frid. Vi lär oss även att se och ta
-tillvara på de möjligheter vi möter.
+tillvara på de möjligheter som är oss givna.
 
 > När det härskande inom oss följer sin natur ställer det sig
 > till vad som sker så att det alltid med lätthet finner sig i
@@ -114,28 +121,23 @@ förstånd som önskar så liknar "ögat som bara vill ha grönt att se
 eller tänderna som bara vill ha mjukt att tugga" (10:35).
 
 Att streta emot tingens ordning, att önska att saker var
-annorluna, det hör dårarna till. "Bara en dåre söker
-fikon vintertid. Bara en dåre längtar efter ett barn när ett
-sådant inte mera förunnas honom" (11:33). 
-
-En klok människa inser istället att om någonting borde varit
-annorlunda "skulle gudarna också ordnat det annorlunda". Av den
-enkla anledningen att saker inte är på ett visst sätt kan du vara
-förvissad om att det inte bör vara så. Enligt Marcus Aurelius
-gäller: "Hade det varit rätt, hade det även varit möjligt"
-(12:5).
+annorluna, det hör dårarna till. En klok människa inser istället
+att om någonting borde varit annorlunda "skulle gudarna också
+ordnat det annorlunda". Av den enkla anledningen att saker inte
+är på ett visst sätt kan du vara förvissad om att det inte bör
+vara så. Enligt Marcus Aurelius gäller: "Hade det varit rätt,
+hade det även varit möjligt" (12:5).
 
 
 ## Acceptera din död
 
 En av alla de saker vi måste finna oss i är döden -- vår egen,
 och andras. Döden är ett ständigt återkommande tema i
-Självbetraktelser, och till stor del handlar det om att förminska
-dödens betydelse och på så sätt göra den mindre skräckinjagande.
-
-Detta förminskande sker på ett antal olika sätt. Dels skriver
-Marcus om att döden inte innebär ett slut, utan endast en
-förvandling till någonting annat.
+Självbetraktelser, och Marcus verkar vilja hjälpa oss att hitta
+andra sätt att betrakta döden. Sätt som gör döden mindre
+skräckinjagande. Bland annat framhåller Marcus att döden inte
+innebär ett slut, utan endast en förvandling till någonting
+annat.
 
 > Omoget kart, druva, russin, allt förvandlas, men inte till ett
 > icke-varande utan endast till ett ännu icke varande. (11:35).
@@ -198,9 +200,9 @@ grenen som burit den" (4:45).
 
 ## Var god! 
 
-För att leva lyckligt räcker det inte med att endast acceptera
-allt som händer oss. Vi måste också handla rätt och vara goda.
-Det är vår främsta uppgift som människor.
+För att leva lyckligt räcker det inte att endast acceptera allt
+som händer oss. Vi måste också handla rätt och vara goda. Det är
+vår främsta uppgift som människor.
 
 > Lev inte som om du hade tusen år framför dig. Döden svävar över
 > dig. Så länge du fortfarande lever, så länge du fortfarande kan
@@ -221,7 +223,7 @@ sinnesstämning" (4:25).
 Marcus Aurelius menar att människans glädje består i sant
 mänskliga handlingar. Det sant mänskliga, vilket bör förstås som
 synonymt med det goda, definierar han som: "att hysa välvilja mot
-sina lika och förakt för de sinnliga drifterna, avviska falska
+sina lika och förakt för de sinnliga drifterna, avvisa falska
 föreställningar och begrunda allnaturen och dess verk" (8:26).
 
 Men mest vikt verkar Marcus lägga vid att visa kärlek och
@@ -239,10 +241,10 @@ behöver göra är att "lyssna till den gudomliga anden i vårt eget
 inre och uppriktigt tjäna den" (2:13).
 
 Värt att uppmärksamma är att i Marcus beskrivningar av det goda
-är handlingen är central. Godhet handlar om att göra gott, inte
+är handlandet centralt. Godhet handlar om att göra gott, inte
 endast att tänka gott. Att tänka gott är viktigt, men detta för
 att det leder till goda handlingar. Enligt Marcus Aurelius finns
-därför ingen skillnad "mellan det rätt tänkande och det rätt
+ingen skillnad "mellan det rätt tänkande och det rätt
 handlande förnuftet" (11:1).
 
 Genom att göra andra gott gör vi även gott mot oss själva. Varje
@@ -282,25 +284,25 @@ må vara, behöver du inte bekymra dig om någonting annat. Inte ens
 döden.
 
 
-## Avslutning
+## En lärorik, men inte helt enkel, skrift
 
 Marcus Aurelius är en spännande tänkare, och från honom finns
-mycket att lära. Det går även att finna en en spännande kontrast
+mycket att lära. Det går även att finna en spännande kontrast
 mellan hans maktposition och hans filosofi.
 
-Marcus var romersk kejsare när imperiet var som störst, vilket
-gör honom till en av historiens kanske mäktigaste män. Men enligt
+Marcus var romersk kejsare när imperiet var som störst. Det gör
+honom till en av historiens kanske mäktigaste män. Men enligt
 hans filosofi är människans makt över sin yttervärld klart
 begränsad, nästintill illusorisk. Ödet gör med dig som det
 behagar. Den makt du har gäller istället ditt inre: dina tankar,
 föreställningar och känslor. Att det är en sådan filosofi denna
-maktmänniska fastnat för kanske säger något om den världsliga
+maktens människa fastnat för kanske säger något om den världsliga
 maktens natur.
 
-Även om jag uppskattar Självbetraktelser innehåller den också en
-hel del jag har svårt för. Den filosofi som presenteras är ofta
-plikttung på ett sätt som nästan står i motsats till det
-livsbejakande. Det märks bland annat i denna vers:
+Även om jag uppskattar Självbetraktelser innehåller den en hel
+del jag har svårt för. Den filosofi som presenteras är ofta
+plikttung på ett sätt som nästan står i motsats till ett
+bejakande av livet. Det märks bland annat i denna vers:
 
 > Eftersom man måste vara beredd på oväntade stötar och stå
 > orubbligt fast har levnadskonsten mera likhet med fäktkonsten
@@ -314,7 +316,7 @@ Han är tydlig med att vi bör älska våra medmänniskor, men det är
 sällan han anser dem särskilt älskvärda. Älskandet hör snarare
 plikten, och den mänskliga naturen, till.
 
-Exempelvis har jag tidigare nämnt att det enligt Marcus inte
+Som exempel har jag tidigare nämnt att det enligt Marcus inte
 finns någonting som kan göra dig mer tillfreds med döden än att
 betrakta de ting och människor som du kommer att skiljas ifrån.
 Liknande teman återkommer på andra håll i boken, bland annat när
@@ -323,7 +325,7 @@ dem är uthärdlig" (5:10).
 
 Men även om, och delvis på grund av, inte allt är lätt finns det
 i Självbetraktelser mycket att hämta. Det finns lärdomar om att
-du, genom att förändra hur du betraktar din värld, kan förändra
+du, genom att ändra hur du betraktar din värld, kan förändra
 din värld. Om att du, genom att -- inom rimlighetens gräns --
 acceptera och bejaka det som händer dig kan finna frid. Och att
 du, genom strävan att göra rätt sak i rätt tid, kan finna ett

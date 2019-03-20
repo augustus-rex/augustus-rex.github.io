@@ -124,6 +124,8 @@ PARALELL TILL DET DAOISTISKA BEGREPPET WU-WEI
 > vitt som det är nyttigt och tjänligt för det stora hela.
 > (12:23).
 
+> Bara en dåre sköre fikon vintertid. Bara en dåre längtar efter
+> ett barn när ett sådant inte mera förunnas honom" (11:33). 
 
 # Var god!
 
