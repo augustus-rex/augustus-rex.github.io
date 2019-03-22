@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /marcus-aurelius-sjalvbetraktelser/
 title: En kejsares självbetraktelser
 ---
 
