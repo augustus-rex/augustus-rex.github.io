@@ -7,7 +7,7 @@ title: En kejsares självbetraktelser
 *Självbetraktelser* är en boksamling författad av Marcus Aurelius
 (121--180 e.Kr.), romersk kejsare när imperiet var som störst.
 Men Marcus var inte bara kejsare, han var även stoisk filosof,
-och det är denne Marcus vi möter i Självbetraktelser.
+och det är filsofen Marcus vi möter i Självbetraktelser.
 
 Självbetraktelser består av tolv delböcker, och i varje bok finns
 ett antal verser av varierande längd. Verserna är ofta
@@ -76,7 +76,7 @@ ansvaret det. Om du felar är det din förtjänst, om du är olycklig
 att leva lyckligt ligger i vår själ" (11:16), och "allt du skulle
 vilja ha i framtiden kan du få redan nu" (12:1). Allt som krävs
 är att du förhåller dig korrekt till världen omkring dig, och att
-du handlar rättskaffens.
+du gör det rätta.
 
 
 ## Finn dig i ditt öde 
@@ -85,8 +85,8 @@ För att kunna förhålla dig korrekt till yttervärlden måste du
 finna dig i ditt öde. Du måste inse att det som sker är rätt och
 riktigt, och att det inte kan, eller bör, vara på något annat
 sätt. Enligt Marcus Aurelius har allt som sker "alltid varit
-förutbestämt", och orsakskedjan har sedan begynnelsen
-sammanlänkat din tillvaro med allt som händer dig" (10:5).
+förutbestämt" (10:5), och orsakskedjan har sedan begynnelsen
+sammanlänkat din tillvaro med allt som händer dig.
 
 Detta är ingenting att våndas över. Allt som sker är nämligen
 ändamålsenligt. Precis som en läkare har sina botemedel och
@@ -114,7 +114,7 @@ tillvara på de möjligheter som är oss givna.
 
 Men livet är ofta tungt, och det som sker ofta grymt. Även det
 tunga måste vi acceptera, även det grymma bör vi älska. Ett sunt
-förstånd måste, enligt Marcus Aurelius, "tillgodogöra sig allt
+förstånd måste, enligt Marcus, "tillgodogöra sig allt
 som sker". Det är därför fel av förståndet att önska: "Måtte
 barnen inte dö!". Även våra barns död hör till det som vi måste
 acceptera, hör till det som är ändamålsenligt och gagneligt. Ett
@@ -167,15 +167,15 @@ anledning kan "en fyrtioåring, om han bara har vaken blick, anse
 sig ha skådat allt som har varit och kommer att vara" (11:1).
 
 Marcus menar vidare att den enda tid en människa äger är det
-närvarande ögonblicket, och det är därför den enda tid hon kan
-förlora. "Det närvarande ögonblicket är av samma längd för alla
-och det svunna likaså; även det ter sig så som bara ett
-ögonblick. Varken det förflutna eller framtiden kan man förlora"
-(2:14). Det gör därför ingen större skillnad huruvida du dör
-gammal eller ung. I båda fallen går du miste om samma sak: det
-närvarande ögonblicket.
+närvarande ögonblicket, och det är den enda tid hon kan förlora.
+"Det närvarande ögonblicket är av samma längd för alla och det
+svunna likaså; även det ter sig så som bara ett ögonblick. Varken
+det förflutna eller framtiden kan man förlora" (2:14). Det gör
+därför ingen större skillnad huruvida du dör gammal eller ung. I
+båda fallen går du miste om samma sak: det närvarande
+ögonblicket.
 
-Aurelius har också en återkommande tendens att nedvärdera
+Marcus har dessutom en återkommande tendens att nedvärdera
 människorna i sin omgivning. Exempelvis menar han att "väl
 ingenting [kan] göra dig mer tillfreds med döden än betraktelsen
 av de ting och de människor som du snart kommer att skiljas
@@ -252,7 +252,7 @@ Genom att göra andra gott gör vi även gott mot oss själva. Varje
 gång jag gör något allmännyttigt "har jag själv fördel av det"
 (11:4). Detta hänger delvis samman med att människan, enligt
 Marcus, alltid bör handla i enlighet med sin natur. Att göra gott
-mot andra är en viktig del av denna natur, och det är därför sin
+mot andra är en viktig del av denna natur och det är därför sin
 egen belöning. 
 
 > För när du gör människorna gott, vad mera kan du då begära? Är
@@ -285,7 +285,7 @@ må vara, behöver du inte bekymra dig om någonting annat. Inte ens
 döden.
 
 
-## En lärorik, men inte helt enkel, skrift
+## En lärorik, men delvis svårsmält, skrift
 
 Marcus Aurelius är en spännande tänkare, och från honom finns
 mycket att lära. Det går även att finna en spännande kontrast
