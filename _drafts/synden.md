@@ -10,12 +10,13 @@ det finns där, i någon mån, är jag övertygad om.
 
 Detta ansvar tar sig uttryck på olika sätt. Ett sådant uttryck är
 de mänskliga rättigheterna. En rättighet är blott tomma ord om
-den inte motsvaras av ett ansvar. Om jag har rättigheten att GÖRA
-NÅGOT, har andra ett ansvar för att INTE HINDRA MIG.
+den inte motsvaras av ett ansvar. Om jag har rättigheten att till
+liv, har du ett ansvar för att inte beröva mig detta liv. Har jag
+rättigheten för NÅGOT ANNAT, har du ett ansvar för NÅGOT.
 
 Ett annat uttryck för detta ansvar är synden. Vi misslyckas
-ständigt med att leva upp till det ansvar som är oss givet, och
-däri ligger synden.
+ständigt med att leva upp till det ansvar som är oss givet; däri
+ligger synden.
 
 I nya testamentet är det ord som används för synd grekiskans
 "XXX". Det betyder att missa målet, liksom en bågman missar
@@ -38,10 +39,22 @@ om i ett [tidigare inlägg]) Gud som "the Life of the living",
 
 Att närma sig Gud är alltså att närma sig källan till allt liv,
 allt varande och all godhet. Det är denna källa som synden
-avskiljer oss ifrån. Vill vi det goda (vilket vi, i regel, vill),
-strävar vi efter att främja liv och växt (vilket vi, i regel,
-gör), är det Gud vi siktar mot. Gud är måltavlan som vi i synden
-missar.
+avskiljer oss ifrån. Vill vi det goda (vilket vi, i regel, vill)
+,strävar vi efter att främja liv och växt (vilket vi, i regel,
+gör), är det Gud vi siktar mot. Gud är måltavlan som vi i
+synden missar.
+
+Kanske är en aspekt av vad Gud är just en personifiering av det
+ansvar vi bär på. Om det stämmer att synda, som jag skrivit ovan,
+både är att brista i vårt ansvar och att "missa Gud" är det ingen
+orilmlig tanke. 
+
+En sak som slog mig när jag gick igenom de synder som enligt den
+katolska läran betraktas som särskilt allvarliga är att de alla
+är något som, mer eller mindre direkt, görs mot andra människor.
+Synden är av sin natur social; den är ett brott mot eller en
+oförmåga att leva upp till vårt ansvar för en annan människa
+eller en samhällelig gemenskap.
 
 Men att sikta rätt är ingen enkel sak. Jesus säger: "Var
 fullkomlig såsom din fader i himlen är fullkomlig" (KÄLLA). Det
