@@ -33,43 +33,40 @@ avskiljare, något som skiljer en landmassa från en annan. Likaså
 
 Gud kan vara många olika saker och förstås på många olika sätt.
 Ett sätt att förstå Gud är som Varandet, Godheten och Livet
-självt. Exempelvis benämner Dionysios Areopagiten (som jag skrivit
-om i ett [tidigare inlägg]) Gud som "the Life of the living",
-"the being of beings" och "the inexpressible Good".
+självt. Exempelvis benämner Dionysios Areopagiten (som jag
+skrivit om i ett [tidigare inlägg][dionysios]) Gud som "the Life
+of the living", "the being of beings" och "the inexpressible
+Good".
+
+[dionysios] /de-gudomliga-namnen/ "Guds offatbarhet -- och hans heliga namn"
 
 Att närma sig Gud är alltså att närma sig källan till allt liv,
 allt varande och all godhet. Det är denna källa som synden
-avskiljer oss ifrån. Vill vi det goda (vilket vi, i regel, vill)
-,strävar vi efter att främja liv och växt (vilket vi, i regel,
-gör), är det Gud vi siktar mot. Gud är måltavlan som vi i
-synden missar.
+avskiljer oss ifrån. Vill vi det goda (vilket vi, i regel, vill),
+strävar vi efter att främja liv och växt (vilket vi, i regel,
+gör), är det Gud vi siktar mot. Gud är måltavlan som vi i synden
+missar.
 
 Kanske är en aspekt av vad Gud är just en personifiering av det
 ansvar vi bär på. Om det stämmer att synda, som jag skrivit ovan,
 både är att brista i vårt ansvar och att "missa Gud" är det ingen
 orilmlig tanke. 
 
-En sak som slog mig när jag gick igenom de synder som enligt den
-katolska läran betraktas som särskilt allvarliga är att de alla
-är något som, mer eller mindre direkt, görs mot andra människor.
-Synden är av sin natur social; den är ett brott mot eller en
-oförmåga att leva upp till vårt ansvar för en annan människa
-eller en samhällelig gemenskap.
-
-Men att sikta rätt är ingen enkel sak. Jesus säger: "Var
-fullkomlig såsom din fader i himlen är fullkomlig" (KÄLLA). Det
-är mot fullkomligheten vi ska sträva, men vi är inte fullkomliga
-varelser. Vi är fallna och missar ständigt målet -- syndar
-ständigt -- på ett eller annat sätt. Vi envisas med att göra det
-vi vet är fel. Vi avstår från att göra det vi vet är rätt. Och vi
-misslyckas med att göra det rätta till och med när vi försöker.
+Gud är alltså måltavlan, men att sikta rätt är ingen enkel sak.
+Jesus säger: "Var fullkomlig såsom din fader i himlen är
+fullkomlig" (KÄLLA). Det är mot fullkomligheten vi ska sträva,
+men vi är inte fullkomliga varelser. Vi är fallna och missar
+ständigt målet, syndar ständigt, på ett eller annat sätt. Vi
+envisas med att göra det vi vet är fel. Vi avstår från att göra
+det vi vet är rätt. Och vi misslyckas med att göra det rätta till
+och med när vi försöker.
 
 
 ## Nåd och förlåtelse
 
 Då vi alla syndar är vi alla i behov av nåden och förlåtelsen.
-Att leva är, till viss del, att misslyckas. Och att misslyckas är
-tungt. 
+Att leva är, till viss del, att misslyckas -- och att misslyckas
+är tungt. 
 
 I somras pratade jag med en vän som mådde dåligt. Hen hade haft
 en särskilt tung natt och morgonen efter talades vi vid. När jag
@@ -85,13 +82,13 @@ mådde dåligt, men istället fått henom att må ännu sämre. Det
 kändes tungt. Jag var inte fullkomlig nog för att vara det stöd
 min vän behövde.
 
-När en har ansträngt sig för att göra det en tror är rätt, och
+När en har ansträngt sig för att göra det en tror är rätt, men
 istället bara förvärrat situationen, är det lätt hänt att vilja
-ge upp och avsäga sig sitt ansvar. Men det är -- åtminstone i
-de flesta fall -- fel sak att göra. En av Jordan B. Petersons tolv
+ge upp och avsäga sig sitt ansvar. Men det är -- åtminstone i de
+flesta fall -- fel sak att göra. En av Jordan B. Petersons tolv
 livsregler lyder: "Do what is meaningful, not what is expedient."
 Att ge upp och avsäga sig sitt ansvar är ofta "expedient",
-egennyttigt eller enkelt. Men det är sällan det meningsfulla --
+egennyttigt eller enkelt, men det är sällan det meningsfulla --
 eller det rätta.
 
 I sådana stunder kan nåden och förlåtelsen vara till hjälp. Nåden
@@ -103,27 +100,6 @@ dess spår -- väga för tungt.
 Alternativet till förlåtelsen är domen. Att misslyckas när ingen
 förlåtelse finns att få är att vara dömd -- och vem orkar axla
 sitt ansvar, sitt kors, om allt som väntar en är domen?
-Förlåtelsen ger oss kraft nog att axla det ansvar som är oss
-givet, och att återställa oss och få oss på fötter igen efter
-vi har fallit.
+Förlåtelsen kan ge oss kraft nog att axla det ansvar som är oss
+givet, och att få oss på fötter igen efter vi har fallit.
 
-
-## Den kollektiva synden
-
-En traditionell tanke inom kristendomen är att vi som människor
-föds syndiga. Vi har alla del av den ursprungliga synden i Eden
-när Adam och Eva åt av äpplet. Detta kan synas orättvist. Hur kan
-vi belastas för något vi inte själva har gjort? 
-
-Vi bebor alla system som är syndiga i sin natur. System som vi
-inte har något annat var än att spela med i, mer eller mindre
-motsträvigt. Ett exempel på detta syns i klimatfrågan. Det
-samhällsystem vi bebor är på många sätt i grunden ohållbart.
-Systemet leder till att vi misslyckas att ta hand om vår planet,
-att ta hand om skapelsen, på ett vettigt sätt -- och därför
-misslyckas med att leva upp till vårt ansvar för densamma.
-
-Den pågående klimatkrisen är på många sätt en kollektiv synd. En
-synd vi alla deltar i. Genom det enkla faktum att du fötts och
-finns till deltar du i de samhällsstrukturer som förtrycker
-skapelsen. 
