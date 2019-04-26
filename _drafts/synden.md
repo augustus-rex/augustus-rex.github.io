@@ -4,13 +4,13 @@ title: Synd, nåd och förlåtelse
 ---
 
 Alla bär vi på ett ansvar. Ett ansvar för oss själva, ett ansvar
-för varandra och ett ansvar för skapelsen. Exakt vart ansvaret
+för varandra, ett ansvar för skapelsen. Exakt vart ansvaret
 kommer ifrån, eller hur omfattande det är, vet jag inte. Men att
 det finns där, i någon mån, är jag övertygad om.
 
 Detta ansvar tar sig uttryck på olika sätt. Ett sådant uttryck är
 de mänskliga rättigheterna. En rättighet är blott tomma ord om
-den inte motsvaras av ett ansvar. Om jag har rättigheten att till
+den inte motsvaras av ett ansvar. Om jag har rättigheten till
 liv, har du ett ansvar för att inte beröva mig detta liv. Har jag
 rättigheten för NÅGOT ANNAT, har du ett ansvar för NÅGOT.
 
@@ -23,7 +23,7 @@ I nya testamentet är det ord som används för synd grekiskans
 piltavlan. I det gamla testamente är det istället det hebreiska
 ordet "XXX" som används, vilket har en liknande innebörd. Att
 synda är att missa målet. Det är att misslyckas med att göra det
-rätta, att brista i vårt ansvar. 
+rätta, att brista i vårt ansvar. KOLLA ORD
 
 Det svenska ordet "synd" har ett annat ursprung. Det härstammar
 ur tyskans "sünde" viket betyder sund (som i substantivet "ett
@@ -43,23 +43,23 @@ Good".
 Att närma sig Gud är alltså att närma sig källan till allt liv,
 allt varande och all godhet. Det är denna källa som synden
 avskiljer oss ifrån. Vill vi det goda (vilket vi, i regel, vill),
-strävar vi efter att främja liv och växt (vilket vi, i regel,
+strävar vi efter att främja liv och växt KOLLA (vilket vi, i regel,
 gör), är det Gud vi siktar mot. Gud är måltavlan som vi i synden
 missar.
 
 Kanske är en aspekt av vad Gud är just en personifiering av det
-ansvar vi bär på. Om det stämmer att synda, som jag skrivit ovan,
-både är att brista i vårt ansvar och att "missa Gud" är det ingen
-orilmlig tanke. 
+ansvar vi bär på. Om det jag skrivit ovan stämmer, att synda både
+innebär att brista i vårt ansvar och att "missa Gud", är det
+ingen orilmlig tanke. 
 
-Gud är alltså måltavlan, men att sikta rätt är ingen enkel sak.
-Jesus säger: "Var fullkomlig såsom din fader i himlen är
-fullkomlig" (KÄLLA). Det är mot fullkomligheten vi ska sträva,
-men vi är inte fullkomliga varelser. Vi är fallna och missar
-ständigt målet, syndar ständigt, på ett eller annat sätt. Vi
-envisas med att göra det vi vet är fel. Vi avstår från att göra
-det vi vet är rätt. Och vi misslyckas med att göra det rätta till
-och med när vi försöker.
+Gud är alltså måltavlan vi siktar mot, men att sikta rätt är
+ingen enkel sak. Jesus säger: "Var fullkomlig såsom din fader i
+himlen är fullkomlig" (KÄLLA). Det är mot fullkomligheten vi ska
+sträva, men vi är inte fullkomliga varelser. Vi är fallna och
+missar ständigt målet, syndar ständigt, på ett eller annat sätt.
+Vi envisas med att göra det vi vet är fel. Vi avstår från att
+göra det vi vet är rätt. Och vi misslyckas med att göra det rätta
+till och med när vi försöker.
 
 
 ## Nåd och förlåtelse
@@ -87,7 +87,7 @@ istället bara förvärrat situationen, är det lätt hänt att vilja
 ge upp och avsäga sig sitt ansvar. Men det är -- åtminstone i de
 flesta fall -- fel sak att göra. En av Jordan B. Petersons tolv
 livsregler lyder: "Do what is meaningful, not what is expedient."
-Att ge upp och avsäga sig sitt ansvar är ofta "expedient",
+Att ge upp och avsäga sig sitt ansvar är ofta "expedient" SLÅ UPP,
 egennyttigt eller enkelt, men det är sällan det meningsfulla --
 eller det rätta.
 
